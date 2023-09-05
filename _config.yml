@@ -13,8 +13,8 @@ name                     : &name ""
 description              : &description "Applied AI Research @ P360"
 url                      : https://risabbiswas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/RisabBiswas/RisabBiswas.github.io"
-teaser                   : "images/Risab Biswas PP.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "RisabBiswas/RisabBiswas.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Risab Biswas"
-  avatar           : "images/Risab Biswas PP.png"
+  avatar           : "Risab.png"
   bio              : "Applied AI Research @ P360"
   location         : "Location"
   employer         :
