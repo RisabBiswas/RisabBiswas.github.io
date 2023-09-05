@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Risab Biswas"
-  avatar           : "Risab_1.png"
-  bio              : "Applied AI Research @ P360"
-  location         : "Location"
+  avatar           : "Risab2.jpg"
+  bio              : "Applied AI Research @, <a style='color: black;' href='http://p360.com'>P360</a> "
+  location         : "India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Z4SSEsUAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "risabbiswas19@gmial.com"
+  researchgate     : "https://www.researchgate.net/profile/Risab-Biswas"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/RisabBiswas"
   google_plus      :
   keybase          :
   instagram        :
