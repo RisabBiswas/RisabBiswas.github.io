@@ -9,10 +9,10 @@
 locale                   : "en-US"
 title                    : "Risab Biswas"
 title_separator          : "-"
-name                     : &name "Risab Biswas"
+name                     : &name ""
 description              : &description "Applied AI Research @ P360"
 url                      : https://risabbiswas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://risabbiswas.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
