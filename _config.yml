@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Risab Biswas"
-  avatar           : "images/bio-photo.jpg"
+  avatar           : "images/Risab Biswas PP.png"
   bio              : "Applied AI Research @ P360"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Z4SSEsUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/risab-biswas/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
