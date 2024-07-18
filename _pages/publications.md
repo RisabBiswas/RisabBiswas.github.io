@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"> my Google Scholar profile </a> <br>
+You can also find my articles on <a href="https://scholar.google.com/citations?user=Z4SSEsUAAAAJ&hl=en"> my Google Scholar profile </a> <br>
 
 <strong>Publications</strong> <br>
 
@@ -12,8 +12,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/5g_spraying-adrian-salazar-gomez-website.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Simon Parsons. <br> <strong> Towards practical object detection for weed spraying in precision agriculture </strong> <br>
-<i> In arXiv, submitted to international conference in robotics and automation 2022 (ICRA 2022) <a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> <a href=" https://github.com/LAR/lincolnbeet_dataset"> [DATASET] </a>  </i>  </p> </td>
+Risab Biswas; Avirup Basu; Abhishek Nandy; Arkaprova Deb; Kazi Haque; Debashree Chanda. <br> <strong> Drug discovery and drug identification using AI </strong> <br> <a href="https://ieeexplore.ieee.org/abstract/document/9181309"> [LINK] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>
