@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Risab Biswas"
   avatar           : "Risab_1.png"
-  bio              : "Applied AI Research @ <a style='color: black;' href='http://p360.com'>P360</a> "
+  bio              : "Principal Engineer - AI @ <a style='color: black;' href='http://p360.com'>P360</a> "
   location         : "Jalpaiguri, India"
   employer         :
   pubmed           : 
