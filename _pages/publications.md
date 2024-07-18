@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Towards practical object detection for weed spraying in precision agriculture </strong> <br>
 Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Simon Parsons. <br>
-<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
+<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> &ensp; <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
 </tr>
 </tbody>
 </table>
@@ -25,7 +25,7 @@ Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Si
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Towards practical object detection for weed spraying in precision agriculture </strong> <br>
 Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Simon Parsons. <br>
-<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
+<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> &ensp; <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +36,7 @@ Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Si
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Towards practical object detection for weed spraying in precision agriculture </strong> <br>
 Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Simon Parsons. <br>
-<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
+<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> &ensp; <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
 </tr>
 </tbody>
 </table>
@@ -47,7 +47,7 @@ Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Si
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Towards practical object detection for weed spraying in precision agriculture </strong> <br>
 Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Simon Parsons. <br>
-<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
+<a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> &ensp; <a href=" https://github.com/LAR/lincolnbeet_dataset"> [LINK] </a> </p> </td>
 </tr>
 </tbody>
 </table>
