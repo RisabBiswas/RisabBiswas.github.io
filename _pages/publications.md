@@ -11,8 +11,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <table >
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/5g_spraying-adrian-salazar-gomez-website.png" width="120px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-Risab Biswas; Avirup Basu; Abhishek Nandy; Arkaprova Deb; Kazi Haque; Debashree Chanda. <br> <strong> Drug discovery and drug identification using AI </strong> <br> <a href="https://ieeexplore.ieee.org/abstract/document/9181309"> [LINK] </a>  </i>  </p> </td>
+<td style= "height=120px; vertical-align: top;"> 
+<p>
+<strong> Drug discovery and drug identification using AI </strong> <br>
+Risab Biswas; Avirup Basu; Abhishek Nandy; Arkaprova Deb; Kazi Haque; Debashree Chanda. <br>  <a href="https://ieeexplore.ieee.org/abstract/document/9181309"> [LINK] </a>   </p> </td>
 </tr>
 </tbody>
 </table>
