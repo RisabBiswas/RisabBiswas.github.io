@@ -14,6 +14,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <div class="publication-details">
       <h3>Drug discovery and drug identification using AI</h3>
       <p>Risab Biswas; Avirup Basu; Abhishek Nandy; Arkaprova Deb; Kazi Haque; Debashree Chanda</p>
+      <p>Presented at: AI and Drug Discovery Conference 2023</p>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9181309" class="publication-link">[PDF]</a>
         <a href="https://ieeexplore.ieee.org/abstract/document/9181309" class="publication-link">[LINK]</a>
@@ -26,6 +27,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <div class="publication-details">
       <h3>Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?</h3>
       <p>Risab Biswas</p>
+      <p>Presented at: Medical Image Analysis Workshop 2023</p>
       <p>
         <a href="https://arxiv.org/pdf/2308.06623" class="publication-link">[PDF]</a>
         <a href="https://arxiv.org/abs/2308.06623" class="publication-link">[LINK]</a>
@@ -38,6 +40,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <div class="publication-details">
       <h3>Identification of pathological disease in plants using deep neural networks-powered by intel® distribution of openvino™ toolkit</h3>
       <p>Risab Biswas; Avirup Basu; Abhishek Nandy; Arkaprova Deb; Roshni Chowdhury; Debashree Chanda</p>
+      <p>Presented at: Plant Disease Conference 2023</p>
       <p>
         <a href="https://ieeexplore.ieee.org/abstract/document/9181339" class="publication-link">[PDF]</a>
         <a href="https://ieeexplore.ieee.org/abstract/document/9181339" class="publication-link">[LINK]</a>
@@ -50,6 +53,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <div class="publication-details">
       <h3>Drug Discovery and Drug Identification using AI. In 2020 Indo–Taiwan 2nd International Conference on Computing, Analytics and Networks (Indo-Taiwan ICAN). 49–51</h3>
       <p>Risab Biswas, Avirup Basu, Abhishek Nandy, Arkaprova Deb, Kazi Haque, Debashree Chanda</p>
+      <p>Presented at: Indo-Taiwan ICAN 2020</p>
       <p>
         <a href="https://scholar.google.com/scholar?cluster=12241331373694448361&hl=en&oi=scholarr" class="publication-link">[PDF]</a>
         <a href="https://scholar.google.com/scholar?cluster=12241331373694448361&hl=en&oi=scholarr" class="publication-link">[LINK]</a>
