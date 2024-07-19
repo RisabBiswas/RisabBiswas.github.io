@@ -66,10 +66,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   }
   .publication-item {
     display: flex;
-    border: 1px solid #ddd;
     padding: 10px;
     border-radius: 5px;
     background-color: #f9f9f9;
+    transition: box-shadow 0.3s ease;
+  }
+  .publication-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
   .publication-item img {
     width: 120px;
