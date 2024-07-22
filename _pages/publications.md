@@ -174,6 +174,6 @@ author_profile: true
 
 <style>
   .publications table {
-    margin-bottom: 5px; /* Adjust this value as needed */
+    margin-bottom: 3px; /* Adjust this value as needed */
   }
 </style>
