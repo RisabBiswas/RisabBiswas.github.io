@@ -89,7 +89,6 @@ author_profile: true
 
 <strong>Publications</strong> <br>
 
-<div class="publications">
 <table style="border: none; border-collapse: collapse;">
 <tbody>
 <tr> 
@@ -169,11 +168,3 @@ author_profile: true
 </tr>
 </tbody>
 </table>
-
-</div>
-
-<style>
-  .publications table {
-    margin-bottom: 3px; /* Adjust this value as needed */
-  }
-</style>
