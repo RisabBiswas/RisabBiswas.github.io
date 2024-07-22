@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-### Updates
+### <span style="font-size: 15px;">Updates</span>
 
 - **[May. 2024]** Graduated with an M.Tech in Data Science and Engineering from [BITS Pilani](https://www.bits-pilani.ac.in/)!
 - **[Apr. 2024]** Promoted to the role of Principal AI Engineer at [P360](https://www.p360.com/leadership/). Excited for the new role!
@@ -22,7 +22,7 @@ redirect_from:
 - **[Feb. 2023]** Honored to receive the [Citizenship Award](https://www.linkedin.com/posts/activity-7031705908409712641-huup?utm_source=share&utm_medium=member_desktop) from P360 in recognition of my 5 years of dedication and contributions!
 - **[Jan. 2023]** Became a [Kaggle Discussion Expert](https://www.kaggle.com/risabbiswas19), Highest Rank - 745.
 
-### Contact Me
+### <span style="font-size: 15px;">Contact Me</span>
 Feel free to reach out to me:
 - **[Email 📩](mailto:risabbiswas19@gmail.com)**
 - **[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)**
