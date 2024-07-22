@@ -19,7 +19,7 @@ redirect_from:
 ### <span style="font-size: 15px; color: #1B1212;">Updates</span>
 - <span style="font-size: 15px; color: #1B1212;">**[May. 2024]** Graduated with an M.Tech in Data Science and Engineering from <a href="https://www.bits-pilani.ac.in/" style="color: #4040FF; text-decoration: none;">BITS Pilani</a>!</span>
 - <span style="font-size: 15px; color: #1B1212;">**[Apr. 2024]** Promoted from Tech Lead to Principal AI Engineer at <a href="https://www.p360.com/leadership/" style="color: #4040FF; text-decoration: none;">P360</a>. Excited for the new role!</span>
-- <span style="font-size: 15px; color: #1B1212;">**[Mar. 2024]** Successfully defended my <a href="https://arxiv.org/pdf/2406.03173" style="color: #4040FF; text-decoration: none;">master's thesis</a>.</span>
+- <span style="font-size: 15px; color: #1B1212;">**[Mar. 2024]** Successfully defended my <a href="https://arxiv.org/pdf/2406.03173" style="color: #4040FF; text-decoration: none;">Master's Thesis</a>.</span>
 - <span style="font-size: 15px; color: #1B1212;">**[Dec. 2023]** The preprint of our paper, <a href="https://arxiv.org/abs/2312.03568" style="color: #4040FF; text-decoration: none;">DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization</a>, is now available on arXiv.</span>
 - <span style="font-size: 15px; color: #1B1212;">**[Dec. 2023]** The preprint of our paper, <a href="https://arxiv.org/abs/2312.03946" style="color: #4040FF; text-decoration: none;">A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement
 </a>, is now available on arXiv.</span>
