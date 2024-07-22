@@ -67,6 +67,26 @@ author_profile: true
 </tbody>
 </table>
 
+<table style="border: none; border-collapse: collapse;">
+<tbody>
+<tr> 
+  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/T2T-BinFormer.png" width="200px" height="150px"> 
+  </td>
+  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
+    <p>
+      Risab Biswas, Swalpa Kumar Roy, Umapada Pal<br> 
+      <strong>A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement</strong> <br>
+      <i> Preprint, Arxiv, 2023 
+      <a href="https://arxiv.org/abs/2312.03946" style="color: blue; text-decoration: none;"> [Paper] </a> 
+      <a href="https://github.com/RisabBiswas/T2T-BinFormer" style="color: blue; text-decoration: none;"> [Code] </a>
+      </i>  
+    </p> 
+  </td>
+</tr>
+</tbody>
+</table>
+
 <strong>Publications</strong> <br>
 
 <table style="border: none; border-collapse: collapse;">
