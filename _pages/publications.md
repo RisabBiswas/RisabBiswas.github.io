@@ -80,7 +80,7 @@ author_profile: true
     <p>
       Risab Biswas, Chaitanya Kaul <br> 
       <strong>Multi-Task Multi-Scale Contrastive Knowledge Distillation for Efficient Medical Image Segmentation</strong> <br>
-      <i> Preprint, Arxiv, 2023 
+      <i> Preprint, Arxiv, 2024 
       <a href="https://arxiv.org/pdf/2406.03173" style="color: blue; text-decoration: none;"> [Paper] </a> 
       <a href="https://github.com/RisabBiswas/MTMS-Med-Seg-KD" style="color: blue; text-decoration: none;"> [Code] </a>
       </i>  
