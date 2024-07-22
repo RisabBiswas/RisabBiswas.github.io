@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Risab Biswas"
-theme                    : "jekyll-theme-minimal"
+theme                    : "minima"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Applied AI Research @ P360"

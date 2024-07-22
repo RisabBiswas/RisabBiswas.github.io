@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: 👋🏼 Hello there, I’m Risab!
 author_profile: true
 redirect_from: 
   - /about/
