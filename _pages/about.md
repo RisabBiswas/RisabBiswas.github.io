@@ -14,7 +14,7 @@ redirect_from:
 
 <span style="font-size: 15px; color: #1B1212;">Apart from my job and research, I have been actively involved in the community. Since 2018, I have been a part of the <a href="https://devmesh.intel.com/users/risab-biswas" style="text-decoration: none; color: #4040FF;">Intel Innovator's Program</a> and was recognized as the top innovator in 2019. In 2020, I was awarded the first <a href="https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="text-decoration: none; color: #4040FF;">Devmesh AI Spotlight Award</a>. I also co-organized the Google Developer Group in Siliguri. I have received both hardware and monetary grants from Intel under their Early Innovation Challenge to support my research projects.
 
-<span style="font-size: 15px; color: #1B1212;"><strong>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</strong></span> 
+<span style="font-size: 15px; color: #1B1212;"><em>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</em></span>
 
 
 ### <span style="font-size: 15px; color: #1B1212;">Updates</span>
@@ -29,5 +29,5 @@ redirect_from:
 
 
 ### <span style="font-size: 15px; color: #1B1212;">Contact Me</span>
-- <span style="font-size: 15px; color: #1B1212;"><a href="mailto:risabbiswas19@gmail.com" style="color: #4040FF;">Email 📩</a></span>
-- <span style="font-size: 15px; color: #1B1212;"><a href="https://www.linkedin.com/in/risab-biswas/" style="color: #4040FF;">LinkedIn 🙌</a></span>
+- <span style="font-size: 15px; color: #1B1212;"><a href="mailto:risabbiswas19@gmail.com" style="color: #4040FF; text-decoration: none;">Email 📩</a></span>
+- <span style="font-size: 15px; color: #1B1212;"><a href="https://www.linkedin.com/in/risab-biswas/" style="color: #4040FF; text-decoration: none;">LinkedIn 🙌</a></span>
