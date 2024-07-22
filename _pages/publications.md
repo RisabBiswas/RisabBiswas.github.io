@@ -1,5 +1,4 @@
 ---
-title: "My Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -21,6 +20,46 @@ author_profile: true
       <i> Proceedings of the Fourteenth Indian Conference on Computer Vision, Graphics and Image Processing, 2023 
       <a href="https://dl.acm.org/doi/abs/10.1145/3627631.3627639" style="color: blue; text-decoration: none;"> [Paper] </a> 
       <a href="https://github.com/RisabBiswas/TransDocUNet" style="color: blue; text-decoration: none;"> [Code] </a>
+      </i>  
+    </p> 
+  </td>
+</tr>
+</tbody>
+</table>
+
+<table style="border: none; border-collapse: collapse;">
+<tbody>
+<tr> 
+  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Plant_Disease.png" width="200px" height="200px"> 
+  </td>
+  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
+    <p>
+      Risab Biswas, Avirup Basu, Abhishek Nandy, Arkaprova Deb, Roshni Chowdhury, Debashree Chanda <br> 
+      <strong>Identification of Pathological Disease in Plants using Deep Neural Networks</strong> <br>
+      <i> Indo–Taiwan 2nd International Conference on Computing, Analytics and Networks (Indo-Taiwan ICAN), 2020 
+      <a href="https://ieeexplore.ieee.org/abstract/document/9181339" style="color: blue; text-decoration: none;"> [Paper] </a> 
+      <a href="https://www.researchgate.net/publication/344057486_Identification_of_Pathological_Disease_in_Plants_using_Deep_Neural_Networks_-_Powered_by_IntelR_Distribution_of_OpenVINO_Toolkit" style="color: blue; text-decoration: none;"> [PDF] </a>
+      </i>  
+    </p> 
+  </td>
+</tr>
+</tbody>
+</table>
+
+<table style="border: none; border-collapse: collapse;">
+<tbody>
+<tr> 
+  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Drug Discovery.png" width="200px" height="200px"> 
+  </td>
+  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
+    <p>
+      Risab Biswas, Avirup Basu, Abhishek Nandy, Arkaprova Deb, Kazi Haque, Debashree Chanda <br> 
+      <strong>Drug Discovery and Drug Identification using AI</strong> <br>
+      <i> Indo–Taiwan 2nd International Conference on Computing, Analytics and Networks (Indo-Taiwan ICAN), 2020 
+      <a href="https://ieeexplore.ieee.org/abstract/document/9181309/" style="color: blue; text-decoration: none;"> [Paper] </a> 
+      <a href="https://www.researchgate.net/publication/344063648_Drug_Discovery_and_Drug_Identification_using_AI" style="color: blue; text-decoration: none;"> [PDF] </a>
       </i>  
     </p> 
   </td>
