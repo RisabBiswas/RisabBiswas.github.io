@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"> my Google Scholar profile </a> <br>
+<span style="font-size: 15px; color: #1B1212;">My research articles including preprints and publications can be found in <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"> my Google Scholar profile.</a> <br>
 
 <strong>Publications</strong> <br>
 
@@ -12,7 +12,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top;"> 
-    <img style="float: left; margin-right: 10px; border: 2px solid #bbb;" src="https://risabbiswas.github.io/images/ICVGIP.png" width="200px" height="200px"> 
+    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/ICVGIP.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top;"> 
     <p>
