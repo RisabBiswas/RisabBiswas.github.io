@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /experience/
+  # - title: "Experience"
+  #   url: /experience/
   - title: "Publications"
     url: /publications/
-  - title: "Talks"
-    url: /talks/    
-  - title: "Hackathons"
-    url: /hackathons/ 
-  - title: "Awards and Honors"
-    url: /awards/
-  - title: "Community"
-    url: /community/  
-  - title: "Mentorship"
-    url: /mentorship/
-  - title: "Media"
-    url: /media/
+  # - title: "Talks"
+  #   url: /talks/    
+  # - title: "Hackathons"
+  #   url: /hackathons/ 
+  # - title: "Awards and Honors"
+  #   url: /awards/
+  # - title: "Community"
+  #   url: /community/  
+  # - title: "Mentorship"
+  #   url: /mentorship/
+  # - title: "Media"
+  #   url: /media/
