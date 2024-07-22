@@ -22,5 +22,5 @@ I work on Conversational AI at [P360](https://www.p360.com/). I am currently a P
 
 ### Contact Me
 Feel free to reach out to me:
-- **[Drop me an email ✉️](mailto:risabbiswas19@gmail.com)**
-- **[LinkedIn](https://www.linkedin.com/in/risab-biswas/)**
+- **[Email 📩](mailto:risabbiswas19@gmail.com)**
+- **[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)**
