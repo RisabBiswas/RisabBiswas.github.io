@@ -37,7 +37,7 @@ author_profile: true
     <p>
       Risab Biswas, Swalpa Kumar Roy, Ning Wang, Umapada Pal, Guang-Bin Huang<br> 
       <strong>DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization</strong> <br>
-      <i> In Arxiv, Under Review in IEEE Transactions on Artificial Intelligence, 2023 
+      <i> Under Review, IEEE Transactions on Artificial Intelligence, 2023 
       <a href="https://arxiv.org/abs/2312.03568" style="color: blue; text-decoration: none;"> [Paper] </a> 
       <a href="https://github.com/RisabBiswas/DocBinFormer" style="color: blue; text-decoration: none;"> [Code] </a>
       </i>  
