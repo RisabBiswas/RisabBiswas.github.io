@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working as the Principal AI Engineer at [P360](https://www.p360.com/), where I lead the AI team. We are currently building [EdenHelp](https://www.p360.com/edenhelp/). I did my post graduation in Data Science and Engineering from Birla Institute of Technology and Science, Pilani, India. Previously I was a master's thesis student advised by Dr. [Chaitanya Kaul](https://chaitanya-kaul.github.io/), where I worked on building efficient medical imaging architecture. 
+I work on Conversational AI at [P360](https://www.p360.com/). I am currently a Principal AI Engineer leading the AI team. We are currently building [EdenHelp](https://www.p360.com/edenhelp/). I did my post graduation in Data Science and Engineering from Birla Institute of Technology and Science, Pilani, India. Previously I was a master's thesis student advised by Dr. [Chaitanya Kaul](https://chaitanya-kaul.github.io/), where I worked on building efficient medical imaging architecture. 
 
 ### Updates
 
@@ -22,6 +22,5 @@ I am working as the Principal AI Engineer at [P360](https://www.p360.com/), wher
 
 ### Contact Me
 Feel free to reach out to me:
-
-- **[Email](mailto:risabbiswas19@gmail.com)**
+- **[Drop me an email ✉️](mailto:risabbiswas19@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/risab-biswas/)**
