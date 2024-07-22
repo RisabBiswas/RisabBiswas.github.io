@@ -8,10 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Risab Biswas"
-theme                    : "minima"
 title_separator          : "-"
-name                     : &name ""
-description              : &description "Applied AI Research @ P360"
+name                     : &name "Risab Biswas"
+description              : &description "Personal Website of Risab Biswas"
 url                      : https://risabbiswas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RisabBiswas/RisabBiswas.github.io"
