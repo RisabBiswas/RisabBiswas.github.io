@@ -21,9 +21,7 @@ redirect_from:
 - <span style="font-size: 15px;">**[Feb. 2023]** Honored to receive the [Citizenship Award](https://www.linkedin.com/posts/activity-7031705908409712641-huup?utm_source=share&utm_medium=member_desktop) from P360 in recognition of my 5 years of dedication and contributions!</span>
 - <span style="font-size: 15px;">**[Jan. 2023]** Became a [Kaggle Discussion Expert](https://www.kaggle.com/risabbiswas19), Highest Rank - 745.</span>
 
-<h3 style="font-size: 15px;">Contact Me</h3>
-<p>Feel free to reach out to me:</p>
-<ul>
-    <li><span style="font-size: 15px;">**[Email 📩](mailto:risabbiswas19@gmail.com)**</span></li>
-    <li><span style="font-size: 15px;">**[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)**</span></li>
-</ul>
+### <span style="font-size: 15px;">Contact Me</span>
+Feel free to reach out to me:
+- <span style="font-size: 15px;">I**[Email 📩](mailto:risabbiswas19@gmail.com)**
+- <span style="font-size: 15px;">I**[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)**
