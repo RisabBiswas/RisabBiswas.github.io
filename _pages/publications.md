@@ -3,7 +3,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="font-size: 15px; color: #1B1212;">My research articles including preprints and publications can be found in my<a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en" style="text-decoration: none; color: #4040FF;">Google Scholar</a>profile.
+<span style="font-size: 15px; color: #1B1212;">My research articles including preprints and publications can be found in my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en" style="text-decoration: none; color: #4040FF;">Google Scholar</a> profile.
 
 <strong>Preprints</strong> <br>
 
