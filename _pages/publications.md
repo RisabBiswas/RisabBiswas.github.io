@@ -8,7 +8,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h2>Publications</h2>
 
-<div class="publications-container">
+<!-- <div class="publications-container">
   <div class="publication-item">
     <img src="https://adrianxsalazar.github.io/images/5g_spraying-adrian-salazar-gomez-website.png" alt="Drug discovery and drug identification using AI">
     <div class="publication-details">
@@ -20,9 +20,19 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
         <a href="https://ieeexplore.ieee.org/abstract/document/9181309" class="publication-link">[LINK]</a>
       </p>
     </div>
-  </div>
+  </div> -->
 
-  <div class="publication-item">
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/5g_spraying-adrian-salazar-gomez-website.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Simon Parsons. <br> <strong> Towards practical object detection for weed spraying in precision agriculture </strong> <br>
+<i> In arXiv, submitted to international conference in robotics and automation 2022 (ICRA 2022) <a href="https://arxiv.org/pdf/2109.11048.pdf"> [PDF] </a> <a href=" https://github.com/LAR/lincolnbeet_dataset"> [DATASET] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+  <!-- <div class="publication-item">
     <img src="https://adrianxsalazar.github.io/images/understanding.png" alt="Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?">
     <div class="publication-details">
       <h3>Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?</h3>
@@ -33,9 +43,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
         <a href="https://arxiv.org/abs/2308.06623" class="publication-link">[LINK]</a>
       </p>
     </div>
-  </div>
+  </div> -->
 
-  <div class="publication-item">
+  <!-- <div class="publication-item">
     <img src="https://adrianxsalazar.github.io/images/5g_spraying-adrian-salazar-gomez-website.png" alt="Identification of pathological disease in plants using deep neural networks">
     <div class="publication-details">
       <h3>Identification of pathological disease in plants using deep neural networks-powered by intel® distribution of openvino™ toolkit</h3>
@@ -60,7 +70,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
       </p>
     </div>
   </div>
-</div>
+</div> -->
 
 <style>
   .publications-container {
