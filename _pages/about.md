@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Risab Biswas. I am working as the Principal AI Engineer at [P360](https://www.p360.com/), where I lead the AI team. We are currently building [EdenHelp](https://www.p360.com/edenhelp/). I did my post graduation in Data Science and Engineering from Birla Institute of Technology and Science, Pilani, India. Previously I was a master's thesis student advised by Dr. [Chaitanya Kaul](https://chaitanya-kaul.github.io/), where I worked on building efficient medical imaging architecture. 
+I am working as the Principal AI Engineer at [P360](https://www.p360.com/), where I lead the AI team. We are currently building [EdenHelp](https://www.p360.com/edenhelp/). I did my post graduation in Data Science and Engineering from Birla Institute of Technology and Science, Pilani, India. Previously I was a master's thesis student advised by Dr. [Chaitanya Kaul](https://chaitanya-kaul.github.io/), where I worked on building efficient medical imaging architecture. 
 
 ### Updates
 
@@ -19,3 +19,9 @@ Hi there! I am Risab Biswas. I am working as the Principal AI Engineer at [P360]
 - **[Aug. 2023]** The preprint of our latest paper, [Polyp-SAM++](https://arxiv.org/abs/2308.06623), is now available on arXiv.
 - **[Feb. 2023]** Honored to receive the [Citizenship Award](https://www.linkedin.com/posts/activity-7031705908409712641-huup?utm_source=share&utm_medium=member_desktop) from P360 in recognition of my 5 years of dedication and contributions!
 - **[Jan. 2023]** Became a [Kaggle Discussion Expert](https://www.kaggle.com/risabbiswas19), Highest Rank - 745.
+
+### Contact Me
+Feel free to reach out to me:
+
+- **Email**: [your.email@example.com](mailto:risabbiswas19@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/risab-biswas/)
