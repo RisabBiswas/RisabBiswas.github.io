@@ -23,5 +23,5 @@ I am working as the Principal AI Engineer at [P360](https://www.p360.com/), wher
 ### Contact Me
 Feel free to reach out to me:
 
-- **Email**: [your.email@example.com](mailto:risabbiswas19@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/risab-biswas/)
+- **[Email](mailto:risabbiswas19@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/risab-biswas/)**
