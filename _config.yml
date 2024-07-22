@@ -77,51 +77,40 @@ analytics:
 
 
 # Site Author
-# author:
-#   name             : "Risab Biswas"
-#   avatar           : "IMG_1.jpg"
-#   bio              : "Principal Engineer - AI @ <a style='color: black;' href='http://p360.com'>P360</a> "
-#   location         : "Jalpaiguri, India"
-#   employer         :
-#   pubmed           : 
-#   linkedin         : "risab-biswas"
-#   googlescholar    : "https://scholar.google.com/citations?user=Z4SSEsUAAAAJ&hl=en"
-#   email            : "risabbiswas19@gmail.com"
-#   researchgate     : "https://www.researchgate.net/profile/Risab-Biswas"
-#   uri              :
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           :
-#   facebook         :
-#   foursquare       :
-#   github           : "https://github.com/RisabBiswas"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-#   lastfm           :
-#   orcid            : "https://orcid.org/0000-0001-9906-0609"
-#   pinterest        :
-#   soundcloud       :
-#   stackoverflow    : # http://stackoverflow.com/users/123456/username
-#   steam            :
-#   tumblr           :
-#   weibo            :
-#   xing             :
-#   youtube          :
-#   wikipedia        :
 author:
-  email            : "risabbiswas19@gmail.com"
   name             : "Risab Biswas"
   avatar           : "IMG_1.jpg"
   bio              : "Principal Engineer - AI @ <a style='color: black;' href='http://p360.com'>P360</a> "
   location         : "Jalpaiguri, India"
+  employer         :
+  pubmed           : 
   linkedin         : "risab-biswas"
   googlescholar    : "https://scholar.google.com/citations?user=Z4SSEsUAAAAJ&hl=en"
+  email            : "risabbiswas19@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Risab-Biswas"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "RisabBiswas"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
   orcid            : "https://orcid.org/0000-0001-9906-0609"
-  github           : "https://github.com/RisabBiswas"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
