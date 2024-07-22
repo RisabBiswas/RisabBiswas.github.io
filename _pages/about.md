@@ -27,6 +27,7 @@ redirect_from:
 - <span style="font-size: 15px; color: #1B1212;">**[Feb. 2023]** Honored to receive the <a href="https://www.linkedin.com/posts/activity-7031705908409712641-huup?utm_source=share&utm_medium=member_desktop" style="color: #4040FF; text-decoration: none;">Citizenship Award</a> from P360 in recognition of my 5 years of dedication and contributions!</span>
 - <span style="font-size: 15px; color: #1B1212;">**[Jan. 2023]** Became a <a href="https://www.kaggle.com/risabbiswas19" style="color: #4040FF; text-decoration: none;">Kaggle Discussion Expert</a>, Highest Rank - 745.</span>
 
+
 ### <span style="font-size: 15px; color: #1B1212;">Contact Me</span>
-- <span style="font-size: 15px; color: #1B1212;">**[Email 📩](mailto:risabbiswas19@gmail.com)** <a href="mailto:risabbiswas19@gmail.com" style="color: #4040FF;">risabbiswas19@gmail.com</a></span>
-- <span style="font-size: 15px; color: #1B1212;">**[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)** <a href="https://www.linkedin.com/in/risab-biswas/" style="color: #4040FF;">https://www.linkedin.com/in/risab-biswas/</a></span>
+- <span style="font-size: 15px; color: #1B1212;"><a href="mailto:risabbiswas19@gmail.com" style="color: #4040FF;">Email 📩</a></span>
+- <span style="font-size: 15px; color: #1B1212;"><a href="https://www.linkedin.com/in/risab-biswas/" style="color: #4040FF;">LinkedIn 🙌</a></span>
