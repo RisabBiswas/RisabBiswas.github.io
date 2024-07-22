@@ -8,10 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-🎯 Passionate Technical Lead and Hobby Researcher with Expertise in AI, Computer Vision, and NLP. I am currently serving as an Applied Machine Learning Scientist at P360. I have 5+ years of experience in Data Science, Machine Learning, and Deep Learning in the Pharmaceutical domain. I am currently pursuing a Master's degree from the Birla Institute of Engineering and Science, Pilani, India. I have been an Intel Software Innovator since 2018 and have been awarded the Top Innovator Award in 2019 and the Intel AI Spotlight Award in 2019. I recently became a Kaggle Expert in the discussion section. I have been an invited guest speaker at premier institutes like ISI Kolkata, IIT Kanpur, IIT-BHU, NIT Rourkela, NIT Durgapur, Jadavpur University, VIT University, SMIT, and many more to talk about AI research and the latest trends. Currently, I am also associated with doing research with Dr. Swalpa Kumar Roy (JGEC) and Dr. Umapada Pal (ISI Kolkata), working on a variety of computer vision problems. 
-
-My Research interest lies in the field of Deep Learning, particularly in using Vision Transformers and Graph Neural Networks with applications in Image Classification, Object Detection, Image Restoration, and Enhancement. I am actively expanding my knowledge in self-supervised learning, few-shot learning, Representation Learning, and Contrastive Learning for various computer vision problems.
+- Currently working as the Principal AI Enginer at [P360](https://www.p360.com/).
+- Post graduate in Data Science and Engineering from Birla Institute of Technology and Science, Pilani, India.
+- Previously a master's thesis student at the School of Computing, University of Glasgow, where I worked on building efficient medical imaging architecture. 
 
 ### News
 
-- **[April. 2024]** Defended my master's thesis at BITS Pilani.
+- **[May. 2024]** Graduated with an M.Tech in Data Science and Engineering from [BITS Pilani](https://www.bits-pilani.ac.in/)!
+- **[April. 2024]** Promoted to the role of Principal AI Engineer at [P360](https://www.p360.com/leadership/). Excited for the new role!
+- **[March. 2024]** Successfully defended my master's thesis titled ["Multi-Task Multi-Scale Contrastive Knowledge Distillation for Efficient Medical Image Segmentation"](https://arxiv.org/pdf/2406.03173).
+- **[November. 2023]** Got accepted as a master's thesis student at the University of Glasgow under the supervision of Dr. [Chaitanya Kaul](https://chaitanya-kaul.github.io/).
+- **[October. 2023]** One [paper](https://dl.acm.org/doi/abs/10.1145/3627631.3627639) got accepted at [ICVGIP 2023](https://www.iitrpr.ac.in/ICVGIP/) (Core Rank-B).
+- **[August. 2023]** The preprint of our latest paper, [Polyp-SAM++](https://arxiv.org/abs/2308.06623), is now available on arXiv.
+- **[February 2023]** Honored to receive the [Citizenship Award](https://www.linkedin.com/posts/activity-7031705908409712641-huup?utm_source=share&utm_medium=member_desktop) from P360 in recognition of my 5 years of dedication and contributions!
+- **[January 2023]** Became a (Kaggle Discussion Expert)[https://www.kaggle.com/risabbiswas19] Highest rank - 745.
