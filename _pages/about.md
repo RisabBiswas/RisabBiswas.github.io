@@ -21,4 +21,4 @@ redirect_from:
 - **[October. 2023]** One [paper](https://dl.acm.org/doi/abs/10.1145/3627631.3627639) got accepted at [ICVGIP 2023](https://www.iitrpr.ac.in/ICVGIP/) (Core Rank-B).
 - **[August. 2023]** The preprint of our latest paper, [Polyp-SAM++](https://arxiv.org/abs/2308.06623), is now available on arXiv.
 - **[February 2023]** Honored to receive the [Citizenship Award](https://www.linkedin.com/posts/activity-7031705908409712641-huup?utm_source=share&utm_medium=member_desktop) from P360 in recognition of my 5 years of dedication and contributions!
-- **[January 2023]** Became a (Kaggle Discussion Expert)[https://www.kaggle.com/risabbiswas19] Highest rank - 745.
+- **[January 2023]** Became a [Kaggle Discussion Expert](https://www.kaggle.com/risabbiswas19) Highest rank - 745.
