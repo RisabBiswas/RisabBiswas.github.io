@@ -31,13 +31,13 @@ author_profile: true
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/DocBinFormer.png" width="200px" height="200px"> 
+    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/DocBinFormer_2.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
     <p>
       Risab Biswas, Swalpa Kumar Roy, Ning Wang, Umapada Pal, Guang-Bin Huang<br> 
       <strong>DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization</strong> <br>
-      <i> Under Review, IEEE Transactions on Artificial Intelligence, 2023 
+      <i> In Arxiv, Under Review in IEEE Transactions on Artificial Intelligence, 2023 
       <a href="https://arxiv.org/abs/2312.03568" style="color: blue; text-decoration: none;"> [Paper] </a> 
       <a href="https://github.com/RisabBiswas/DocBinFormer" style="color: blue; text-decoration: none;"> [Code] </a>
       </i>  
