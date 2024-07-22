@@ -28,5 +28,5 @@ redirect_from:
 - <span style="font-size: 15px; color: #1B1212;">**[Jan. 2023]** Became a <a href="https://www.kaggle.com/risabbiswas19" style="color: #4040FF; text-decoration: none;">Kaggle Discussion Expert</a>, Highest Rank - 745.</span>
 
 ### <span style="font-size: 15px; color: #1B1212;">Contact Me</span>
-- <span style="font-size: 15px; color: #1B1212;">**[Email 📩](mailto:risabbiswas19@gmail.com)**</span>
-- <span style="font-size: 15px; color: #1B1212;">**[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)**</span>
+- <span style="font-size: 15px; color: #1B1212;">**[Email 📩](mailto:risabbiswas19@gmail.com)** <a href="mailto:risabbiswas19@gmail.com" style="color: #4040FF;">risabbiswas19@gmail.com</a></span>
+- <span style="font-size: 15px; color: #1B1212;">**[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)** <a href="https://www.linkedin.com/in/risab-biswas/" style="color: #4040FF;">https://www.linkedin.com/in/risab-biswas/</a></span>
