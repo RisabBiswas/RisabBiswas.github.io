@@ -9,11 +9,13 @@ redirect_from:
 
 <span style="font-size: 15px;">I am currently working as the Principal AI Engineer at [P360](https://www.p360.com/), leading the AI team. We are building [EdenHelp](https://www.p360.com/edenhelp/). I hold a master's in Data Science and Engineering from the Birla Institute of Technology and Science, Pilani, India. Previously I was a master's thesis student advised by Dr. [Chaitanya Kaul](https://chaitanya-kaul.github.io/), where I worked on building efficient medical imaging architecture. 
 
+As an AI Engineer at P360, I have the fortune of working across diverse areas of machine learning and statistical modelling including natural language understanding for conversational AI, hybrid models combining intent-driven and generative approaches, time series forecasting and optimization techniques, and predictive modelling within the pharmaceutical sector. Beyond my work, I passionately explore computer vision through personal research, covering a wide range of areas such as Contrastive Learning, Representation Learning, and Data and Compute Efficient Modeling. My research has applications in fields including Medical Imaging, Drug Discovery, and Document Enhancement."
+
 
 
 ### <span style="font-size: 15px;">Updates</span>
 - <span style="font-size: 15px;">**[May. 2024]** Graduated with an M.Tech in Data Science and Engineering from [BITS Pilani](https://www.bits-pilani.ac.in/)!</span>
-- <span style="font-size: 15px;">**[Apr. 2024]** Promoted to the role of Principal AI Engineer at [P360](https://www.p360.com/leadership/). Excited for the new role!</span>
+- <span style="font-size: 15px;">**[Apr. 2024]** Promoted from Tech Lead to Principal AI Engineer at [P360](https://www.p360.com/leadership/). Excited for the new role!</span>
 - <span style="font-size: 15px;">**[Mar. 2024]** Successfully defended my [master's thesis](https://arxiv.org/pdf/2406.03173).</span>
 - <span style="font-size: 15px;">**[Nov. 2023]** Got accepted as a master's thesis student at the School of Computing, University of Glasgow.</span>
 - <span style="font-size: 15px;">**[Oct. 2023]** One [paper](https://dl.acm.org/doi/abs/10.1145/3627631.3627639) got accepted at [ICVGIP 2023](https://www.iitrpr.ac.in/ICVGIP/) (Core Rank-B).</span>
@@ -23,5 +25,5 @@ redirect_from:
 
 ### <span style="font-size: 15px;">Contact Me</span>
 Feel free to reach out to me:
-- <span style="font-size: 15px;">I**[Email 📩](mailto:risabbiswas19@gmail.com)**
-- <span style="font-size: 15px;">I**[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)**
+- <span style="font-size: 15px;">**[Email 📩](mailto:risabbiswas19@gmail.com)**
+- <span style="font-size: 15px;">**[LinkedIn 🙌](https://www.linkedin.com/in/risab-biswas/)**
