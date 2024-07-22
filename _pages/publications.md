@@ -72,7 +72,7 @@ Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Si
   </div>
 </div> -->
 
-<style>
+<!-- <style>
   .publications-container {
     display: flex;
     flex-direction: column;
@@ -115,4 +115,4 @@ Adrian  Salazar  Gomez, Madeleine Darbyshire, Junfeng Gao, Elizabeth I Sklar, Si
   .publication-link:hover {
     text-decoration: underline;
   }
-</style>
+</style> -->
