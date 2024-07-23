@@ -61,25 +61,30 @@ redirect_from:
 
 
   <div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; margin: 10px;">
+    <!-- <div style="text-align: center; margin: 10px;">
       <img src="../images/sit.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
       <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India Aug. 2014 - Jul. 2018</div>
+    </div> -->
+    <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center; margin: 10px;">
+      <img src="../images/sit.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
+      <div style="font-size: 12px; color: #1B1212;"><a href="http://www.sittechno.org/" target="_blank">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India</a> Aug. 2014 - Jul. 2018</div>
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">Data Science Intern (Remote), Prescriber360 Solutions, Feb. 2018 - Mar. 2018</div>
+      <div style="font-size: 12px; color: #1B1212;">ML Research Intern, Prescriber360 Solutions, Feb. 2018 - Mar. 2018</div>
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">Principal Engineer AI (Remote), P360, Mar. 2018 - Present</div>
+      <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360, Mar. 2018 - Present</div>
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science and Engineering, Birla Institute of Technology and Science, India Mar. 2022 - May. 2024</div>
+      <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science and Engineering, BITS, Pilani, India Mar. 2022 - May. 2024</div>
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">Master's Thesis Research Student, University of Glasgow (Logo), UK, Dec. 2023 - Mar. 2024</div>
+      <div style="font-size: 12px; color: #1B1212;">Thesis Research Student, University of Glasgow, UK, Dec. 2023 - Mar. 2024</div>
     </div>
   </div>
 
