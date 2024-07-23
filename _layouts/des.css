@@ -1,0 +1,22 @@
+.typing-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1B1212;
+    margin-bottom: 20px;
+    text-align: center;
+    overflow: hidden; /* Ensures the text only appears as it’s typed */
+    white-space: nowrap; /* Keeps text in a single line */
+    border-right: 4px solid #4040FF; /* Cursor effect */
+    width: 0; /* Start with width 0 to animate */
+    animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #4040FF; }
+}
