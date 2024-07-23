@@ -149,13 +149,13 @@ author_profile: true
 </tbody>
 </table>
 
-<table class= "publication-table", style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;">
 <tbody>
 <tr> 
-  <td class="publication-img-cell", style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Home_Automation.png" width="200px" height="200px"> 
   </td>
-  <td class="publication-details-cell", style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
+  <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
     <p>
       Avirup Basu, Abhishek Nandy, Manisha Biswas, Raja Nand Sharma, Risab Biswas <br> 
       <strong>Home Automation Using Energy Usage</strong> <br>
@@ -170,42 +170,3 @@ author_profile: true
 </table>
 
 
-
-<style>
-  .publication-table {
-    border: none; 
-    border-collapse: collapse; 
-    margin-bottom: 20px;
-  }
-  .publication-img-cell {
-    width: 200px; 
-    height: 200px; 
-    vertical-align: top; 
-    border: none;
-  }
-  .publication-details-cell {
-    height: 200px; 
-    vertical-align: top; 
-    border: none; 
-    color: #1B1212;
-  }
-  .publication-img {
-    float: left; 
-    margin-right: 10px; 
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.2); 
-    width: 200px; 
-    height: 200px; 
-    transition: all 0.3s ease-in-out;
-  }
-  .publication-img:hover {
-    transform: translateY(-10px); 
-    box-shadow: 5px 8px 15px rgba(0,0,0,0.3);
-  }
-  .publication-link {
-    color: blue; 
-    text-decoration: none;
-  }
-  .publication-link:hover {
-    text-decoration: underline;
-  }
-</style>

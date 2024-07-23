@@ -13,6 +13,29 @@ redirect_from:
 
 <span style="font-size: 15px; color: #1B1212;">Apart from my job and research, I have been actively involved in the community. Since 2018, I have been a part of the <a href="https://devmesh.intel.com/users/risab-biswas" style="text-decoration: none; color: #4040FF;">Intel Innovator's Program</a>. I was recognized as the top innovator in 2019 for my community contributions and research projects. In 2020, I was awarded the first <a href="https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="text-decoration: none; color: #4040FF;">Intel DevMesh AI Spotlight Award</a>. I have received multiple hardware and monetary grants from Intel under their Early Innovation Challenge to support my research projects. I was also a co-organizer (Feb 2019 - June 2020) in the <a href="https://gdg.community.dev/gdg-siliguri/" style="text-decoration: none; color: #4040FF;">Google Developer Group</a>, Siliguri. 
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center;">
+    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo1">
+    <div style="font-size: 15px; color: #1B1212;">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India Aug. 2014 - Jul. 2018</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo2">
+    <div style="font-size: 15px; color: #1B1212;">Data Science Intern (Remote), Prescriber360 Solutions,  Feb. 2018 - Mar. 2018</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo3">
+    <div style="font-size: 15px; color: #1B1212;">Principal Engineer AI (Remote), P360, 2018 - Mar. 2018 - Present</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo4">
+    <div style="font-size: 15px; color: #1B1212;">M.Tech, Data Science and Engineering, Birla Institute of Technology and Science, India Mar. 2022 - May. 2024</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo5">
+    <div style="font-size: 15px; color: #1B1212;">Master's Thesis Research Student, University of Glasgow (Logo), UK, Dec. 2023 - Mar. 2024</div>
+  </div>
+</div>
+
 <span style="font-size: 15px; color: #1B1212;"><strong><em>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</em></strong></span>
 
 ### <span style="font-size: 15px; color: #1B1212;">Updates</span>
