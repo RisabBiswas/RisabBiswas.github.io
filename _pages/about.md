@@ -83,28 +83,28 @@ redirect_from:
     </div>
   </div> -->
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center; margin: 10px;">
-    <img src="../images/SIT_2.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science & Eng., SIT (MAKAUT), India<br>Aug. 2014 - Jul. 2018</div>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center; margin: 10px;">
+      <img src="../images/SIT_2.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
+      <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science & Eng., SIT (MAKAUT), India<br>Aug. 2014 - Jul. 2018</div>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+    <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
+    <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science & Eng., BITS Pilani, India<br>Mar. 2022 - May. 2024</div>
+    </div>
+    <div style="text-align: center; margin: 10px;">
+    <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
+    <div style="font-size: 12px; color: #1B1212;">Master's Thesis Research Student, University of Glasgow, UK,<br>Dec. 2023 - Mar. 2024</div>
+    </div>
+    <!-- <div style="text-align: center; margin: 10px;">
+      <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
+      <div style="font-size: 12px; color: #1B1212;">ML Research Intern, Prescriber360 Solutions,<br>Feb. 2018 - Mar. 2018</div>
+    </div> -->
+    <div style="text-align: center; margin: 10px;">
+      <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
+      <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360,<br>Feb. 2018 - Pres.</div>
+    </div>
   </div>
-  <div style="text-align: center; margin: 10px;">
-  <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
-  <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science & Eng., BITS Pilani, India<br>Mar. 2022 - May. 2024</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-  <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
-  <div style="font-size: 12px; color: #1B1212;">Master's Thesis Research Student, University of Glasgow, UK,<br>Dec. 2023 - Mar. 2024</div>
-  </div>
-  <!-- <div style="text-align: center; margin: 10px;">
-    <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">ML Research Intern, Prescriber360 Solutions,<br>Feb. 2018 - Mar. 2018</div>
-  </div> -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360,<br>Feb. 2018 - Pres.</div>
-  </div>
-</div>
 
   <p>I completed my Bachelor's (B.Tech) in 2018 in Computer Science and Engineering, where I was the Rank 1 of my department. I was advised by <a href="https://scholar.google.co.in/citations?user=pixVZ0oAAAAJ&hl=en">Prof. Anupam Mukherjee</a> during my <a href="https://devmesh.intel.com/projects/self-driving-bot-on-intel-architecture#about-section">Bachelor's Thesis Project</a>. I hold a master's in Data Science and Engineering from the Birla Institute of Technology and Science, Pilani, India. During my master's I worked on multiple research projects on effective and efficient document image enhancement with <a href="https://scholar.google.com/citations?user=1WVrFGwAAAAJ&hl=en">Prof. Swalpa Kumar Roy</a>, <a href="https://scholar.google.com/citations?user=2_z_CogAAAAJ&hl=en">Prof. Umapada Pal</a> and <a href="https://scholar.google.com.sg/citations?user=LhSqQCIAAAAJ&hl=en">Prof. Guang-Bin Huang</a>. I was a Master's Thesis student at <a href="https://www.gla.ac.uk/">University of Glasgow</a> advised by <a href="https://chaitanya-kaul.github.io/">Dr. Chaitanya Kaul</a>, and guided by <a href="https://scholar.google.co.in/citations?user=kGLZ1kAAAAAJ&hl=en">Sankara Nayaki K</a>, working on building an efficient medical imaging model.</p>
 
