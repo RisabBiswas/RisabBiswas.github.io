@@ -61,14 +61,9 @@ redirect_from:
 
 
   <div style="display: flex; justify-content: space-between;">
-    <!-- <div style="text-align: center; margin: 10px;">
-      <img src="../images/sit.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India Aug. 2014 - Jul. 2018</div>
-    </div> -->
-    <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; margin: 10px;">
       <img src="../images/sit.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;"><a href="http://www.sittechno.org/" target="_blank">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India</a> Aug. 2014 - Jul. 2018</div>
+      <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India Aug. 2014 - Jul. 2018</div>
     </div>
     <div style="text-align: center; margin: 10px;">
       <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
