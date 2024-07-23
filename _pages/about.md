@@ -112,7 +112,7 @@ redirect_from:
 
 
 
-  <p><strong><em>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</em></strong></p>
+  <p><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
 
   <h3>Updates</h3>
   <ul class="updates-list">
