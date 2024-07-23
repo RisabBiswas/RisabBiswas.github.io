@@ -13,21 +13,10 @@ redirect_from:
 
 ---
 
-![P360 Logo](images/P360_Logo.jpg)  
-**P360**  
-_March 2018 - March 2024_
-
-![BITS Pilani Logo](path/to/bits_pilani_logo.png)  
-**BITS Pilani**  
-_March 2022 - May 2024_
-
-![University of Glasgow Logo](path/to/university_of_glasgow_logo.png)  
-**University of Glasgow**  
-_November 2023 - March 2024_
+![P360 Logo](images/P360_Logo.jpg) ![BITS Pilani Logo](path/to/bits_pilani_logo.png) ![University of Glasgow Logo](path/to/university_of_glasgow_logo.png)  
+**P360** _March 2018 - March 2024_ | **BITS Pilani** _March 2022 - May 2024_ | **University of Glasgow** _November 2023 - March 2024_
 
 ---
-
-### <span style="font-size: 15px; color: #1B1212;">Contact Me</span>
 
 <span style="font-size: 15px; color: #1B1212;">I completed my Bachelor's (B.Tech) in 2018 in Computer Science and Engineering, where I was the Rank 1 of my department. I was advised by <a href="https://scholar.google.co.in/citations?user=pixVZ0oAAAAJ&hl=en" style="text-decoration: none; color: #4040FF;">Prof. Anupam Mukherjee</a> during my <a href="https://devmesh.intel.com/projects/self-driving-bot-on-intel-architecture#about-section" style="text-decoration: none; color: #4040FF;">Bachelor's Thesis Project</a>. I hold a master's in Data Science and Engineering from the Birla Institute of Technology and Science, Pilani, India. During my master's I worked on multiple research projects on effective and efficient document image enhancement with <a href="https://scholar.google.com/citations?user=1WVrFGwAAAAJ&hl=en" style="text-decoration: none; color: #4040FF;">Prof. Swalpa Kumar Roy</a>, <a href="https://scholar.google.com/citations?user=2_z_CogAAAAJ&hl=en" style="text-decoration: none; color: #4040FF;">Prof. Umapada Pal</a> and <a href="https://scholar.google.com.sg/citations?user=LhSqQCIAAAAJ&hl=en" style="text-decoration: none; color: #4040FF;">Prof. Guang-Bin Huang</a>. I was a Master's Thesis student at <a href="https://www.gla.ac.uk/" style="text-decoration: none; color: #4040FF;">University of Glasgow</a> advised by <a href="https://chaitanya-kaul.github.io/" style="text-decoration: none; color: #4040FF;">Dr. Chaitanya Kaul</a>, and guided by <a href="https://scholar.google.co.in/citations?user=kGLZ1kAAAAAJ&hl=en" style="text-decoration: none; color: #4040FF;">Sankara Nayaki K</a>, working on building an efficient medical imaging model.
 
