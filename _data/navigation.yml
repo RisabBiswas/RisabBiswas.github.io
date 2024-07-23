@@ -4,6 +4,8 @@ main:
   #   url: /experience/
   - title: "Publications"
     url: /publications/
+  - title: "CV"
+  url: /cv/
   # - title: "Talks"
   #   url: /talks/    
   # - title: "Hackathons"
