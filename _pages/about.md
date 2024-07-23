@@ -86,7 +86,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; margin: 10px;">
     <img src="../images/sit.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science Eng.,<br>SIT (MAKAUT), India<br>Aug. 2014 - Jul. 2018</div>
+    <div style="font-size: 12px; color: #1B1212;"><p>B.Tech, Computer Science Eng.</p>,<br>SIT (MAKAUT), India<br>Aug. 2014 - Jul. 2018</div>
   </div>
   <div style="text-align: center; margin: 10px;">
   <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
