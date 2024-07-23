@@ -7,7 +7,7 @@ author_profile: true
 
 <strong>Preprints</strong> <br>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
@@ -27,7 +27,7 @@ author_profile: true
 </tbody>
 </table>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
@@ -47,7 +47,7 @@ author_profile: true
 </tbody>
 </table>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
@@ -67,7 +67,7 @@ author_profile: true
 </tbody>
 </table>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
@@ -89,7 +89,7 @@ author_profile: true
 
 <strong>Publications</strong> <br>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
@@ -109,7 +109,7 @@ author_profile: true
 </tbody>
 </table>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
@@ -129,7 +129,7 @@ author_profile: true
 </tbody>
 </table>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
@@ -149,7 +149,7 @@ author_profile: true
 </tbody>
 </table>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
