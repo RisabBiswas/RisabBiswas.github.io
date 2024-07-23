@@ -86,7 +86,15 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; margin: 10px;">
     <img src="../images/sit.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science and Engineering,<br>Siliguri Institute of Technology, India<br>Aug. 2014 - Jul. 2018</div>
+    <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science Eng.,<br>Siliguri Institute of Technology, India<br>Aug. 2014 - Jul. 2018</div>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+  <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
+  <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science and Engineering, BITS, Pilani, India<br>Mar. 2022 - May. 2024</div>
+  </div>
+  <div style="text-align: center; margin: 10px;">
+  <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
+  <div style="font-size: 12px; color: #1B1212;">Thesis Research Student, University of Glasgow, UK,<br>Dec. 2023 - Mar. 2024</div>
   </div>
   <div style="text-align: center; margin: 10px;">
     <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
@@ -95,14 +103,6 @@ redirect_from:
   <div style="text-align: center; margin: 10px;">
     <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
     <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360,<br>Mar. 2018 - Present</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science and Engineering, BITS, Pilani, India<br>Mar. 2022 - May. 2024</div>
-  </div>
-  <div style="text-align: center; margin: 10px;">
-    <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">Thesis Research Student, University of Glasgow, UK,<br>Dec. 2023 - Mar. 2024</div>
   </div>
 </div>
 
