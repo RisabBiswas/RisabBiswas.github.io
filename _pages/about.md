@@ -100,7 +100,7 @@ redirect_from:
     <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
     <div style="font-size: 12px; color: #1B1212;">ML Research Intern, Prescriber360 Solutions,<br>Feb. 2018 - Mar. 2018</div>
   </div>
-  <div style="text-align: center; margin: 10px;">
+  <div style="text-align: center; margin: 8px;">
     <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
     <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360,<br>Mar. 2018 - Present</div>
   </div>
