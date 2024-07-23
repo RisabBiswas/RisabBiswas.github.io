@@ -31,7 +31,7 @@ redirect_from:
     <div style="font-size: 10px; color: #1B1212;">M.Tech, Data Science and Engineering, Birla Institute of Technology and Science, India Mar. 2022 - May. 2024</div>
   </div>
   <div style="text-align: center;">
-    <img src="../images/ug.jpg" alt="Logo5" style="width: 120px; height: 40px;">
+    <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px;">
     <div style="font-size: 10px; color: #1B1212;">Master's Thesis Research Student, University of Glasgow (Logo), UK, Dec. 2023 - Mar. 2024</div>
   </div>
 </div>
