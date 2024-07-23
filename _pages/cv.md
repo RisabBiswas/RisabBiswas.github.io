@@ -8,13 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Risab Biswas
-
-**Email:** risabbiswas19@gmail.com  
-**LinkedIn—ResearchGate**  
-**Mobile:** +91-906-4537-732  
-
 ## Education
 
 - **University of Glasgow, Glasgow, UK**  
