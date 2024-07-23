@@ -90,10 +90,10 @@ redirect_from:
   </div>
   <div style="text-align: center; margin: 10px;">
   <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
-  <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science and Engineering, BITS Pilani, India<br>Mar. 2022 - May. 2024</div>
+  <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science & Eng., BITS Pilani, India<br>Mar. 2022 - May. 2024</div>
   </div>
   <div style="text-align: center; margin: 10px;">
-  <img src="../images/university-of-glasgow.jpg" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
+  <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
   <div style="font-size: 12px; color: #1B1212;">Thesis Research Student, University of Glasgow, UK,<br>Dec. 2023 - Mar. 2024</div>
   </div>
   <!-- <div style="text-align: center; margin: 10px;">
