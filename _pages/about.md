@@ -55,8 +55,6 @@ redirect_from:
   }
 </style>
 
-<div class=".typing-title"><h2>Hello there!</h2></div>
-
 
 <div class="content-container">
   <p>I am currently working as the Principal AI Engineer at <a href="https://www.p360.com/">P360</a>, building <a href="https://www.p360.com/edenhelp/">EdenHelp</a>. I joined P360 in February 2018 as a founding data scientist. As an AI Engineer at P360, I have the fortune of working across diverse areas of machine learning and statistical modelling including natural language understanding, large language model, retrieval-augmented generation for conversational AI, time series forecasting and optimization techniques, and predictive modelling within the pharmaceutical sector. My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> I also work in deep learning for Medical Image Analysis. Previously, I have worked on document image enhancement.</p>
