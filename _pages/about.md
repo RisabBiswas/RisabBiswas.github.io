@@ -15,28 +15,28 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center;">
-    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo1">
+    <img src="../images//sit.jpg" alt="Logo1">
     <div style="font-size: 15px; color: #1B1212;">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India Aug. 2014 - Jul. 2018</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo2">
+    <img src="../images/presc.png" alt="Logo2">
     <div style="font-size: 15px; color: #1B1212;">Data Science Intern (Remote), Prescriber360 Solutions,  Feb. 2018 - Mar. 2018</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo3">
+    <img src="../images/p360.jpeg" alt="Logo3">
     <div style="font-size: 15px; color: #1B1212;">Principal Engineer AI (Remote), P360, 2018 - Mar. 2018 - Present</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo4">
+    <img src="../images/bits.png" alt="Logo4">
     <div style="font-size: 15px; color: #1B1212;">M.Tech, Data Science and Engineering, Birla Institute of Technology and Science, India Mar. 2022 - May. 2024</div>
   </div>
   <div style="text-align: center;">
-    <img src="https://risabbiswas.github.io/images/Drug Discovery_2.png" alt="Logo5">
+    <img src="../images/ug.jpg" alt="Logo5">
     <div style="font-size: 15px; color: #1B1212;">Master's Thesis Research Student, University of Glasgow (Logo), UK, Dec. 2023 - Mar. 2024</div>
   </div>
 </div>
 
-<span style="font-size: 15px; color: #1B1212;"><strong><em>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</em></strong></span>
+<span style="font-size: 15px; color: #1B1212;"><br><strong><em>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</em></strong></span>
 
 ### <span style="font-size: 15px; color: #1B1212;">Updates</span>
 - <span style="font-size: 15px; color: #1B1212;">**[May. 2024]** Graduated with an M.Tech in Data Science and Engineering from <a href="https://www.bits-pilani.ac.in/" style="color: #4040FF; text-decoration: none;">BITS Pilani</a>!</span>
