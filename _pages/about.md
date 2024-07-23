@@ -102,7 +102,7 @@ redirect_from:
   </div> -->
   <div style="text-align: center; margin: 10px;">
     <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360,<br>Mar. 2018 - Present</div>
+    <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360,<br>Mar. 2018 - Pres.</div>
   </div>
 </div>
 
