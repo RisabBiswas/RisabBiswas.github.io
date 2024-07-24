@@ -96,7 +96,7 @@ redirect_from:
     <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science & Eng., <a href="http://www.bits-pilani.ac.in/">BITS Pilani</a>, India<br>Mar. 2022 - May. 2024</div>
     </div>
     <div style="text-align: center; margin: 10px;">
-    <img src="../images/UoG.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
+    <img src="../images/Uni_Glasgow_1.jpg" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
     <div style="font-size: 12px; color: #1B1212;">Master's Thesis Research Student,<a href="https://www.gla.ac.uk/"> University of Glasgow</a>, UK,<br>Dec. 2023 - Mar. 2024</div>
     </div>
     <!-- <div style="text-align: center; margin: 10px;">
