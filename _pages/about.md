@@ -139,6 +139,8 @@ FMcdBf4hkbhQ/feedshare-shrink_1280/0/1671638780264?e=1724889600&v=beta&t=UMka8Jx
   </ul>
 
   <h3>Contact Me</h3>
-  <p><a href="mailto:risabbiswas19@gmail.com">Email 📩</a></p>
-  <p><a href="https://www.linkedin.com/in/risab-biswas/">LinkedIn 🙌</a></p>
+  <p>
+  <a href="mailto:risabbiswas19@gmail.com">Email 📩</a><br>
+  <a href="https://www.linkedin.com/in/risab-biswas/">LinkedIn 🙌</a>
+  </p>
 </div>
