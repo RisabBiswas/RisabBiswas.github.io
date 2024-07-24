@@ -51,7 +51,7 @@ author_profile: true
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Arch_Polyp-SAM++.png" width="200px" height="150px"> 
+    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Arch_Polyp-SAM++.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
     <p>
@@ -71,7 +71,7 @@ author_profile: true
 <tbody>
 <tr> 
   <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
-    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/T2T-BinFormer.png" width="200px" height="150px"> 
+    <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/T2T-BinFormer.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
     <p>
