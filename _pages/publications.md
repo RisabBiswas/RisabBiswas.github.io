@@ -10,7 +10,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/MTMS_Seg.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
@@ -30,7 +30,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/DocBinFormer_2.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
@@ -50,7 +50,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Arch_Polyp-SAM++.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
@@ -70,7 +70,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/T2T-BinFormer.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
@@ -92,7 +92,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/ICVGIP.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
@@ -112,7 +112,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;">  
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Plant_Disease_2.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
@@ -132,7 +132,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Drug Discovery_2.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
@@ -152,7 +152,7 @@ author_profile: true
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
-  <td style="width:200px; height:200px; vertical-align: top; border: none;"> 
+  <td style="border: none;"> 
     <img style="float: left; margin-right: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);" src="https://risabbiswas.github.io/images/Home_Automation.png" width="200px" height="200px"> 
   </td>
   <td style="height=200px; vertical-align: top; border: none; color: #1B1212;"> 
