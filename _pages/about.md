@@ -89,15 +89,15 @@ redirect_from:
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; margin: 10px;">
       <img src="../images/SIT_2.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science & Eng., SIT (MAKAUT), India<br>Aug. 2014 - Jul. 2018</div>
+      <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science & Eng., <a href="https://sittechno.org/">SIT (MAKAUT)</a>, India<br>Aug. 2014 - Jul. 2018</div>
     </div>
     <div style="text-align: center; margin: 10px;">
     <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science & Eng., BITS Pilani, India<br>Mar. 2022 - May. 2024</div>
+    <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science & Eng., <a href="http://www.bits-pilani.ac.in/">BITS Pilani</a>, India<br>Mar. 2022 - May. 2024</div>
     </div>
     <div style="text-align: center; margin: 10px;">
-    <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
-    <div style="font-size: 12px; color: #1B1212;">Master's Thesis Research Student, University of Glasgow, UK,<br>Dec. 2023 - Mar. 2024</div>
+    <img src="../images/UoG.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
+    <div style="font-size: 12px; color: #1B1212;">Master's Thesis Research Student,<a href="https://www.gla.ac.uk/"> University of Glasgow</a>, UK,<br>Dec. 2023 - Mar. 2024</div>
     </div>
     <!-- <div style="text-align: center; margin: 10px;">
       <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
@@ -105,7 +105,7 @@ redirect_from:
     </div> -->
     <div style="text-align: center; margin: 10px;">
       <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360,<br>Feb. 2018 - Pres.</div>
+      <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, <a href="https://www.p360.com/">P360</a>,<br>Feb. 2018 - Pres.</div>
     </div>
   </div>
 
