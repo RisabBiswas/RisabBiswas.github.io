@@ -44,11 +44,10 @@ redirect_from:
 <p style="font-size: 14px; color: #1B1212">
 - <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
   <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
-  &nbsp;&nbsp;- Leading a team of data scientists and machine learning engineers to tackle advanced R&D challenges in pharmaceutical commercial sales operations.
-  &nbsp;&nbsp;- Architected and deployed <a href= "https://www.p360.com/edenhelp/" style="color: blue; text-decoration: none;">EdenHelp</a>, an industry-first Conversational AI platform to optimize medical inquiries for pharmaceutical drugs and medical devices.
-  &nbsp;&nbsp;- Developed the understanding and generative AI components, ensuring hallucination-free responses using advanced NLP, RAG, and knowledge graphs.
-  &nbsp;&nbsp;- As part of my functional roles, I do project planning, sprint planning and management, help in building RFPs for business development from an Advanced Analytics/AIML
-    perspective.<br><br>
+  &nbsp;&nbsp;- Leading a team of data scientists and machine learning engineers to tackle advanced R&D challenges in pharmaceutical commercial sales operations.<br>
+  &nbsp;&nbsp;- Architected and deployed <a href= "https://www.p360.com/edenhelp/" style="color: blue; text-decoration: none;">EdenHelp</a>, an industry-first Conversational AI platform to optimize medical inquiries for pharmaceutical drugs and medical devices.<br>
+  &nbsp;&nbsp;- Developed the understanding and generative AI components, ensuring hallucination-free responses using advanced NLP, RAG, and knowledge graphs.<br>
+  &nbsp;&nbsp;- As part of my functional roles, I do project planning, sprint planning and management, help in building RFPs for business development from an Advanced Analytics/AIML perspective.<br><br>
 
 <strong style="font-size: 13px;">Technical Lead – AI</strong>, Mar 2021 - Mar 2024<br>
   - Leading a team of 6 Data Scientists for R&D in AI/ML.<br>
