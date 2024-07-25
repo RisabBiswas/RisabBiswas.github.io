@@ -28,13 +28,15 @@ redirect_from:
 &nbsp;&nbsp;- <strong>Courses</strong>: Artificial Intelligence, Data Mining and Data Warehousing, Discrete Mathematics, Numerical Methods, Probability, Data Structures and Analysis of Algorithms.
 </p>
 
-## Skills Summary
+## Skills Summary 👨🏻‍💻
 
-- **Languages:** Python, PySpark, SQL, C, C++, Bash
-- **Frameworks:** PyTorch, Scikit Learn, NLTK, SpaCy, OpenCV, TensorFlow, Keras, Django, Flask
-- **Tech Skills:** Supervised/Unsupervised Learning, Deep Learning, Computer Vision, CNN, Vision Transformer, Semi/Self Supervised Learning, Time Series Modelling, Optimization
-- **Platforms:** Linux, Unix, Windows, Arduino, Raspberry, MS Azure
-- **Soft Skills:** Leadership, Team Management, Public Speaking, Mentorship
+<p style="font-size: 15px; color: #1B1212">
+- <strong>Languages:</strong> Python, PySpark, SQL, C, C++, Bash<br>
+- <strong>Frameworks:</strong> PyTorch, Scikit Learn, NLTK, SpaCy, OpenCV, TensorFlow, Keras, Django, Flask<br>
+- <strong>Tech Skills:</strong> Supervised/Unsupervised Learning, Deep Learning, Computer Vision, CNN, Vision Transformer, Semi/Self Supervised Learning, Time Series Modelling, Optimization<br>
+- <strong>Platforms:</strong> Linux, Unix, Windows, Arduino, Raspberry, MS Azure<br>
+- <strong>Soft Skills:</strong> Leadership, Team Management, Public Speaking, Mentorship
+</p>
 
 ## Experience
 
