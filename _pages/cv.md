@@ -49,7 +49,7 @@ redirect_from:
   &nbsp;&nbsp;- Developed the understanding and generative AI components, ensuring hallucination-free responses using advanced NLP, RAG, and knowledge graphs.<br>
   &nbsp;&nbsp;- As part of my functional roles, I do project planning, sprint planning and management, help in building RFPs for business development from an Advanced Analytics/AIML perspective.<br><br>
 
-<strong style="font-size: 13px;">Technical Lead – AI</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2021 - Mar. 2024]</strong></span><<br>
+<strong style="font-size: 13px;">Technical Lead – AI</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2021 - Mar. 2024]</strong></span><br>
   - Designed and developed a technique blending supervised and unsupervised model to predict physician prescription behavior and loyalty for a leading gastrointestinal product in USA.<br>
   - Designed and developed a prescription demand forecasting model using Gaussian Processes, overcoming challenges in designing the optimal kernel through rigorous hyperparameter tuning, cross-validation, and simulation, resulting in a 15% improvement in current forecast accuracy and reaching an overall accuracy of 93%.<br>
   - Designed and developed a multi-class text classifier using RoBERTa and SVM for intent classification, reaching an accuracy of 94% with 46 classes.<br>
