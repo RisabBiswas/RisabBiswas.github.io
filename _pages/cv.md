@@ -43,13 +43,13 @@ redirect_from:
 ## Experience 👨🏻‍💻
 <p style="font-size: 14px; color: #1B1212">
 - <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
-  <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
+  <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2024 - Present]</strong></span><br>
   &nbsp;&nbsp;- Leading a team of data scientists and machine learning engineers to tackle advanced R&D challenges in pharmaceutical commercial sales operations.<br>
   &nbsp;&nbsp;- Architected and deployed <a href= "https://www.p360.com/edenhelp/" style="color: blue; text-decoration: none;">(EdenHelp)</a>, an industry-first Conversational AI platform to optimize medical inquiries for pharmaceutical drugs and medical devices.<br>
   &nbsp;&nbsp;- Developed the understanding and generative AI components, ensuring hallucination-free responses using advanced NLP, RAG, and knowledge graphs.<br>
   &nbsp;&nbsp;- As part of my functional roles, I do project planning, sprint planning and management, help in building RFPs for business development from an Advanced Analytics/AIML perspective.<br><br>
 
-<strong style="font-size: 13px;">Technical Lead – AI</strong>, Mar 2021 - Mar 2024<br>
+<strong style="font-size: 13px;">Technical Lead – AI</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2021 - Mar. 2024]</strong></span><<br>
   - Designed and developed a technique blending supervised and unsupervised model to predict physician prescription behavior and loyalty for a leading gastrointestinal product in USA.<br>
   - Designed and developed a prescription demand forecasting model using Gaussian Processes, overcoming challenges in designing the optimal kernel through rigorous hyperparameter tuning, cross-validation, and simulation, resulting in a 15% improvement in current forecast accuracy and reaching an overall accuracy of 93%.<br>
   - Designed and developed a multi-class text classifier using RoBERTa and SVM for intent classification, reaching an accuracy of 94% with 46 classes.<br>
@@ -59,7 +59,7 @@ redirect_from:
 
 <p style="font-size: 14px; color: #1B1212">
 - <strong>P360, Piscataway, New Jersey (Remote)</strong><br>
-  <strong style="font-size: 13px;">Data Scientist</strong>, Mar 2019— Mar 2021<br>
+  <strong style="font-size: 13px;">Data Scientist</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2019— Mar. 2021]</strong></span><br>
   - Worked on Call Planning Optimization using Ensembled Classification Algorithm and Propensity Scoring.<br>
   - Worked on creating an algorithm for Detecting Acquired Blepharoptosis in Human Eye using Facial Landmark tracking and Deep Neural Networks.<br>
   - Built Marketing Mix Model for better Omnichannel and Customer Engagement – Panel Data Regression for Time Series Forecasting using linear models.<br>
@@ -68,14 +68,14 @@ redirect_from:
 
 <p style="font-size: 14px; color: #1B1212">
 - <strong>Prescriber360 Solutions, Piscataway, New Jersey (Remote)</strong><br>
-  <strong style="font-size: 13px;">Associate Data Scientist</strong>, March 2018 — March 2019<br>
+  <strong style="font-size: 13px;">Associate Data Scientist</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2018 — Mar. 2019]</strong></span><br>
   - Information retrieval using Optical Character Recognition (OCR) on scanned invoices/contracts.<br>
   - Extracting tables from scanned PDF's using computer vision algorithms in Python using Microsoft Vision API and Cognitive toolkit.
 </p>
 
 <p style="font-size: 14px; color: #1B1212">
 - <strong>Prescriber360 Solutions, Piscataway, New Jersey (Remote)</strong><br>
-  <strong style="font-size: 13px;">Data Science Intern</strong>, February 2018 — March 2018<br>
+  <strong style="font-size: 13px;">ML Research Intern</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Feb. 2018 — Mar. 2018]</strong></span><br>
   - Created an End-to-End Recommendation Model for Call Type recommendation personalized for each Customer (Physician).<br>
   - Creating Advanced Regression Models to Predict Rx based on Promotional Inputs.
 </p>
