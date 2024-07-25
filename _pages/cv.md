@@ -45,18 +45,16 @@ redirect_from:
 - <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
   <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
   &nbsp;&nbsp;- Leading a team of data scientists and machine learning engineers to tackle advanced R&D challenges in pharmaceutical commercial sales operations.<br>
-  &nbsp;&nbsp;- Architected and deployed <a href= "https://www.p360.com/edenhelp/" style="color: blue; text-decoration: none;">EdenHelp</a>, an industry-first Conversational AI platform to optimize medical inquiries for pharmaceutical drugs and medical devices.<br>
+  &nbsp;&nbsp;- Architected and deployed <a href= "https://www.p360.com/edenhelp/" style="color: blue; text-decoration: none;">(EdenHelp)</a>, an industry-first Conversational AI platform to optimize medical inquiries for pharmaceutical drugs and medical devices.<br>
   &nbsp;&nbsp;- Developed the understanding and generative AI components, ensuring hallucination-free responses using advanced NLP, RAG, and knowledge graphs.<br>
   &nbsp;&nbsp;- As part of my functional roles, I do project planning, sprint planning and management, help in building RFPs for business development from an Advanced Analytics/AIML perspective.<br><br>
 
 <strong style="font-size: 13px;">Technical Lead – AI</strong>, Mar 2021 - Mar 2024<br>
-  - Leading a team of 6 Data Scientists for R&D in AI/ML.<br>
-  - Blending Supervised and Unsupervised model to predict physician prescription behavior and loyalty.<br>
-  - Gaussian Process Forecasting for Demand Forecasting.<br>
-  - Semi-Supervised Clustering Modelling for Improved Customer Segmentation.<br>
-  - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement Platform.<br>
+  - Designed and developed a technique blending supervised and unsupervised model to predict physician prescription behavior and loyalty for a leading gastrointestinal product in USA.<br>
+  - Designed and developed a prescription demand forecasting model using Gaussian Processes, overcoming challenges in designing the optimal kernel through rigorous hyperparameter tuning, cross-validation, and simulation, resulting in a 15% improvement in current forecast accuracy and reaching an overall accuracy of 93%.<br>
+  - Designed and developed a multi-class text classifier using RoBERTa and SVM for intent classification, reaching an accuracy of 94% with 46 classes.<br>
   - Sentiment Analysis on conversational data using Transformers based Models.<br>
-  - Recommendation Model for Omnichannel Engagement.
+  - Created a collaborative-filtering based recommendation model for omnichannel engagement of physicians and their staffs.
 </p>
 
 <p style="font-size: 14px; color: #1B1212">
