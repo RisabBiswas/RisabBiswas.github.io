@@ -7,7 +7,7 @@ author_profile: true
 ## Projects 🛠️
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%;">
-    <img src="images/Krishi_Bandhu.JPG" alt="Project 1 Image" style="width: 100%;">
+    <img src="https://risabbiswas.github.io/images/Krishi_Bandhu.JPG" alt="Project 1 Image" style="width: 100%;">
     <!-- <img src="path/to/image2.jpg" alt="Project 2 Image" style="width: 100%;">
     <img src="path/to/image3.jpg" alt="Project 3 Image" style="width: 100%;">
     <img src="path/to/image4.jpg" alt="Project 4 Image" style="width: 100%;">
