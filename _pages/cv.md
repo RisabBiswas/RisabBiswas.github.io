@@ -8,9 +8,54 @@ redirect_from:
 
 {% include base_path %}
 <style>
-  .cv-section {
+  .content-container {
+    font-size: 16px;
+    color: #1B1212;
+    line-height: 1.6;
+  }
+  .content-container a {
+    text-decoration: none;
+    color: #4040FF;
+  }
+  .content-container a:hover {
+    text-decoration: underline;
+  }
+  .logo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  .logo-item {
+    text-align: center;
+    margin: 10px;
+  }
+  .logo-item img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  .logo-item p {
+    font-size: 14px;
+    color: #1B1212;
+  }
+  .updates-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .updates-list li {
+    margin: 10px 0;
+  }
+  .updates-list a {
+    color: #4040FF;
+    text-decoration: none;
+  }
+  .updates-list a:hover {
+    text-decoration: underline;
+  }
+  .updates-list, h3, p {
     font-size: 15px;
-}
+  }
 </style>
 ## Education 🎓
 
