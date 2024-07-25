@@ -9,16 +9,11 @@ redirect_from:
 {% include base_path %}
 ## Education 🎓
 
-<!-- - **[University of Glasgow, Glasgow, UK](https://www.gla.ac.uk/)**
-  - Master’s Thesis Research Student, Dec. 2023 - Mar. 2024  
-  - Supervisor: Dr. Chaitanya Kaul, School of Computing.  
-  - Thesis - <a href="https://arxiv.org/abs/2406.03173">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a> -->
-
 <p style="font-size: 15px; color: #1B1212">
-- <strong><a href="https://www.gla.ac.uk/">University of Glasgow, Glasgow, UK</a></strong><br>
+- <strong><a href="https://www.gla.ac.uk/" style="color: blue; text-decoration: none;">University of Glasgow, Glasgow, UK</a></strong><br>
 &nbsp;&nbsp;- Master’s Thesis Research Student, Dec. 2023 - Mar. 2024<br>
 &nbsp;&nbsp;- <strong>Supervisor:</strong> Dr. Chaitanya Kaul, School of Computing.<br>
-&nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://arxiv.org/abs/2406.03173">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
+&nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://arxiv.org/abs/2406.03173" style="color: blue; text-decoration: none;">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
 </p>
 
 - **[Birla Institute of Technology and Science, Pilani, India](http://www.bits-pilani.ac.in/)**  

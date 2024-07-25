@@ -62,30 +62,6 @@ redirect_from:
 <div class="content-container">
   <p style="font-size: 15px;">I am currently working as the Principal AI Engineer at <a href="https://www.p360.com/">P360</a>, building <a href="https://www.p360.com/edenhelp/">EdenHelp</a> and <a href="https://www.p360.com/birdzai/">BirdzAI</a>. I joined P360 in February 2018 as a founding Data Scientist. As an AI Engineer at P360, I have the fortune of working across diverse areas of machine learning and statistical modelling including natural language understanding, large language model, retrieval-augmented generation for Conversational AI, time series forecasting and optimization techniques, and predictive modelling within the pharmaceutical sector. My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> I also work in deep learning for Medical Image Analysis. Previously, I have worked on document image enhancement.</p>
 
-
-  <!-- <div style="display: flex; justify-content: space-between;">
-    <div style="text-align: center; margin: 10px;">
-      <img src="../images/sit.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science and Engineering, Siliguri Institute of Technology, India Aug. 2014 - Jul. 2018</div>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">ML Research Intern, Prescriber360 Solutions, Feb. 2018 - Mar. 2018</div>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, P360, Mar. 2018 - Present</div>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="../images/bits.png" alt="Logo4" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">M.Tech, Data Science and Engineering, BITS, Pilani, India Mar. 2022 - May. 2024</div>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-      <img src="../images/ug2.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">Thesis Research Student, University of Glasgow, UK, Dec. 2023 - Mar. 2024</div>
-    </div>
-  </div> -->
-
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; margin: 10px;">
       <img src="../images/SIT_2.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
@@ -99,10 +75,6 @@ redirect_from:
     <img src="../images/ug3.png" alt="Logo5" style="width: 100px; height: 100px; margin-bottom: 10px;">
     <div style="font-size: 12px; color: #1B1212;">Master's Thesis Research Student,<a href="https://www.gla.ac.uk/"> University of Glasgow</a>, UK,<br>Dec. 2023 - Mar. 2024</div>
     </div>
-    <!-- <div style="text-align: center; margin: 10px;">
-      <img src="../images/presc.png" alt="Logo2" style="width: 100px; height: 100px; margin-bottom: 10px;">
-      <div style="font-size: 12px; color: #1B1212;">ML Research Intern, Prescriber360 Solutions,<br>Feb. 2018 - Mar. 2018</div>
-    </div> -->
     <div style="text-align: center; margin: 10px;">
       <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
       <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, <a href="https://www.p360.com/">P360</a>,<br>Feb. 2018 - Pres.</div>
