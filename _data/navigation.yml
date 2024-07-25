@@ -2,7 +2,7 @@
 main:
   # - title: "Experience"
   #   url: /experience/
-  - title: "CV"
+  - title: "Profile"
     url: /cv/
   - title: "Publications"
     url: /publications/
