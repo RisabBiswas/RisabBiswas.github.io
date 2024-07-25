@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
   .content-container {
-    font-size: 16px;
+    font-size: 14px;
     color: #1B1212;
     line-height: 1.6;
   }
