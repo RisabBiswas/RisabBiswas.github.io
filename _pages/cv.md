@@ -7,56 +7,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<style>
-  .content-container {
-    font-size: 16px;
-    color: #1B1212;
-    line-height: 1.6;
-  }
-  .content-container a {
-    text-decoration: none;
-    color: #4040FF;
-  }
-  .content-container a:hover {
-    text-decoration: underline;
-  }
-  .logo-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 20px 0;
-  }
-  .logo-item {
-    text-align: center;
-    margin: 10px;
-  }
-  .logo-item img {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 10px;
-  }
-  .logo-item p {
-    font-size: 14px;
-    color: #1B1212;
-  }
-  .updates-list {
-    list-style-type: none;
-    padding: 0;
-  }
-  .updates-list li {
-    margin: 10px 0;
-  }
-  .updates-list a {
-    color: #4040FF;
-    text-decoration: none;
-  }
-  .updates-list a:hover {
-    text-decoration: underline;
-  }
-  .updates-list, h3, p {
-    font-size: 15px;
-  }
-</style>
 ## Education 🎓
 
 <!-- - **[University of Glasgow, Glasgow, UK](https://www.gla.ac.uk/)**
@@ -64,11 +14,11 @@ redirect_from:
   - Supervisor: Dr. Chaitanya Kaul, School of Computing.  
   - Thesis - <a href="https://arxiv.org/abs/2406.03173">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a> -->
 
-<p style="font-size: 15px;">
+<p style="font-size: 15px; color: #1B1212">
 - <strong><a href="https://www.gla.ac.uk/">University of Glasgow, Glasgow, UK</a></strong><br>
 &nbsp;&nbsp;- Master’s Thesis Research Student, Dec. 2023 - Mar. 2024<br>
-&nbsp;&nbsp;- Supervisor: Dr. Chaitanya Kaul, School of Computing.<br>
-&nbsp;&nbsp;- Thesis - <a href="https://arxiv.org/abs/2406.03173">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
+&nbsp;&nbsp;- <strong>Supervisor:</strong> Dr. Chaitanya Kaul, School of Computing.<br>
+&nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://arxiv.org/abs/2406.03173">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
 </p>
 
 - **[Birla Institute of Technology and Science, Pilani, India](http://www.bits-pilani.ac.in/)**  
