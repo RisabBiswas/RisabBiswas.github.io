@@ -17,7 +17,7 @@ redirect_from:
 - **[University of Glasgow, Glasgow, UK](https://www.gla.ac.uk/)**
   - Master’s Thesis Research Student, Dec. 2023 - Mar. 2024  
   - Supervisor: Dr. Chaitanya Kaul, School of Computing.  
-  - Thesis - <a href="https://arxiv.org/abs/2406.03173">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a> 
+  - Thesis - <a href="https://arxiv.org/abs/2406.03173">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
 
 - **[Birla Institute of Technology and Science, Pilani, India](http://www.bits-pilani.ac.in/)**  
   Master of Technology - Data Science and Engineering; GPA: 7.75/10, April 2022 - June 2024  
