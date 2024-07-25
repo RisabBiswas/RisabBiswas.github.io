@@ -9,20 +9,20 @@ redirect_from:
 {% include base_path %}
 ## Education 🎓
 
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong><a href="https://www.gla.ac.uk/" style="color: blue; text-decoration: none;">University of Glasgow, Glasgow, UK</a></strong><br>
 &nbsp;&nbsp;- <a href="https://drive.google.com/file/d/1sWV--t7Xo4RacTGsnlrbJNssrJX-1TOH/view?usp=sharing" style="color: blue; text-decoration: none;">Master’s Thesis Research Student</a>, <span style="font-size: 13px; font-style: italic;"><strong>Grade: Excellent, [Dec. 2023 - Mar. 2024]</strong></span><br>
 &nbsp;&nbsp;- <strong>Supervisor:</strong> Dr. Chaitanya Kaul, Research Associate, School of Computing Science.<br>
 &nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://arxiv.org/abs/2406.03173" style="color: blue; text-decoration: none;">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
 </p>
 
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong><a href="http://www.bits-pilani.ac.in/" style="color: blue; text-decoration: none;">Birla Institute of Technology and Science, Pilani, India</a></strong><br>
 &nbsp;&nbsp;- Master of Technology in Data Science and Engineering; <span style="font-size: 13px; font-style: italic;"><strong>GPA: 7.75/10, [Apr. 2022 - Jun. 2024]</strong></span><br>
 &nbsp;&nbsp;- <strong>Courses</strong>: Advanced Mathematics, Data Mining, Statistical Modelling, Machine Learning, Deep Learning, Computer Vision, NLP.
 </p>
 
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong><a href="https://sittechno.org/" style="color: blue; text-decoration: none;">Siliguri Institute of Technology, Maulana Abul Kalam Azad University of Technology, India</a></strong><br>
 &nbsp;&nbsp;- Bachelor of Technology in Computer Science and Engineering; <span style="font-size: 13px; font-style: italic;"><strong>GPA: 8.84/10, [Aug. 2014 - Jun. 2018]</strong></span><br>
 &nbsp;&nbsp;- <strong>Supervisor:</strong> <a href= "https://scholar.google.co.in/citations?user=pixVZ0oAAAAJ&hl=en" style="color: blue; text-decoration: none;">Prof. Anupam Mukherjee</a>, Head of the Department, Dept. of Computer Science & Eng.<br>
@@ -41,7 +41,7 @@ redirect_from:
 </p>
 
 ## Experience 👨🏻‍💻
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
   <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
   - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement in Pharmaceutical.<br>
@@ -59,7 +59,7 @@ redirect_from:
   - Recommendation Model for Omnichannel Engagement.
 </p>
 
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong>P360, Piscataway, New Jersey (Remote)</strong><br>
   <strong style="font-size: 13px;">Data Scientist</strong>, Mar 2019— Mar 2021<br>
   - Worked on Call Planning Optimization using Ensembled Classification Algorithm and Propensity Scoring.<br>
@@ -68,14 +68,14 @@ redirect_from:
   - Built Physician Segmentation Model using unsupervised techniques to do Customer Profiling in real-time – Unsupervised Modelling.
 </p>
 
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong>Prescriber360 Solutions, Piscataway, New Jersey (Remote)</strong><br>
   <strong style="font-size: 13px;">Associate Data Scientist</strong>, March 2018 — March 2019<br>
   - Information retrieval using Optical Character Recognition (OCR) on scanned invoices/contracts.<br>
   - Extracting tables from scanned PDF's using computer vision algorithms in Python using Microsoft Vision API and Cognitive toolkit.
 </p>
 
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong>Prescriber360 Solutions, Piscataway, New Jersey (Remote)</strong><br>
   <strong style="font-size: 13px;">Data Science Intern</strong>, February 2018 — March 2018<br>
   - Created an End-to-End Recommendation Model for Call Type recommendation personalized for each Customer (Physician).<br>

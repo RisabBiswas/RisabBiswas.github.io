@@ -54,7 +54,7 @@ redirect_from:
     text-decoration: underline;
   }
   .updates-list, h3, p {
-    font-size: 15px;
+    font-size: 14px;
   }
 </style>
 
