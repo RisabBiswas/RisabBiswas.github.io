@@ -41,13 +41,13 @@ redirect_from:
 </p>
 
 ## Experience 👨🏻‍💻
-<p style="font-size: 14px; color: #1B1212">
+<p style="font-size: 16px; color: #1B1212">
 - <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
   <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
   - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement in Pharmaceutical.<br>
   - Leading a team of data scientists and machine learning engineers to work on R&D for solving problems in pharmaceutical commercial sales ops.<br>
   - Built a Marketing Mix Model for Omnichannel and Customer Engagement – Panel Data Regression Model, and a Physician Segmentation Model using unsupervised clustering algorithms for real-time Customer Profiling.<br>
-  - Created a Forecasting model that achieved a 93% Accuracy on Prediction vs Ground Truth - LSTM, Gaussian Process Forecasting, Transformer Models.<br>
+  - Created a Forecasting model that achieved a 93% Accuracy on Prediction vs Ground Truth - LSTM, Gaussian Process Forecasting, Transformer Models.<br><br>
 
 <strong style="font-size: 13px;">Technical Lead – AI</strong>, Mar 2021 - Mar 2024<br>
   - Leading a team of 6 Data Scientists for R&D in AI/ML.<br>
