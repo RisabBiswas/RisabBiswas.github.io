@@ -32,7 +32,7 @@ redirect_from:
 
 ## Skills 🧠
 
-<p style="font-size: 15px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong>Languages:</strong> C, C++, Python, PySpark, SQL<br>
 - <strong>Frameworks:</strong> PyTorch, TensorFlow, Keras, Scikit Learn, LangChain, NLTK, SpaCy, OpenCV, Django, Flask<br>
 - <strong>Tech Skills:</strong> Deep Learning, Computer Vision, Natural Language Processing, Generative AI, Vector Database, Time Series Modelling, Convex Optimization<br>
@@ -44,10 +44,11 @@ redirect_from:
 <p style="font-size: 14px; color: #1B1212">
 - <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
   <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
-  - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement in Pharmaceutical.<br>
-  - Leading a team of data scientists and machine learning engineers to work on R&D for solving problems in pharmaceutical commercial sales ops.<br>
-  - Built a Marketing Mix Model for Omnichannel and Customer Engagement – Panel Data Regression Model, and a Physician Segmentation Model using unsupervised clustering algorithms for real-time Customer Profiling.<br>
-  - Created a Forecasting model that achieved a 93% Accuracy on Prediction vs Ground Truth - LSTM, Gaussian Process Forecasting, Transformer Models.<br><br>
+  - Leading a team of data scientists and machine learning engineers to tackle advanced R&D challenges in pharmaceutical commercial sales operations.
+  - Architected and deployed <a href= "https://www.p360.com/edenhelp/" style="color: blue; text-decoration: none;">EdenHelp</a>, an industry-first Conversational AI platform to optimize medical inquiries for pharmaceutical drugs and medical devices.
+  - Developed the understanding and generative AI components, ensuring hallucination-free responses using advanced NLP, RAG, and knowledge graphs.
+  - As part of my functional roles, I do project planning, sprint planning and management, help in building RFPs for business development from an Advanced Analytics/AIML
+    perspective.<br><br>
 
 <strong style="font-size: 13px;">Technical Lead – AI</strong>, Mar 2021 - Mar 2024<br>
   - Leading a team of 6 Data Scientists for R&D in AI/ML.<br>
