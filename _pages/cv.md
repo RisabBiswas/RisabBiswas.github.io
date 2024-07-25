@@ -41,7 +41,7 @@ redirect_from:
 </p>
 
 ## Experience 👨🏻‍💻
-<p style="font-size: 16px; color: #1B1212">
+<p style="font-size: 14px; color: #1B1212">
 - <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
   <strong style="font-size: 13px;">Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
   - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement in Pharmaceutical.<br>
