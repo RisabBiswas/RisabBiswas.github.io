@@ -59,7 +59,7 @@ redirect_from:
 
 <p style="font-size: 14px; color: #1B1212">
 - <strong>P360, Piscataway, New Jersey (Remote)</strong><br>
-  <strong style="font-size: 13px;">Data Scientist</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2019— Mar. 2021]</strong></span><br>
+  <strong style="font-size: 13px;">Data Scientist</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2019 — Mar. 2021]</strong></span><br>
   - Worked on Call Planning Optimization using Ensembled Classification Algorithm and Propensity Scoring.<br>
   - Worked on creating an algorithm for Detecting Acquired Blepharoptosis in Human Eye using Facial Landmark tracking and Deep Neural Networks.<br>
   - Built Marketing Mix Model for better Omnichannel and Customer Engagement – Panel Data Regression for Time Series Forecasting using linear models.<br>
