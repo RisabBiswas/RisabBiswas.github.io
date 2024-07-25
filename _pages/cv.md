@@ -28,7 +28,7 @@ redirect_from:
 &nbsp;&nbsp;- <strong>Courses</strong>: Artificial Intelligence, Data Mining and Data Warehousing, Discrete Mathematics, Numerical Methods, Probability, Data Structures and Analysis of Algorithms.
 </p>
 
-## Skills Summary 👨🏻‍💻
+## Skills 🧠
 
 <p style="font-size: 15px; color: #1B1212">
 - <strong>Languages:</strong> C, C++, Python, PySpark, SQL<br>
@@ -38,42 +38,52 @@ redirect_from:
 - <strong>Soft Skills:</strong> Leadership, Team Management, Public Speaking, Mentorship
 </p>
 
-## Experience
+## Experience 👨🏻‍💻
 
-- **Optiks Innovations Pvt. Ltd. (P360), Remote**  
-  **Principal Engineer - Artificial Intelligence**, Mar 2024 - Present  
-  - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement in Pharmaceutical.  
-  - Leading a team of data scientists and machine learning engineers to work on R&D for solving problems in pharmaceutical commercial sales ops.  
-  - Built a Marketing Mix Model for Omnichannel and Customer Engagement – Panel Data Regression Model, and a Physician Segmentation Model using unsupervised clustering algorithms for real-time Customer Profiling.  
+<h2 style="font-size: 20px; color: #1B1212">Experience 👨🏻‍💻</h2>
+
+<p style="font-size: 15px; color: #1B1212">
+- <strong>Optiks Innovations Pvt. Ltd. (P360), Remote</strong><br>
+  <strong>Principal Engineer - Artificial Intelligence</strong>, Mar 2024 - Present<br>
+  - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement in Pharmaceutical.<br>
+  - Leading a team of data scientists and machine learning engineers to work on R&D for solving problems in pharmaceutical commercial sales ops.<br>
+  - Built a Marketing Mix Model for Omnichannel and Customer Engagement – Panel Data Regression Model, and a Physician Segmentation Model using unsupervised clustering algorithms for real-time Customer Profiling.<br>
   - Created a Forecasting model that achieved a 93% Accuracy on Prediction vs Ground Truth - LSTM, Gaussian Process Forecasting, Transformer Models.
 
-  **Technical Lead – AI**, Mar 2021 - Mar 2024  
-  - Leading a team of 6 Data Scientists for R&D in AI/ML.  
-  - Blending Supervised and Unsupervised model to predict physician prescription behavior and loyalty.  
-  - Gaussian Process Forecasting for Demand Forecasting.  
-  - Semi-Supervised Clustering Modelling for Improved Customer Segmentation.  
-  - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement Platform.  
-  - Sentiment Analysis on conversational data using Transformers based Models.  
+  <strong>Technical Lead – AI</strong>, Mar 2021 - Mar 2024<br>
+  - Leading a team of 6 Data Scientists for R&D in AI/ML.<br>
+  - Blending Supervised and Unsupervised model to predict physician prescription behavior and loyalty.<br>
+  - Gaussian Process Forecasting for Demand Forecasting.<br>
+  - Semi-Supervised Clustering Modelling for Improved Customer Segmentation.<br>
+  - Working on Contextual Natural Language Understanding for Conversational AI for Customer Engagement Platform.<br>
+  - Sentiment Analysis on conversational data using Transformers based Models.<br>
   - Recommendation Model for Omnichannel Engagement.
+</p>
 
-- **P360, Piscataway, New Jersey (Remote)**  
-  **Data Scientist**, Mar 2019— Mar 2021  
-  - Worked on Call Planning Optimization using Ensembled Classification Algorithm and Propensity Scoring.  
-  - Worked on creating an algorithm for Detecting Acquired Blepharoptosis in Human Eye using Facial Landmark tracking and Deep Neural Networks.  
-  - Built Marketing Mix Model for better Omnichannel and Customer Engagement – Panel Data Regression for Time Series Forecasting using linear models.  
+<p style="font-size: 15px; color: #1B1212">
+- <strong>P360, Piscataway, New Jersey (Remote)</strong><br>
+  <strong>Data Scientist</strong>, Mar 2019— Mar 2021<br>
+  - Worked on Call Planning Optimization using Ensembled Classification Algorithm and Propensity Scoring.<br>
+  - Worked on creating an algorithm for Detecting Acquired Blepharoptosis in Human Eye using Facial Landmark tracking and Deep Neural Networks.<br>
+  - Built Marketing Mix Model for better Omnichannel and Customer Engagement – Panel Data Regression for Time Series Forecasting using linear models.<br>
   - Built Physician Segmentation Model using unsupervised techniques to do Customer Profiling in real-time – Unsupervised Modelling.
+</p>
 
-- **Prescriber360 Solutions, Piscataway, New Jersey (Remote)**  
-  **Associate Data Scientist**, March 2018 — March 2019  
-  - Information retrieval using Optical Character Recognition (OCR) on scanned invoices/contracts.  
+<p style="font-size: 15px; color: #1B1212">
+- <strong>Prescriber360 Solutions, Piscataway, New Jersey (Remote)</strong><br>
+  <strong>Associate Data Scientist</strong>, March 2018 — March 2019<br>
+  - Information retrieval using Optical Character Recognition (OCR) on scanned invoices/contracts.<br>
   - Extracting tables from scanned PDF's using computer vision algorithms in Python using Microsoft Vision API and Cognitive toolkit.
+</p>
 
-- **Prescriber360 Solutions, Piscataway, New Jersey (Remote)**  
-  **Data Science Intern**, February 2018 — March 2018  
-  - Created an End-to-End Recommendation Model for Call Type recommendation personalized for each Customer (Physician).  
+<p style="font-size: 15px; color: #1B1212">
+- <strong>Prescriber360 Solutions, Piscataway, New Jersey (Remote)</strong><br>
+  <strong>Data Science Intern</strong>, February 2018 — March 2018<br>
+  - Created an End-to-End Recommendation Model for Call Type recommendation personalized for each Customer (Physician).<br>
   - Creating Advanced Regression Models to Predict Rx based on Promotional Inputs.
+</p>
 
-## Projects
+## Projects 🛠️
 
 - **Identification of Pathological Disease in Plants Using Deep Neural Networks, Intel®:** Developed an algorithm to detect 5 classes of Pathological disease at various parts of Plants in real-time using a mobile application.
 - **Vehicle Advanced Monitoring System, Intel®:** Collaborated with a team of AI and IoT engineers to do R&D inclined to the concept of smart cars.
