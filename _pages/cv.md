@@ -25,7 +25,7 @@ redirect_from:
 <p style="font-size: 15px; color: #1B1212">
 - <strong><a href="https://sittechno.org/" style="color: blue; text-decoration: none;">Siliguri Institute of Technology, Maulana Abul Kalam Azad University of Technology, India</a></strong><br>
 &nbsp;&nbsp;- Bachelor of Technology in Computer Science and Engineering; <span style="font-size: 13px; font-style: italic;"><strong>GPA: 8.84/10, [Aug. 2014 - Jun. 2018]</strong></span><br>
-&nbsp;&nbsp;- <strong>Courses</strong>: Artificial Intelligence, Data Mining and Data Warehousing, Discrete Mathematics, Numerical Methods, Probability, Data Structures and Analysis of Algorithms.
+&nbsp;&nbsp;- <strong>Courses</strong>: Artificial Intelligence, Data Mining and Data Warehousing, Discrete Mathematics, Probability, Data Structures, Design and Analysis of Algorithms.
 </p>
 
 ## Skills 🧠
