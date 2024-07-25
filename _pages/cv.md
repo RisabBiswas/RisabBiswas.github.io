@@ -26,7 +26,7 @@ redirect_from:
 - <strong><a href="https://sittechno.org/" style="color: blue; text-decoration: none;">Siliguri Institute of Technology, Maulana Abul Kalam Azad University of Technology, India</a></strong><br>
 &nbsp;&nbsp;- Bachelor of Technology in Computer Science and Engineering; <span style="font-size: 13px; font-style: italic;"><strong>GPA: 8.84/10, [Aug. 2014 - Jun. 2018]</strong></span><br>
 &nbsp;&nbsp;- <strong>Supervisor:</strong><a href= "https://scholar.google.co.in/citations?user=pixVZ0oAAAAJ&hl=en" style="color: blue; text-decoration: none;">Prof. Anupam Mukherje</a>, Head of the Department,Dept. of Computer Science & Eng.<br>
-&nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://arxiv.org/abs/2406.03173" style="color: blue; text-decoration: none;">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
+&nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://devmesh.intel.com/projects/self-driving-bot-on-intel-architecture#about-section" style="color: blue; text-decoration: none;">Autonomous Self-Driving Bot: Real-Time Obstacle Detection and Decision Making</a>
 &nbsp;&nbsp;- <strong>Courses</strong>: AI, Data Mining and Data Warehousing, Discrete Mathematics, Probability, Data Structures, Design and Analysis of Algorithms.
 </p>
 
