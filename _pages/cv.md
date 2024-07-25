@@ -31,10 +31,10 @@ redirect_from:
 ## Skills Summary 👨🏻‍💻
 
 <p style="font-size: 15px; color: #1B1212">
-- <strong>Languages:</strong> Python, PySpark, SQL, C, C++, Bash<br>
-- <strong>Frameworks:</strong> PyTorch, Scikit Learn, NLTK, SpaCy, OpenCV, TensorFlow, Keras, Django, Flask<br>
-- <strong>Tech Skills:</strong> Supervised/Unsupervised Learning, Deep Learning, Computer Vision, CNN, Vision Transformer, Semi/Self Supervised Learning, Time Series Modelling, Optimization<br>
-- <strong>Platforms:</strong> Linux, Unix, Windows, Arduino, Raspberry, MS Azure<br>
+- <strong>Languages:</strong> C, C++, Python, PySpark, SQL<br>
+- <strong>Frameworks:</strong> PyTorch, TensorFlow, Keras, Scikit Learn, LangChain, NLTK, SpaCy, OpenCV, Django, Flask<br>
+- <strong>Tech Skills:</strong> Deep Learning, Computer Vision, Natural Language Processing, Generative AI, Vector Database, Time Series Modelling, Convex Optimization<br>
+- <strong>Platforms:</strong> Linux, Windows<br>
 - <strong>Soft Skills:</strong> Leadership, Team Management, Public Speaking, Mentorship
 </p>
 
