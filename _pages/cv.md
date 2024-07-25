@@ -35,7 +35,7 @@ redirect_from:
 <p style="font-size: 14px; color: #1B1212">
 - <strong>Languages:</strong> C, C++, Python, PySpark, SQL<br>
 - <strong>Frameworks:</strong> PyTorch, TensorFlow, Keras, Scikit Learn, LangChain, NLTK, SpaCy, OpenCV, Django, Flask<br>
-- <strong>Tech Skills:</strong> Deep Learning, Computer Vision, NLP, Generative AI, Vector Database, Time Series Modelling, Convex Optimization<br>
+- <strong>Tech Skills:</strong> Deep Learning, Computer Vision, NLP, Generative AI, Vector Database, Time Series Forecasting, Convex Optimization<br>
 - <strong>Platforms:</strong> Linux, Windows<br>
 - <strong>Soft Skills:</strong> Leadership, Team Management, Public Speaking, Mentorship
 </p>
@@ -80,14 +80,5 @@ redirect_from:
   - Creating Advanced Regression Models to Predict Rx based on Promotional Inputs.
 </p>
 
-## Projects 🛠️
 
-- **Identification of Pathological Disease in Plants Using Deep Neural Networks, Intel®:** Developed an algorithm to detect 5 classes of Pathological disease at various parts of Plants in real-time using a mobile application.
-- **Vehicle Advanced Monitoring System, Intel®:** Collaborated with a team of AI and IoT engineers to do R&D inclined to the concept of smart cars.
-- **Exploring Drug Identification — Powered by Intel® Distribution of OpenVINO™ Toolkit, Intel®:** Designed a methodology to identify new drugs and virtual molecules in Drug discovery terminology.
-- **SARCASM.AI:** Developed a fine-tuned GPT-2 model for sarcastically completing an input sentence.
-- **Conversational AI With Persona:** Developed a Conversational AI engine that takes input and responds based on the knowledge base using Transfer learning.
-- **Contextual Sentiment Extraction from Text Utterances:** Developed a multi-class NLP model to extract sentiments from sentences/paragraphs using Google BERT.
-- **Ben: The Self-Driving Bot,(Final Year Dissertation)(Deep Learning, Autonomous Robotics):** Built an autonomous robot that is a prototype with capabilities similar to an actual self-driving car.
-- **Autonomous Maze Solving Robot (Autonomous Robotics, AI):** Designed a Maze Solving Robot to find a path in a complex maze without any assistance or help.
 
