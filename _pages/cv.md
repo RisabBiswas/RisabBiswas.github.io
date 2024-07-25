@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="font-size: 15px; color: #1B1212">
 - <strong><a href="https://www.gla.ac.uk/" style="color: blue; text-decoration: none;">University of Glasgow, Glasgow, UK</a></strong><br>
-&nbsp;&nbsp;- Master’s Thesis Research Student, <span style="font-size: 13px; font-style: italic;"><strong>Grade: Excellent, [Dec. 2023 - Mar. 2024]</strong></span><br>
+&nbsp;&nbsp;- <a href="https://drive.google.com/file/d/1sWV--t7Xo4RacTGsnlrbJNssrJX-1TOH/view?usp=sharing" style="color: blue; text-decoration: none;">Master’s Thesis Research Student</a>, <span style="font-size: 13px; font-style: italic;"><strong>Grade: Excellent, [Dec. 2023 - Mar. 2024]</strong></span><br>
 &nbsp;&nbsp;- <strong>Supervisor:</strong> <a href="https://scholar.google.com/citations?user=GAGMBAwAAAAJ&hl=en" style="color: blue; text-decoration: none;">Dr. Chaitanya Kaul</a>, School of Computing Science.<br>
 &nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://arxiv.org/abs/2406.03173" style="color: blue; text-decoration: none;">Advancing Medical Image Segmentation Through Multi-Task and Multi-Scale Contrastive Knowledge Distillation</a>
 </p>
