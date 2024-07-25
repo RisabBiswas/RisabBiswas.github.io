@@ -35,7 +35,7 @@ redirect_from:
 <p style="font-size: 14px; color: #1B1212">
 - <strong>Languages:</strong> C, C++, Python, PySpark, SQL<br>
 - <strong>Frameworks:</strong> PyTorch, TensorFlow, Keras, Scikit Learn, LangChain, NLTK, SpaCy, OpenCV, Django, Flask<br>
-- <strong>Tech Skills:</strong> Deep Learning, Computer Vision, Natural Language Processing, Generative AI, Vector Database, Time Series Modelling, Convex Optimization<br>
+- <strong>Tech Skills:</strong> Deep Learning, Computer Vision, NLP, Generative AI, Vector Database, Time Series Modelling, Convex Optimization<br>
 - <strong>Platforms:</strong> Linux, Windows<br>
 - <strong>Soft Skills:</strong> Leadership, Team Management, Public Speaking, Mentorship
 </p>
