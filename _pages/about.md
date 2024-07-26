@@ -99,7 +99,7 @@ redirect_from:
 
   <p style="font-size: 14px;"><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
 
-  <h3 style="text-decoration: underline;">Updates</h3>
+  <h3 style="text-decoration: underline;">Updates:</h3>
   <ul class="updates-list">
     <li><strong>[May. 2024]</strong> Graduated with an M.Tech in Data Science and Engineering from <a href="https://www.bits-pilani.ac.in/">BITS Pilani</a>!</li>
     <li><strong>[Apr. 2024]</strong> Promoted from Tech Lead to Principal AI Engineer at <a href="https://www.p360.com/leadership/">P360</a>. Excited for the new role!</li>
@@ -117,7 +117,7 @@ redirect_from:
     <li><strong>[Mar. 2022]</strong> Started Master's in Data Science and Engineering from BITS, Pilani, India.</li>
   </ul>
 
-  <h3 style="text-decoration: underline;">Contact Me</h3>
+  <h3 style="text-decoration: underline;">Contact Me:</h3>
   <p>
   <a href="mailto:risabbiswas19@gmail.com">Email 📩</a><br>
   <a href="https://www.linkedin.com/in/risab-biswas/">LinkedIn 🙌</a>
