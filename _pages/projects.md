@@ -27,7 +27,7 @@ author_profile: true
     <div style="flex: 1;">
       <img src="../images/Krishi_Bandhu.JPG" alt="Project Image" style="max-width: 100%; height: auto;">
     </div>
-    <div style="flex: 2; padding-left: 20px;">
+    <div style="flex: 2; padding-left: 20px; font-size: 14px;">
       <h3>Krishak Bandhu</h3>
       <p>In 2019, I developed Krishak Bandhu, an innovative mobile application designed to help farmers in India detect plant diseases using deep learning. While numerous techniques for plant disease detection exist, my goal was to create a solution that was both simple and cost-effective for the agricultural community. Krishak Bandhu stands out for its user-friendly interface, making advanced plant health monitoring accessible and practical for farmers across the country.</p>
       <a href="LINK_TO_PROJECT" style="color: blue; text-decoration: none;">[Project]</a> 
