@@ -101,7 +101,7 @@ redirect_from:
 
   <h3 style="text-decoration: underline;">Updates:</h3>
   <ul class="updates-list">
-    <li><strong>[May. 2024]</strong> Graduated with an M.Tech in Data Science and Engineering from <a href="https://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">BITS Pilani</a>!</li>
+    <li><strong>[May. 2024]</strong> Graduated with an M.Tech in Data Science and Engineering from <a href="https://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">BITS Pilani, India</a>!</li>
     <li><strong>[Apr. 2024]</strong> Promoted from Tech Lead to Principal AI Engineer at <a href="https://www.p360.com/leadership/" style="color: #2985d8; text-decoration: none;">P360</a>. Excited for the new role!</li>
     <li><strong>[Mar. 2024]</strong> Successfully defended my <a href="https://arxiv.org/pdf/2406.03173" style="color: #2985d8; text-decoration: none;">Master's Thesis</a>.</li>
     <li><strong>[Dec. 2023]</strong> The preprint of our paper, <a href="https://arxiv.org/abs/2312.03568" style="color: #2985d8; text-decoration: none;">DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization</a>, is now available on arXiv.</li>
