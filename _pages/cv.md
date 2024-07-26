@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p style="font-size: 14px;">I began my professional journey in Machine Learning and Data Science as a Data Scientist in 2018, marking the starting point of my exciting career. After gaining valuable industry experience, I decided to further enhance my skills and knowledge by pursuing a Master's degree. This academic endeavor allowed me to reskill and strengthen my foundation in machine learning, with the long-term goal of pursuing a doctorate. Balancing a full-time job with graduate studies was challenging, but it taught me resilience, mental toughness, and prepared me for the rigors of doctoral research.</p>
+<p style="font-size: 14px;">I began my professional journey in Machine Learning and Data Science as a Data Scientist in 2018, marking the starting point of my exciting career. After gaining valuable industry experience, I decided to further enhance my skills and knowledge by pursuing a Master's degree. This academic endeavor allowed me to reskill and strengthen my foundation in mathematics and machine learning, with the long-term goal of pursuing a doctorate. Balancing a full-time job with graduate studies was challenging, but it taught me resilience and perseverance, and prepared me for the rigors of doctoral research.</p>
 
 ## Education 🎓
 <!-- #2985d8, 2985d8-->
@@ -39,7 +39,7 @@ redirect_from:
 
 <p style="font-size: 14px; color: #1B1212"> - <strong><a href="http://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">Birla Institute of Technology and Science, Pilani, India</a></strong><br> &nbsp;&nbsp;- Master of Technology in Data Science and Engineering; <span style="font-size: 13px; font-style: italic;"><strong>GPA: 7.75/10, [Apr. 2022 - Jun. 2024]</strong></span><br> &nbsp;&nbsp;- <strong>Courses</strong>: Advanced Mathematics, Data Mining, Statistical Modelling, Machine Learning, Deep Learning, Computer Vision, NLP. </p>
 
-<p style="font-size: 14px; color: #1B1212"> - <strong><a href="https://sittechno.org/" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology, Maulana Abul Kalam Azad University of Technology, India</a></strong><br> &nbsp;&nbsp;- Bachelor of Technology in Computer Science and Engineering; <span style="font-size: 13px; font-style: italic;"><strong>GPA: 8.84/10, [Aug. 2014 - Jun. 2018]</strong></span> Departmental Rank - 1
+<p style="font-size: 14px; color: #1B1212"> - <strong><a href="https://sittechno.org/" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology, Maulana Abul Kalam Azad University of Technology, India</a></strong><br> &nbsp;&nbsp;- Bachelor of Technology in Computer Science and Engineering; <span style="font-size: 13px; font-style: italic;"><strong>GPA: 8.84/10, [Aug. 2014 - Jun. 2018]</strong></span><br> &nbsp;&nbsp;- Departmental Rank - 1
 <br> &nbsp;&nbsp;- <strong>Supervisor:</strong> <a href= "https://scholar.google.co.in/citations?user=pixVZ0oAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Anupam Mukherjee</a>, Head of the Department, Dept. of Computer Science & Eng.<br> &nbsp;&nbsp;- <strong>Thesis:</strong> <a href="https://devmesh.intel.com/projects/self-driving-bot-on-intel-architecture#about-section" style="color: #2985d8; text-decoration: none;">Autonomous Self-Driving Bot: Real-Time Obstacle Detection and Decision Making</a><br> &nbsp;&nbsp;- <strong>Courses</strong>: AI, Data Mining and Data Warehousing, Discrete Mathematics, Probability, Data Structures, Design and Analysis of Algorithms. </p>
 ## Skills 🧠
 
