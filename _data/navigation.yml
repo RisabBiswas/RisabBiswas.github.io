@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Home"
+    url: /about/
   - title: "Profile"
     url: /cv/
   - title: "Research"
