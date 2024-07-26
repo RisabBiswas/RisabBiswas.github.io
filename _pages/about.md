@@ -76,7 +76,7 @@ redirect_from:
 
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; margin: 10px;">
-      <img src="../images/SIT_3.jpg" alt="Logo1" style="width: 100px; height: 100px; margin-bottom: 10px;">
+      <img src="../images/SIT_3.jpg" alt="Logo1" style="width: 120px; height: 100px; margin-bottom: 10px;">
       <div style="font-size: 12px; color: #1B1212;">B.Tech, Computer Science & Eng., <a href="https://sittechno.org/" style="color: #2985d8; text-decoration: none;">SIT (MAKAUT)</a>, India<br>Aug. 2014 - Jul. 2018</div>
     </div>
     <div style="text-align: center; margin: 10px;">
