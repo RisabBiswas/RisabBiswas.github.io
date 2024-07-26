@@ -58,7 +58,7 @@ permalink: /talks/
   <div class="talk-details">
     <h3>AI Meetup and Project Demonstartion at NIT, Durgapur</h3>
     <p><strong>Date:</strong> Mar. 14, 2018</p>
-    <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</a></p>
+    <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</p>
   </div>
   </div>
 
@@ -79,7 +79,7 @@ permalink: /talks/
     <p>I was honoured to be invited as a guest speaker at <a href = "https://ieee-ju.github.io/thinkai/index.html#" style="color: #2985d8; text-decoration: none;">ThinkAI</a> organized by <a href = "https://www.ieee-jaduniv.in/" style="color: #2985d8; text-decoration: none;">IEEE Student Chapter</a> at <a href = "https://jadavpuruniversity.in/" style="color: #2985d8; text-decoration: none;">Jadavpur University</a>. My topic of discussion was deep learning, computer vision and performing faster inference on low compute devices.</p>
   </div>
   </div>
-  
+
   <div class="talk-item">
   <img src="../images/Img_010.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
