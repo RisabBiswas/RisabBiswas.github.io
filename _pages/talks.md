@@ -67,7 +67,16 @@ permalink: /talks/
   <div class="talk-details">
     <h3>Hands on Workshop on Computer Vision and Intel OpenVino Toolkit</h3>
     <p><strong>Date:</strong> Feb. 16, 2019</p>
-    <p>I had the opportunity to conduct a hands on workshop on performing faster inference for computer vision applications using Intel Distribution of the OpenVino Toolkit. The event was organized in collaboration with GDG Siliguri.</a></p>
+    <p>I had the opportunity to conduct a hands on workshop on performing faster inference for computer vision applications using Intel Distribution of the OpenVino Toolkit. The event was organized in collaboration with GDG Siliguri.</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/ThinkAI.jpg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Invited Speaker at IEEE Machine Learning Summit'19</h3>
+    <p><strong>Date:</strong> Apr. 19, 2019</p>
+    <p>I was honoured to be invited as a guest speaker at ThinkAI organized by IEEE Student Chapter at Jadavpur University. My topic of discussion was deep learning, computer vision and performing faster inference on low compute devices.</p>
   </div>
   </div>
 </div>
