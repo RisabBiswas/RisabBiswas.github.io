@@ -93,7 +93,7 @@ permalink: /talks/
   <img src="../images/IMG_016.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Lecture at Sixth Summer School on Computer Vision, Graphics and Image Processing</h3>
-    <p><strong>Date:</strong> May. 25, 2019</p>
+    <p><strong>Date:</strong> June. 17, 2019</p>
     <p>I was invited as a guest lecturer at the <a href = "https://www.isical.ac.in/~ecsu/?q=node/87" style="color: #2985d8; text-decoration: none;">Sixth Summer School on Computer Vision, Graphics and Image Processing</a> at the ECSU, <a href = "https://www.isical.ac.in/" style="color: #2985d8; text-decoration: none;">Indian Statistical Institute, Kolkata</a>. I delivered a lecture "Latest Trends in Deep Learning and Computer Vision and their Real-World Applications" and showcased my project.</p>
   </div>
   </div>
