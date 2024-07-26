@@ -59,7 +59,7 @@ redirect_from:
 </style>
 <style>
   .research-interest {
-    background-color: #F2F2F2; /* Light grey */
+    background-color: #eeeeee; /* Light grey */
     padding: 10px;
     border-radius: 5px;
     transition: background-color 0.3s ease; /* Smooth transition for background color */
