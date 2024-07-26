@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Home"
-    url: /about/
+  # - title: "Home"
+  #   url: /about/
   - title: "Profile"
     url: /cv/
   - title: "Research"
@@ -9,9 +9,7 @@ main:
   # - title: "Projects"
   #   url: /projects/
   - title: "Talks"
-    url: /talks/
-  # - title: "Talks"
-  #   url: /talks/    
+    url: /talks/  
   # - title: "Hackathons"
   #   url: /hackathons/ 
   # - title: "Awards and Honors"
