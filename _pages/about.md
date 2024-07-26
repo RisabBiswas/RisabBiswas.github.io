@@ -82,8 +82,8 @@ redirect_from:
   </div><br>
 
   <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-    <p>My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> I also work in deep learning for Medical Image Analysis. Previously, I have worked on document image enhancement.</p>
-  </div>
+    My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> I also work in deep learning for Medical Image Analysis. Previously, I have worked on document image enhancement.
+  </div><br>
 
   <p style="font-size: 14px;"><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
 
