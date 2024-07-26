@@ -30,8 +30,8 @@ author_profile: true
     <div style="flex: 2; padding-left: 20px; font-size: 14px;">
       <h3>Krishak Bandhu</h3>
       <p>In 2019, I developed Krishak Bandhu, an innovative mobile application designed to help farmers in India detect plant diseases using deep learning. While numerous techniques for plant disease detection exist, my goal was to create a solution that was both simple and cost-effective for the agricultural community. Krishak Bandhu stands out for its user-friendly interface, making advanced plant health monitoring accessible and practical for farmers across the country.</p>
-      <a href="LINK_TO_PROJECT" style="color: blue; text-decoration: none;">[Project]</a> 
-      <a href="LINK_TO_PROJECT" style="color: blue; text-decoration: none;">[Demo]</a>
+      <a href="https://devmesh.intel.com/projects/plant-disease-identification-and-treatment-for-crop-quality-improvement-using-openvino-toolkit#project-links" style="color: blue; text-decoration: none;">[Project]</a> 
+      <a href="https://www.youtube.com/watch?v=M4fzpYH40uM&list=TLGGbWt2vYLhv1QyNjA3MjAyNA&t=245s" style="color: blue; text-decoration: none;">[Demo]</a>
     </div>
   </div>
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
