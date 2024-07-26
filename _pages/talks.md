@@ -28,7 +28,7 @@ permalink: /talks/
     <div class="talk-details">
       <h3>AI Cloud and Edge Devices</h3>
       <p><strong>Date:</strong> Nov. 12, 2018</p>
-      <p>I was invited as a guest speaker to deliver a talk on "AI Cloud and Edge Devices" at <a href="https://smu.edu.in/smit.html/" style="color: #2985d8; text-decoration: none;">SMIT</a>, India.</p>
+      <p>I was invited as a guest speaker to deliver a talk on "AI on Cloud and Edge Devices" at <a href="https://smu.edu.in/smit.html/" style="color: #2985d8; text-decoration: none;">SMIT</a>, India.</p>
     </div>
   </div>
 
