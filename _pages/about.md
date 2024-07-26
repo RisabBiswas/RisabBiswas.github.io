@@ -79,16 +79,11 @@ redirect_from:
       <img src="../images/p360.jpeg" alt="Logo3" style="width: 100px; height: 100px; margin-bottom: 10px;">
       <div style="font-size: 12px; color: #1B1212;">Principal AI Engineer, <a href="https://www.p360.com/">P360</a>,<br>Feb. 2018 - Pres.</div>
     </div>
-  </div>
+  </div><br>
 
   <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
     <p>My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> I also work in deep learning for Medical Image Analysis. Previously, I have worked on document image enhancement.</p>
   </div>
-  
-  <br>
-  <p style="font-size: 15px;">Apart from my job and research, I have been actively involved in the community. Since 2018, I have been a part of the <a href="https://devmesh.intel.com/users/risab-biswas">Intel Innovator's Program</a>. I was recognized as the top innovator in 2019 for my community contributions and research projects. In 2020, I was awarded the first <a href="https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners">Intel DevMesh AI Spotlight Award</a>. I have received multiple hardware and monetary grants from Intel under their Early Innovation Challenge to support my research projects. I was also a co-organizer (Feb 2019 - June 2020) in the <a href="https://gdg.community.dev/gdg-siliguri/">Google Developer Group</a>, Siliguri.</p>
-
-
 
   <p style="font-size: 15px;"><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
 
