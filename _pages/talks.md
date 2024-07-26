@@ -7,28 +7,37 @@ permalink: /talks/
 
 <div class="talk-container">
   <div class="talk-item">
-    <img src="../images/005.jpeg" alt="Talk 1" class="talk-image">
+    <img src="../images/SIT_28-Aug-2018.JPG" alt="Talk 1" class="talk-image">
     <div class="talk-details">
-      <h3>Title of Talk 1</h3>
-      <p><strong>Date:</strong> January 1, 2023</p>
-      <p>A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.</p>
+      <h3>Introduction to Machine Learning</h3>
+      <p><strong>Date:</strong> Aug. 1, 2018</p>
+      <p>Gave a one day talk on "Introduction to Machine Learning" at the Department of Compyter Science, Siliguri Intitute of Technology. First Session was more on Understanding and Getting used to the Things that included setting up the environments. Second Session was Hands on Demo followed by Discussion and QandA.</p>
     </div>
   </div>
 
   <div class="talk-item">
-    <img src="../images/006.jpeg" alt="Talk 2" class="talk-image">
+    <img src="../images/SIT_15th_Sep_2018.jpeg" alt="Talk 2" class="talk-image">
     <div class="talk-details">
-      <h3>Title of Talk 2</h3>
-      <p><strong>Date:</strong> February 15, 2023</p>
-      <p>A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.</p>
+      <h3>Introduction to AI/ML</h3>
+      <p><strong>Date:</strong> Aug. 28, 2018</p>
+      <p>I was invited as a guest speaker on "Introduction to AI/ML" at the Department of Information Technology, Siliguri Institute of Technology. Topics covered were AI, Machine Learning, Computer Vision and Object Detection.</p>
     </div>
   </div>
 
   <div class="talk-item">
-    <img src="../images/007.jpeg" alt="Talk 3" class="talk-image">
+    <img src="../images/SMIT.JPG" alt="Talk 2" class="talk-image">
     <div class="talk-details">
-      <h3>Title of Talk 3</h3>
-      <p><strong>Date:</strong> March 30, 2023</p>
+      <h3>AI Cloud and Edge Devices</h3>
+      <p><strong>Date:</strong> Nov. 12, 2018</p>
+      <p>I was invited as a guest speaker to deliver a talk on "AI Cloud and Edge Devices" at SMIT, India.</p>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <img src="../images/SIT_5-Nov-2018.JPG" alt="Talk 1" class="talk-image">
+    <div class="talk-details">
+      <h3>Introduction to Deep Learning and Computer Vision</h3>
+      <p><strong>Date:</strong> Nov. 5, 2018</p>
       <p>A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.</p>
     </div>
   </div>
