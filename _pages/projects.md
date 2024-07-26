@@ -2,8 +2,6 @@
 permalink: /projects/
 author_profile: true
 ---
-
-## Projects 🛠️
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1;">
     <img src="../images/Krishi_Bandhu.JPG" alt="Project Image" style="max-width: 100%; height: auto;">
