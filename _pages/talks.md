@@ -1,11 +1,22 @@
 ---
 permalink: /
+title: Talks
 author_profile: true
 permalink: /talks/
 ---
-<p style="font-size: 14px; color: #1B1212">I enjoy sharing my experiences and insights from exploring the fields of machine learning and computer vision. I love discussing the projects I've worked on, the challenges I've faced, and the solutions I've discovered. Teaching undergraduate and graduate students about computer vision concepts is a passion of mine, and it's something I could do for the rest of my life—learning, experimenting, and teaching. Here are a few talks I've given at community meetups, conferences, and larger events, where I've had the pleasure of discussing my journey and helping others learn something new.</p>
+<p style="font-size: 14px; color: #1B1212">I enjoy sharing my experiences and insights gained from exploring the fields of machine learning and computer vision. I love discussing the projects I've worked on, the challenges I've faced, and the solutions I've discovered. Teaching undergraduate and graduate students about computer vision concepts is a passion of mine, and it's something I could do for the rest of my life—learning, experimenting, and teaching. Here are a few talks I've given at community meetups, conferences, and larger events, where I've had the pleasure of discussing my journey and helping others learn something new.</p>
 
 <div class="talk-container">
+
+  <div class="talk-item">
+    <img src="../images/1.jpg" alt="Talk 1" class="talk-image">
+    <div class="talk-details">
+      <h3>One Day Seminar on Machine Learning</h3>
+      <p><strong>Date:</strong> Mar. 8, 2018</p>
+      <p>My first seminar, given to the undergradute students at the Department of Electronics and Communication Eng., <a href="https://www.sittechno.org/electronics-communication-engineering-engineering-technology.html" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a> on "Introduction to Machine Learning". First Session was more on Understanding and Getting used to the Things that included setting up the environments. Second Session was Hands on Demo followed by Discussion and QandA.</p>
+    </div>
+  </div>
+
   <div class="talk-item">
     <img src="../images/SIT_28-Aug-2018.JPG" alt="Talk 1" class="talk-image">
     <div class="talk-details">
@@ -47,7 +58,16 @@ permalink: /talks/
   <div class="talk-details">
     <h3>AI Meetup and Project Demonstartion at NIT, Durgapur</h3>
     <p><strong>Date:</strong> Mar. 14, 2018</p>
-    <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology, Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</a></p>
+    <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</a></p>
+  </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/NIT_Durgapur.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>AI Meetup and Project Demonstartion at NIT, Durgapur</h3>
+    <p><strong>Date:</strong> Mar. 14, 2018</p>
+    <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</a></p>
   </div>
   </div>
 </div>
