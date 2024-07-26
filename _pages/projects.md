@@ -25,7 +25,7 @@ author_profile: true
   </div> -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1;">
-      <img src="../images/IMG_6946.jpg" alt="Project Image" style="max-width: 100%; height: auto;">
+      <img src="../images/IMG_6947.jpg" alt="Project Image" style="max-width: 100%; height: auto;">
     </div>
     <div style="flex: 2; padding-left: 20px; font-size: 14px;">
       <h3>Krishak Bandhu</h3>
