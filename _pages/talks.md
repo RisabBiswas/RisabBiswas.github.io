@@ -4,7 +4,6 @@ author_profile: true
 permalink: /talks/
 ---
 
-
 <div class="talk-container">
   <div class="talk-item">
     <img src="../images/SIT_28-Aug-2018.JPG" alt="Talk 1" class="talk-image">
@@ -81,6 +80,6 @@ permalink: /talks/
 
 .talk-details p {
   margin: 5px 0;
+  font-size: 14px;
 }
-
 </style>
