@@ -66,7 +66,7 @@ permalink: /talks/
   <img src="../images/NIT_Durgapur.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Hands on Workshop on Computer Vision and Intel OpenVino Toolkit</h3>
-    <p><strong>Date:</strong> Mar. 14, 2018</p>
+    <p><strong>Date:</strong> Feb. 16, 2019</p>
     <p>I had the opportunity to conduct a hands on workshop on performing faster inference for computer vision applications using Intel Distribution of the OpenVino Toolkit. The event was organized in collaboration with GDG Siliguri.</a></p>
   </div>
   </div>
