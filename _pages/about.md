@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 👋🏼 Hello there, I’m Risab!
+title: Biography
 author_profile: true
 redirect_from: 
   - /about/
