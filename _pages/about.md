@@ -94,7 +94,7 @@ redirect_from:
   </div><br>
 
   <div class="research-interest">
-      My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> I also work in deep learning for Medical Image Analysis. Previously, I have worked on document image enhancement. My recent research articles can be found in the <a href="/publications/">Research</a> section.
+      My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> I also work in deep learning for Medical Image Analysis. Previously, I have worked on document image enhancement as well. My recent research articles can be found in the <a href="/publications/">Research</a> section.
   </div><br>
 
   <p style="font-size: 14px;"><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
