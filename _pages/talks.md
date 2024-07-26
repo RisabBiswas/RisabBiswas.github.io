@@ -79,16 +79,7 @@ permalink: /talks/
     <p>I was honoured to be invited as a guest speaker at <a href = "https://ieee-ju.github.io/thinkai/index.html#" style="color: #2985d8; text-decoration: none;">ThinkAI</a> organized by <a href = "https://www.ieee-jaduniv.in/" style="color: #2985d8; text-decoration: none;">IEEE Student Chapter</a> at <a href = "https://jadavpuruniversity.in/" style="color: #2985d8; text-decoration: none;">Jadavpur University</a>. My topic of discussion was deep learning, computer vision and performing faster inference on low compute devices.</p>
   </div>
   </div>
-
-  <div class="talk-item">
-  <img src="../images/ThinkAI.jpg" alt="Talk 1" class="talk-image">
-  <div class="talk-details">
-    <h3>Invited Speaker at IEEE Machine Learning Summit'19</h3>
-    <p><strong>Date:</strong> Apr. 19, 2019</p>
-    <p>I was honoured to be invited as a guest speaker at <a href = "https://ieee-ju.github.io/thinkai/index.html#" style="color: #2985d8; text-decoration: none;">ThinkAI</a> organized by <a href = "https://www.ieee-jaduniv.in/" style="color: #2985d8; text-decoration: none;">IEEE Student Chapter</a> at <a href = "https://jadavpuruniversity.in/" style="color: #2985d8; text-decoration: none;">Jadavpur University</a>. My topic of discussion was deep learning, computer vision and performing faster inference on low compute devices.</p>
-  </div>
-  </div>
-
+  
   <div class="talk-item">
   <img src="../images/Img_010.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
