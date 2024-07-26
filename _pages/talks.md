@@ -90,7 +90,7 @@ permalink: /talks/
   </div>
 
   <div class="talk-item">
-  <img src="../images/ThinkAI.jpg" alt="Talk 1" class="talk-image">
+  <img src="../images/Img_010.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Developer Meetup and Project Demonstration</h3>
     <p><strong>Date:</strong> Apr. 19, 2019</p>
