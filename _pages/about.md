@@ -124,4 +124,12 @@ redirect_from:
   </p>
 </div>
 
-<a href="https://info.flagcounter.com/SOH8"><img src="https://s11.flagcounter.com/count2/SOH8/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/leI9"><img src="https://s11.flagcounter.com/count2/leI9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<div>
+  <h3 style="text-decoration: underline;">Visitor Counter:</h3>
+  <p>See who's visited this page from around the world!</p>
+  <a href="https://www.revolvermaps.com/?target=enlarge&amp;i=5nn1fx8qq5r&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" target="_blank">
+    <img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5nn1fx8qq5r.png" width="256" height="128" alt="Map" style="border:0;">
+  </a>
+</div>
