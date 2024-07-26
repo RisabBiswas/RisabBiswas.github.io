@@ -124,8 +124,6 @@ redirect_from:
   </p>
 </div>
 
-<a href="https://info.flagcounter.com/leI9"><img src="https://s11.flagcounter.com/count2/leI9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-<div style="width: 100%; max-width: 200px; margin-left: 0;">
+<div style="width: 100%; max-width: 150sAq   XZpx; margin-left: 0;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Cy-IWclfCDvThPB2CnFlJVPj0gl6FmmdVitkid3tV9c"></script>
 </div>
