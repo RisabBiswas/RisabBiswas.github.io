@@ -2,10 +2,9 @@
 permalink: /publications/
 author_profile: true
 ---
-<p style="font-size: 14px;">During my master's I worked on multiple research projects on effective and efficient document image enhancement with <a href="https://scholar.google.com/citations?user=1WVrFGwAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Swalpa Kumar Roy</a>, <a href="https://scholar.google.com/citations?user=2_z_CogAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Umapada Pal</a> and <a href="https://scholar.google.com.sg/citations?user=LhSqQCIAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Guang-Bin Huang</a>. I was a Master's Thesis student at <a href="https://www.gla.ac.uk/" style="color: #2985d8; text-decoration: none;">University of Glasgow</a> advised by <a href="https://chaitanya-kaul.github.io/" style="color: #2985d8; text-decoration: none;">Dr. Chaitanya Kaul</a>, and guided by <a href="https://scholar.google.co.in/citations?user=kGLZ1kAAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Sankara Nayaki K</a>, working on building an efficient medical imaging model. All my research articles including preprints and publications can be found in my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Google Scholar</a> profile.</p><br>
+<p style="font-size: 14px;"> All my research articles including preprints and publications can be found in my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Google Scholar</a> profile.</p><br>
 
 <strong>Preprints</strong> <br>
-
 <table style="border: none; border-collapse: collapse;" onmouseover="this.style.backgroundColor='#f0f0f0';" onmouseout="this.style.backgroundColor='';">
 <tbody>
 <tr> 
