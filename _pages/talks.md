@@ -1,5 +1,6 @@
 ---
-layout: page
+permalink: /
+author_profile: true
 title: "Talks"
 permalink: /talks/
 ---
@@ -12,7 +13,7 @@ permalink: /talks/
     <div class="talk-details">
       <h3>Title of Talk 1</h3>
       <p><strong>Date:</strong> January 1, 2023</p>
-      <p>A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.</p>
+      <p>A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.</p>
     </div>
   </div>
 
@@ -21,7 +22,7 @@ permalink: /talks/
     <div class="talk-details">
       <h3>Title of Talk 2</h3>
       <p><strong>Date:</strong> February 15, 2023</p>
-      <p>A brief description of Talk 2. Discuss the key points, audience, and any notable outcomes.</p>
+      <p>A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.</p>
     </div>
   </div>
 
@@ -30,7 +31,7 @@ permalink: /talks/
     <div class="talk-details">
       <h3>Title of Talk 3</h3>
       <p><strong>Date:</strong> March 30, 2023</p>
-      <p>A brief description of Talk 3. Discuss the key points, audience, and any notable outcomes.</p>
+      <p>A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.A brief description of Talk 1. Discuss the key points, audience, and any notable outcomes.</p>
     </div>
   </div>
 </div>
