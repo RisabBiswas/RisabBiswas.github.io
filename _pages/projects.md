@@ -18,7 +18,7 @@ author_profile: true
   <div style="flex: 50%;">
     <h2>Projects 🛠️</h2>
     <ul>
-      <li><strong>Krishi Bandhu:</strong> Developed an algorithm to detect 5 classes of Pathological disease at various parts of Plants in real-time using a mobile application.</li>
+      <li><strong>Krishak Bandhu:</strong> Developed an algorithm to detect 5 classes of Pathological disease at various parts of Plants in real-time using a mobile application.</li>
       <!-- <li><strong>Vehicle Advanced Monitoring System, Intel®:</strong> Collaborated with a team of AI and IoT engineers to do R&D inclined to the concept of smart cars.</li>
       <li><strong>Exploring Drug Identification — Powered by Intel® Distribution of OpenVINO™ Toolkit, Intel®:</strong> Designed a methodology to identify new drugs and virtual molecules in Drug discovery terminology.</li>
       <li><strong>SARCASM.AI:</strong> Developed a fine-tuned GPT-2 model for sarcastically completing an input sentence.</li>
