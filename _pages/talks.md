@@ -35,7 +35,7 @@ permalink: /talks/
   <div class="talk-item">
     <img src="../images/SIT_5-Nov-2018.JPG" alt="Talk 1" class="talk-image">
     <div class="talk-details">
-      <h3>Introduction to Deep Learning and Computer Vision</h3>
+      <h3>Introduction to Deep Learning and Computer Vision for Robotics</h3>
       <p><strong>Date:</strong> Nov. 5, 2018</p>
       <p>I was invited as a guest speaker for taking a session on "Deep Learning and Computer Vision for Robotics" at <a href="https://www.sittechno.org" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a></p>
     </div>
