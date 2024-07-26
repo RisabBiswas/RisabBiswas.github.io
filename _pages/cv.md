@@ -60,7 +60,7 @@ I began my journey in Machine Learning and Data Science as a Data Scientist in 2
   &nbsp;&nbsp;- As part of my functional roles, I do project planning, sprint planning and management, help in building RFPs for business development from an Advanced Analytics/AIML perspective.<br><br>
 
 <strong style="font-size: 13px;">Technical Lead – AI</strong>, <span style="font-size: 13px; font-style: italic;"><strong>[Mar. 2021 - Mar. 2024]</strong></span><br>
-  - Responsible for building ML models for <a href= "https://www.p360.com/birdzai/" style="color: #2985d8; text-decoration: none;">BirdzAI</a>,an AI powered data analytics for precision pharma sales & marketing.<br>
+  - Responsible for building ML models for <a href= "https://www.p360.com/birdzai/" style="color: #2985d8; text-decoration: none;">BirdzAI</a>, an AI powered data analytics for precision pharma sales & marketing.<br>
   - Designed and developed a technique blending supervised and unsupervised model to predict physician prescription behavior and loyalty for a leading gastrointestinal product in USA.<br>
   - Designed and developed a prescription demand forecasting model using Gaussian Processes, overcoming challenges in designing the optimal kernel through rigorous hyperparameter tuning, cross-validation, and simulation, resulting in a 15% improvement in current forecast accuracy and reaching an overall accuracy of 93%.<br>
   - Designed and developed a multi-class text classifier using RoBERTa and SVM for intent classification, reaching an accuracy of 94% with 46 classes.<br>
