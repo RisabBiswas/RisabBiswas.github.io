@@ -4,7 +4,6 @@ author_profile: true
 permalink: /talks/
 ---
 
-## Talks
 
 <div class="talk-container">
   <div class="talk-item">
