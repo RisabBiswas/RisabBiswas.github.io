@@ -8,7 +8,7 @@ permalink: /talks/
 
 <div class="talk-container">
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/Hack_Club.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>How to become a Data Scientist?</h3>
