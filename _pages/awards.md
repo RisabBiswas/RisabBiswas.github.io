@@ -5,7 +5,6 @@ author_profile: true
 permalink: /awards/
 ---
 <div class="talk-container">
-
   <div class="talk-item">
   <img src="../images/DevMesh Award.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
