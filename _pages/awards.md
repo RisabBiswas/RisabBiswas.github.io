@@ -38,7 +38,7 @@ permalink: /awards/
   <img src="../images/Intel Innovator.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Top Innovator Award, Intel, 2019</h3>
-    <p>I was awarded Top Innovator Award in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence.</a>
+    <p>I was awarded Top Innovator Award in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence.
 </p>
 </div>
 </div>
@@ -56,7 +56,7 @@ permalink: /awards/
   <img src="../images/Global_AI_Hub.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Thought Leader (Artificial Intelligence), Global AI Hub, 2022</h3>
-    <p>I was recognised a Thought Leader in Artificial Intelligence by <a href = "https://www.linkedin.com/company/globalaihub/" style="color: #2985d8; text-decoration: none;">Global AI Hub </a> in 2019 by Intel, for my research in Deep Learning and Computer Vision.</a>
+    <p>I was recognised a Thought Leader in Artificial Intelligence by <a href = "https://www.linkedin.com/company/globalaihub/" style="color: #2985d8; text-decoration: none;">Global AI Hub </a> in 2019 by Intel, for my research in Deep Learning and Computer Vision.
 </p>
 </div>
 </div>
