@@ -15,7 +15,6 @@ permalink: /awards/
 </p>
   </div>
   </div>
-
 </div>
 
 <style>
