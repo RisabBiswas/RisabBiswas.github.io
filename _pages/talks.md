@@ -101,7 +101,7 @@ permalink: /talks/
   <div class="talk-item">
   <img src="../images/IITK.JPG" alt="Talk 1" class="talk-image">
   <div class="talk-details">
-    <h3>Lecture at Sixth Summer School on Computer Vision, Graphics and Image Processing at ISI, Kolkata</h3>
+    <h3>Deep Learning and Computer Vision on Edge Devices at IIT Kanpur, India</h3>
     <p><strong>Date:</strong> Sep. 17, 2019</p>
     <p>Invited as a guest lecturer at the <a href = "https://www.cse.iitk.ac.in/" style="color: #2985d8; text-decoration: none;">Dept. of Computer Science and Eng.</a> at the <a href = "https://www.iitk.ac.in/" style="color: #2985d8; text-decoration: none;">Indian Institute of Technology Kanpur (IIT-K), India</a>. I delivered a lecture on "Deep Learning and Computer Vision on Edge Devices" to graduate and undergraduate students.</p>
   </div>
