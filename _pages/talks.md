@@ -31,7 +31,7 @@ permalink: /talks/
   <div class="talk-item">
   <img src="../images/Sixth_Sense_ViT.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
-    <h3>Guest Speaker at Gravitas, VIT University</h3>
+    <h3>Guest Speaker at Gravitas'20, VIT University</h3>
     <p><strong>Date:</strong> Sep. 26, 2020</p>
     <p>I was invited to speak at <a href = "https://vit.ac.in/general/gravitas-2020" style="color: #2985d8; text-decoration: none;">Gravitas 2020</a>, the Annual Tech Fest of <a href = "https://vit.ac.in/" style="color: #2985d8; text-decoration: none;">VIT University</a>. Gave a talk on "Advancements and Applications of Deep Learning in Computer Vision". I covered topics in Convolutional Neural Networks and Object Detection with practical applications in real-time edge inference, while also addressing ethical considerations and model optimization techniques.
 </p>
