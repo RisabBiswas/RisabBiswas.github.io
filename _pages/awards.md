@@ -37,7 +37,7 @@ permalink: /awards/
   <img src="../images/Citizenship_Award.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Citizenship Award (5 Years), P360, 2023</h3>
-    <p>Honored to receive the Citizenship Award from <a href = "https://www.p360.com/" style="color: #2985d8; text-decoration: none;">P360</a> in recognition of my 5 years of dedication and contributions!</a>
+    <p>Honored to receive the Citizenship Award from <a href = "https://www.p360.com/" style="color: #2985d8; text-decoration: none;">P360</a> in recognition of my 5 years of dedication and contributions!
 </p>
 </div>
 </div>
