@@ -9,7 +9,7 @@ main:
   # - title: "Projects"
   #   url: /projects/
   - title: "Awards"
-  url: /awards/
+    url: /awards/
   - title: "Talks"
     url: /talks/
   # - title: "Community"
