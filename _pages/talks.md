@@ -22,7 +22,7 @@ permalink: /talks/
     <div class="talk-details">
       <h3>Introduction to Machine Learning</h3>
       <p><strong>Date:</strong> Aug. 1, 2018</p>
-      <p>Gave a one day talk on "Introduction to Machine Learning" at the Department of Computer Science, <a href="https://www.sittechno.org" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a>. First Session was more on Understanding and Getting used to the Things that included setting up the environments. Second Session was Hands on Demo followed by Discussion and QandA.</p>
+      <p>Gave a one day talk on "Introduction to Machine Learning" at the Department of Computer Science, <a href="https://www.sittechno.org" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a>. Covered theoretical concepts on Supervised Learning, Regression Algorithms, Classification Algorithms, Unsupervised Modelling, followed by a hands on session using Python.</p>
     </div>
   </div>
 
