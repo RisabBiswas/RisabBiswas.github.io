@@ -5,20 +5,20 @@ author_profile: true
 permalink: /awards/
 ---
 <div class="talk-container">
-  <div class="talk-item">
-  <img src="../images/DevMesh Award.jpeg" alt="Talk 1" class="talk-image">
-  <div class="talk-details">
-    <h3>DevMesh AI Spotlight Award, 2019</h3>
-    <p>Awarded<a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> DevMesh AI Spotlight Award</a> in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence. Received this for the project <a href = "Identification of Pathological Disease in Plants" style="color: #2985d8; text-decoration: none;"> Identification of Pathological Disease in Plants.</a>
-</p>
-  </div>
-  </div>
-
 <div class="talk-item">
   <img src="../images/Dewang_Mehta.png" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Dewang Mehta Excellence Award, 2016</h3>
     <p>Awarded<a href = "https://inspiria.edu.in/inspiria-proud-host-inaugural-dewang-mehta-excellence-award-north-bengal/" style="color: #2985d8; text-decoration: none;"> Dewang Mehta Excellence Award</a> by Mr Krishnakumar Natarajan, Executive Chairman, MindTree, 2016, for outstanding academic performance during my undergraduate studies.
+</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/DevMesh Award.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>DevMesh AI Spotlight Award, 2019</h3>
+    <p>Awarded<a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> DevMesh AI Spotlight Award</a> in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence. Received this for the project <a href = "Identification of Pathological Disease in Plants" style="color: #2985d8; text-decoration: none;"> Identification of Pathological Disease in Plants.</a>
 </p>
   </div>
   </div>
