@@ -22,7 +22,7 @@ permalink: /talks/
   <img src="../images/AKSC.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Advancements in Data Science and Machine Learning, AKPESSC'20</h3>
-    <p><strong>Date:</strong> Nov. 29, 2020</p>
+    <p><strong>Date:</strong> Dec. 6, 2020</p>
     <p>I was invited to take a session on the rapidly evolving fields of Data Science and Machine Learning, organized by <a href = "https://pes.ieeekerala.org/akpessc-20/" style="color: #2985d8; text-decoration: none;">All Kerala Power & Energy Society Students Colloquium (AKPESSC)</a>, flag-ship event organized by the <a href = "https://pes.ieeekerala.org/" style="color: #2985d8; text-decoration: none;">IEEE PES Kerala Chapter</a>.
 </p>
   </div>
