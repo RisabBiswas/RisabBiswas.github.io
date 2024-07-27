@@ -9,7 +9,7 @@ permalink: /awards/
   <img src="../images/Dewang_Mehta.png" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Dewang Mehta Excellence Award, 2016</h3>
-    <p>Awarded<a href = "https://inspiria.edu.in/inspiria-proud-host-inaugural-dewang-mehta-excellence-award-north-bengal/" style="color: #2985d8; text-decoration: none;"> Dewang Mehta Excellence Award</a> by Mr Krishnakumar Natarajan, Executive Chairman, MindTree, 2016, for outstanding academic performance during my undergraduate studies.
+    <p>Awarded<a href = "https://inspiria.edu.in/inspiria-proud-host-inaugural-dewang-mehta-excellence-award-north-bengal/" style="color: #2985d8; text-decoration: none;"> Dewang Mehta Excellence Award</a> by <a href = "https://en.wikipedia.org/wiki/Krishnakumar_Natarajan" style="color: #2985d8; text-decoration: none;"> Mr. Krishnakumar Natarajan</a>, Co-Founder and Executive Chairman, MindTree, 2016, for outstanding academic performance during my undergraduate studies.
 </p>
   </div>
   </div>
@@ -19,6 +19,13 @@ permalink: /awards/
   <div class="talk-details">
     <h3>DevMesh AI Spotlight Award, 2019</h3>
     <p>Awarded<a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> DevMesh AI Spotlight Award</a> in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence. Received this for the project <a href = "Identification of Pathological Disease in Plants" style="color: #2985d8; text-decoration: none;"> Identification of Pathological Disease in Plants.</a>
+</p>
+
+  <div class="talk-item">
+  <img src="../images/CodeByte.jpg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>CodeBytes - Programming and Coding Competition, 2018</h3>
+    <p>Runner-Up and Best Effort Final Year at Code Bites2: Coding Challenge, by <a href = "https://www.sittechno.org/computer-engineer-s-society-computer-science-engineering.html" style="color: #2985d8; text-decoration: none;">Computer Engineers Society, SIT</a> 2018.
 </p>
   </div>
   </div>
