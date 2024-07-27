@@ -10,9 +10,7 @@ main:
   #   url: /projects/
   - title: "Talks"
     url: /talks/  
-  # - title: "Hackathons"
-  #   url: /hackathons/ 
-  - title: "Awards and Honors"
+  - title: "Awards"
     url: /awards/
   # - title: "Community"
   #   url: /community/  
