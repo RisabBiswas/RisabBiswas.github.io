@@ -15,6 +15,15 @@ permalink: /awards/
   </div>
 
   <div class="talk-item">
+  <img src="../images/CodeByte.jpg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>CodeBytes - Programming and Coding Competition, 2018</h3>
+    <p>Runner-Up and Best Effort Final Year at Code Bites2: Coding Challenge, by <a href = "https://www.sittechno.org/computer-engineer-s-society-computer-science-engineering.html" style="color: #2985d8; text-decoration: none;">Computer Engineers Society, SIT</a> 2018.
+</p>
+  </div>
+  </div>
+
+<div class="talk-item">
   <img src="../images/DevMesh Award.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>DevMesh AI Spotlight Award, 2019</h3>
@@ -23,14 +32,6 @@ permalink: /awards/
 </div>
 </div>
 
-  <div class="talk-item">
-  <img src="../images/CodeByte.jpg" alt="Talk 1" class="talk-image">
-  <div class="talk-details">
-    <h3>CodeBytes - Programming and Coding Competition, 2018</h3>
-    <p>Runner-Up and Best Effort Final Year at Code Bites2: Coding Challenge, by <a href = "https://www.sittechno.org/computer-engineer-s-society-computer-science-engineering.html" style="color: #2985d8; text-decoration: none;">Computer Engineers Society, SIT</a> 2018.
-</p>
-  </div>
-  </div>
 </div>
 
 <style>
