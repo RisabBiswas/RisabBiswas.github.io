@@ -9,6 +9,26 @@ permalink: /talks/
 <div class="talk-container">
 
   <div class="talk-item">
+  <img src="../images/Hack_Club.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>How to become a Data Scientist?</h3>
+    <p><strong>Date:</strong> Nov. 29, 2020</p>
+    <p>I was invited to share my journey and guide undergradute students on how to build a career as a Machine Learning Engineer/Data Scientist,<a href = "https://hackclub.com/" style="color: #2985d8; text-decoration: none;">organized by Hack Club</a>.
+</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/AKSC.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Advancements in Data Science and Machine Learning, AKPESSC'20</h3>
+    <p><strong>Date:</strong> Nov. 29, 2020</p>
+    <p>I was invited to take a session on the rapidly evolving fields of Data Science and Machine Learning, organized by <a href = "https://pes.ieeekerala.org/akpessc-20/" style="color: #2985d8; text-decoration: none;">All Kerala Power & Energy Society Students Colloquium (AKPESSC)</a>, flag-ship event organized by the <a href = "https://pes.ieeekerala.org/" style="color: #2985d8; text-decoration: none;">IEEE PES Kerala Chapter</a>.
+</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
   <img src="../images/Sixth_Sense_ViT.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Guest Speaker at Gravitas, VIT University</h3>
@@ -80,7 +100,7 @@ permalink: /talks/
     <p><strong>Date:</strong> Sep. 22, 2019</p>
     <p>One day seminar at the <a href = "https://www.iitbhu.ac.in/dept/cse" style="color: #2985d8; text-decoration: none;">Dept. of Computer Science and Eng.</a> at the <a href = "https://www.iitbhu.ac.in/" style="color: #2985d8; text-decoration: none;">Indian Institute of Technology (BHU), India</a>. The session covered how to deploy and do real-time inference on edge devices. I discussed an overview of edge computing and its benefits for CV applications, challenges of deploying CV models on edge devices, including computational and memory constraints.</p>
   </div>
-  </div>Presenting my Research Paper at Indo-Taiwan IEEE Sponsored International Conference on Computing, Analytics and Networks (ICAN 2020) at Chitkara University on the Track AI, ML and their Applications with Abhishek Nandy. 
+  </div>
 
   <div class="talk-item">
   <img src="../images/NIT_Rourkela.jpeg" alt="Talk 1" class="talk-image">
