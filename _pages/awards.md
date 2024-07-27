@@ -13,9 +13,8 @@ permalink: /awards/
 </p>
   </div>
   </div>
-</div>
 
-  <div class="talk-item">
+<div class="talk-item">
   <img src="../images/Dewang_Mehta.png" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Dewang Mehta Excellence Award, 2016</h3>
