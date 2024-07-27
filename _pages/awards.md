@@ -24,6 +24,33 @@ permalink: /awards/
   </div>
 
 <div class="talk-item">
+  <img src="../images/4G8A1811.JPG" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Innovator Excellence Award, Intel, 2019</h3>
+    <p>I was awarded <a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> Top Innovator Award</a> in 2019 by Intel, for my contributions to open source and research in Deep Learning and Computer Vision.</a>
+</p>
+</div>
+</div>
+
+<div class="talk-item">
+  <img src="../images/4G8A1811.JPG" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Thought Leader (Artificial Intelligence), Global AI Hub, 2022</h3>
+    <p>I was recognised a Thought Leader in Artificial Intelligence by <a href = "https://www.linkedin.com/company/globalaihub/" style="color: #2985d8; text-decoration: none;">Global AI Hub </a> in 2019 by Intel, for my research in Deep Learning and Computer Vision.</a>
+</p>
+</div>
+</div>
+
+<div class="talk-item">
+  <img src="../images/4G8A1811.JPG" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Innovator Excellence Award, Intel, 2019</h3>
+    <p>I was awarded <a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> Top Innovator Award</a> in 2019 by Intel, for mu contributions to open source and research in Deep Learning and Comuter Vision.</a>
+</p>
+</div>
+</div>
+
+<div class="talk-item">
   <img src="../images/Intel Innovator.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Top Innovator Award, Intel, 2019</h3>
