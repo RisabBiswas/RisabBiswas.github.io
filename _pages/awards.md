@@ -9,8 +9,7 @@ permalink: /awards/
   <img src="../images/DevMesh Award.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3></h3>
-    <p><strong>Date:</strong> Nov. 29, 2020</p>
-    <p>Received<a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> Intel DevMesh AI Spotlight Award</a> in 2019, for showcasing outstanding innovation and proof of concept development in the field of artificial intelligence.
+    <p>Awarded<a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> DevMesh AI Spotlight Award</a> in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence.
 </p>
   </div>
   </div>
