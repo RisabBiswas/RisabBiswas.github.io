@@ -9,6 +9,35 @@ permalink: /talks/
 <div class="talk-container">
 
   <div class="talk-item">
+  <img src="../images/Sixth_Sense_ViT.jpg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Guest Speaker at Gravitas, VIT University</h3>
+    <p><strong>Date:</strong> Sep. 26, 2020</p>
+    <p>I was invited to speak at <a href = "https://vit.ac.in/general/gravitas-2020" style="color: #2985d8; text-decoration: none;">Gravitas 2020</a>, the Annual Tech Fest of <a href = "https://vit.ac.in/" style="color: #2985d8; text-decoration: none;">VIT University</a>. Gave a talk on "Advancements and Applications of Deep Learning in Computer Vision". I covered topics in Convolutional Neural Networks and Object Detection with practical applications in real-time edge inference, while also addressing ethical considerations and model optimization techniques.
+</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/ICAN 2020.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Paper Presentation at ICAN 2020</h3>
+    <p><strong>Date:</strong> Feb. 14, 2020</p>
+    <p>Presented our research paper at <a href = "https://ieeexplore.ieee.org/xpl/conhome/9169738/proceeding" style="color: #2985d8; text-decoration: none;">ICAN 2020</a> at <a href = "https://www.chitkara.edu.in/events/indo-taiwan-ican-2020/" style="color: #2985d8; text-decoration: none;">Chitkara University</a>.</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/ICIMSAT.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Paper Presentation at ICISMAST 2019</h3>
+    <p><strong>Date:</strong> Sep. 20, 2019</p>
+    <p>Presented our paper at <a href = "https://link.springer.com/book/10.1007/978-3-030-42363-6" style="color: #2985d8; text-decoration: none;">ICIMSAT 2019</a>, First International Conference on Innovations in Modern Science and Technology (ICIMSAT2019), held in Siliguri, India</a>. 
+ </p>
+  </div>
+  </div>
+
+  <div class="talk-item">
   <img src="../images/ThinkAI.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Invited Speaker at IEEE Machine Learning Summit'19</h3>
@@ -49,7 +78,16 @@ permalink: /talks/
   <div class="talk-details">
     <h3>Introduction to Edge Deployment for Computer Vision Models at IIT BHU, India</h3>
     <p><strong>Date:</strong> Sep. 22, 2019</p>
-    <p>One day seminar at the <a href = "https://www.iitbhu.ac.in/dept/cse" style="color: #2985d8; text-decoration: none;">Dept. of Computer Science and Eng.</a> at the <a href = "https://www.iitbhu.ac.in/" style="color: #2985d8; text-decoration: none;">Indian Institute of Technology Kanpur (IIT-K), India</a>. The session covered how to deploy and do real-time inference on edge devices. I discussed an overview of edge computing and its benefits for CV applications, challenges of deploying CV models on edge devices, including computational and memory constraints.</p>
+    <p>One day seminar at the <a href = "https://www.iitbhu.ac.in/dept/cse" style="color: #2985d8; text-decoration: none;">Dept. of Computer Science and Eng.</a> at the <a href = "https://www.iitbhu.ac.in/" style="color: #2985d8; text-decoration: none;">Indian Institute of Technology (BHU), India</a>. The session covered how to deploy and do real-time inference on edge devices. I discussed an overview of edge computing and its benefits for CV applications, challenges of deploying CV models on edge devices, including computational and memory constraints.</p>
+  </div>
+  </div>Presenting my Research Paper at Indo-Taiwan IEEE Sponsored International Conference on Computing, Analytics and Networks (ICAN 2020) at Chitkara University on the Track AI, ML and their Applications with Abhishek Nandy. 
+
+  <div class="talk-item">
+  <img src="../images/NIT_Rourkela.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Real-Time Object Detection with Edge Inference at NIT Rourkela, India</h3>
+    <p><strong>Date:</strong> Nov. 3, 2019</p>
+    <p>I was invited to give a talk during Innovision (Annual Technical Fest) 2019, at the <a href = "https://www.nitrkl.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Rourkela</a>. Discussed applications in agriculture and showcased my plant disease detection project. Also discussed benefits of edge inference for low-latency and privacy-preserving applications. The participants included Developers, Students and Research Scholars. </p>
   </div>
   </div>
 
