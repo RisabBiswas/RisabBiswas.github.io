@@ -13,7 +13,7 @@ permalink: /talks/
   <div class="talk-details">
     <h3>How to become a Data Scientist?</h3>
     <p><strong>Date:</strong> Nov. 29, 2020</p>
-    <p>I was invited to share my journey and guide undergradute students on how to build a career as a Machine Learning Engineer/Data Scientist,<a href = "https://hackclub.com/" style="color: #2985d8; text-decoration: none;">organized by Hack Club</a>.
+    <p>I was invited to share my journey and guide undergradute students on how to build a career as a Machine Learning Engineer/Data Scientist,<a href = "https://hackclub.com/" style="color: #2985d8; text-decoration: none;"> organized by Hack Club</a>.
 </p>
   </div>
   </div>
