@@ -13,7 +13,7 @@ permalink: /talks/
     <div class="talk-details">
       <h3>One Day Seminar on Machine Learning</h3>
       <p><strong>Date:</strong> Mar. 8, 2018</p>
-      <p>My first seminar, given to the undergradute students at the <a href="https://www.sittechno.org/electronics-communication-engineering-engineering-technology.html" style="color: #2985d8; text-decoration: none;">Department of Electronics and Communication Eng., Siliguri Institute of Technology</a> on "Introduction to Machine Learning". First Session was more on Understanding and Getting used to the Things that included setting up the environments. Second Session was Hands on Demo followed by Discussion and QandA.</p>
+      <p>My first seminar, given to the undergradute students at the <a href="https://www.sittechno.org/electronics-communication-engineering-engineering-technology.html" style="color: #2985d8; text-decoration: none;">Department of Electronics and Communication Eng., Siliguri Institute of Technology</a> on "Introduction to Machine Learning". First Session was more on Understanding and Getting used to the Things that included setting up the environments. Second Session was Hands on Demo followed by Discussion and QnA.</p>
     </div>
   </div>
 
