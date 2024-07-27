@@ -6,7 +6,8 @@ permalink: /awards/
 ---
 <p style="font-size: 14px; color: #1B1212">In my journey so far, I have been fortunate to be awarded and recognized for my work in the field of machine learning and computer vision. I am humbled by these honors, and these are a testament to my dedication and passion for the field. But, these accolades are not the end goal of my work. Each award serves as a milestone, reminding me that the true reward lies in the continuous quest for learning, innovation, and improvement!</p> 
 
-<div class="talk-item">
+<div class="talk-container">
+<div class="talk-item" style="color: #1B1212;">
   <img src="../images/Best Paper.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Best Paper Presentation Award, ICAN, 2020</h3>
@@ -15,7 +16,7 @@ permalink: /awards/
 </div>
 </div>
 
-<div class="talk-item">
+<div class="talk-item" style="color: #1B1212;">
   <img src="../images/4G8A1811.JPG" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Innovator Excellence Award, Intel, 2019</h3>
@@ -24,7 +25,7 @@ permalink: /awards/
 </div>
 </div>
 
-<div class="talk-item">
+<div class="talk-item" style="color: #1B1212;">
   <img src="../images/DevMesh Award.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>DevMesh AI Spotlight Award, 2019</h3>
@@ -33,7 +34,7 @@ permalink: /awards/
 </div>
 </div>
 
-<div class="talk-item">
+<div class="talk-item" style="color: #1B1212;">
   <img src="../images/Intel Innovator.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Top Innovator Award, Intel, 2019</h3>
@@ -42,7 +43,7 @@ permalink: /awards/
 </div>
 </div>
 
-<div class="talk-item">
+<div class="talk-item" style="color: #1B1212;">
   <img src="../images/Citizenship_Award.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Citizenship Award (5 Years), P360, 2023</h3>
@@ -51,7 +52,7 @@ permalink: /awards/
 </div>
 </div>
 
-<div class="talk-item">
+<div class="talk-item" style="color: #1B1212;">
   <img src="../images/Global_AI_Hub.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Thought Leader (Artificial Intelligence), Global AI Hub, 2022</h3>
@@ -60,8 +61,7 @@ permalink: /awards/
 </div>
 </div>
 
-<div class="talk-container">
-<div class="talk-item">
+<div class="talk-item" style="color: #1B1212;">
   <img src="../images/Dewang_Mehta.png" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Dewang Mehta Excellence Award, 2016</h3>
@@ -70,7 +70,7 @@ permalink: /awards/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/CodeByte.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Codebites2 - Programming and Coding Competition, 2018</h3>

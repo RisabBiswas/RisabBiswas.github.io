@@ -18,7 +18,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/AKSC.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Advancements in Data Science and Machine Learning, AKPESSC'20</h3>
@@ -28,7 +28,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/Sixth_Sense_ViT.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Guest Speaker at Gravitas'20, VIT University</h3>
@@ -38,7 +38,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/ICAN 2020.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Paper Presentation at ICAN 2020</h3>
@@ -47,7 +47,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/ICIMSAT.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Paper Presentation at ICISMAST 2019</h3>
@@ -57,7 +57,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/ThinkAI.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Invited Speaker at IEEE Machine Learning Summit'19</h3>
@@ -66,7 +66,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/IMG_016.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Lecture at Sixth Summer School on Computer Vision, Graphics and Image Processing at ISI, Kolkata</h3>
@@ -75,7 +75,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/NIT_Durgapur.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>AI Meetup and Project Demonstartion at NIT, Durgapur</h3>
@@ -84,7 +84,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/IITK.JPG" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Deep Learning and Computer Vision on Edge Devices at IIT Kanpur, India</h3>
@@ -93,7 +93,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/IIT_BHU.JPG" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Introduction to Edge Deployment for Computer Vision Models at IIT BHU, India</h3>
@@ -102,7 +102,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/NIT_Rourkela.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Real-Time Object Detection with Edge Inference at NIT Rourkela, India</h3>
@@ -111,7 +111,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
     <img src="../images/SIT_28-Aug-2018.JPG" alt="Talk 1" class="talk-image">
     <div class="talk-details">
       <h3>Introduction to Machine Learning Algorithms</h3>
@@ -120,7 +120,7 @@ permalink: /talks/
     </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
     <img src="../images/SMIT.JPG" alt="Talk 2" class="talk-image">
     <div class="talk-details">
       <h3>AI on Cloud and Edge Devices</h3>
@@ -129,7 +129,7 @@ permalink: /talks/
     </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
     <img src="../images/1.jpg" alt="Talk 1" class="talk-image">
     <div class="talk-details">
       <h3>One Day Seminar on Machine Learning</h3>
@@ -138,7 +138,7 @@ permalink: /talks/
     </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
     <img src="../images/SIT_15th_Sep_2018.jpeg" alt="Talk 2" class="talk-image">
     <div class="talk-details">
       <h3>Introduction to AI/ML</h3>
@@ -147,7 +147,7 @@ permalink: /talks/
     </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
     <img src="../images/SIT_5-Nov-2018.JPG" alt="Talk 1" class="talk-image">
     <div class="talk-details">
       <h3>Introduction to Deep Learning and Computer Vision for Robotics</h3>
@@ -156,7 +156,7 @@ permalink: /talks/
     </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/IMG_5832.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Hands on Workshop on Computer Vision and Intel OpenVino Toolkit</h3>
@@ -165,7 +165,7 @@ permalink: /talks/
   </div>
   </div>
 
-  <div class="talk-item">
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/Img_010.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Optimizing Computer Vision Applications using Intel® Distribution of OpenVINO Toolkit</h3>
