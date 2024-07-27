@@ -52,7 +52,7 @@ permalink: /talks/
   <div class="talk-details">
     <h3>Paper Presentation at ICISMAST 2019</h3>
     <p><strong>Date:</strong> Sep. 20, 2019</p>
-    <p>Presented our paper at <a href = "https://link.springer.com/book/10.1007/978-3-030-42363-6" style="color: #2985d8; text-decoration: none;">ICIMSAT 2019</a>, First International Conference on Innovations in Modern Science and Technology (ICIMSAT2019), held in Siliguri, India</a>. 
+    <p>Presented our paper at <a href = "https://link.springer.com/book/10.1007/978-3-030-42363-6" style="color: #2985d8; text-decoration: none;">ICIMSAT 2019</a>, First International Conference on Innovations in Modern Science and Technology (ICIMSAT2019), held in Siliguri, India. 
  </p>
   </div>
   </div>
