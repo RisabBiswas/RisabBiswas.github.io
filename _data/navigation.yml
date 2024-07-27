@@ -12,8 +12,8 @@ main:
     url: /talks/  
   # - title: "Hackathons"
   #   url: /hackathons/ 
-  # - title: "Awards and Honors"
-  #   url: /awards/
+  - title: "Awards and Honors"
+    url: /awards/
   # - title: "Community"
   #   url: /community/  
   # - title: "Mentorship"
