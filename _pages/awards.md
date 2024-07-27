@@ -4,7 +4,16 @@ title: Awards and Honours
 author_profile: true
 permalink: /awards/
 ---
-<p style="font-size: 14px; color: #1B1212">In my journey so far, I have been fortunate to be awarded and recognized for my work in the field of machine learning and computer vision. I am humbled by these honors, and these are a testament to my dedication and passion for the field. But, these accolades are not the end goal of my work. Each award serves as a milestone, reminding me that the true reward lies in the continuous quest for learning, innovation, and improvement!</p>
+<p style="font-size: 14px; color: #1B1212">In my journey so far, I have been fortunate to be awarded and recognized for my work in the field of machine learning and computer vision. I am humbled by these honors, and these are a testament to my dedication and passion for the field. But, these accolades are not the end goal of my work. Each award serves as a milestone, reminding me that the true reward lies in the continuous quest for learning, innovation, and improvement!</p> 
+
+<div class="talk-item">
+  <img src="../images/Best Paper.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Best Paper Presentation Award, ICAN, 2020</h3>
+    <p>I was honoured to recieve the “Best Paper Presentation Award” for the Track AI, Machine Learning and their Applications at the Indo-Taiwan IEEE Sponsored Conference on Analytics, Computing and Networking (ICAN 2020).
+</p>
+</div>
+</div>
 
 <div class="talk-item">
   <img src="../images/4G8A1811.JPG" alt="Talk 1" class="talk-image">
@@ -64,7 +73,7 @@ permalink: /awards/
   <div class="talk-item">
   <img src="../images/CodeByte.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
-    <h3>CodeBites2 - Programming and Coding Competition, 2018</h3>
+    <h3>Codebites2 - Programming and Coding Competition, 2018</h3>
     <p>Runner-Up and Best Effort Final Year at Code Bites2: Coding Challenge, by <a href = "https://www.sittechno.org/computer-engineer-s-society-computer-science-engineering.html" style="color: #2985d8; text-decoration: none;">Computer Engineers Society, SIT</a> 2018.
 </p>
   </div>
