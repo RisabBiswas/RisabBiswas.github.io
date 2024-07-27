@@ -18,7 +18,7 @@ permalink: /awards/
   <img src="../images/Dewang_Mehta.png" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Dewang Mehta Excellence Award, 2016</h3>
-    <p>Awarded<a href = "https://inspiria.edu.in/inspiria-proud-host-inaugural-dewang-mehta-excellence-award-north-bengal/" style="color: #2985d8; text-decoration: none;"> Dewang Mehta Excellence Award by Mr Krishnakumar Natarajan</a> ,Executive Chairman, MindTree, 2016, for outstanding academic performance during my undergraduate studies.
+    <p>Awarded<a href = "https://inspiria.edu.in/inspiria-proud-host-inaugural-dewang-mehta-excellence-award-north-bengal/" style="color: #2985d8; text-decoration: none;"> Dewang Mehta Excellence Award</a> by Mr Krishnakumar Natarajan, Executive Chairman, MindTree, 2016, for outstanding academic performance during my undergraduate studies.
 </p>
   </div>
   </div>
