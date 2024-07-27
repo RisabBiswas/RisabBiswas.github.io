@@ -4,11 +4,13 @@ title: Awards and Honours
 author_profile: true
 permalink: /awards/
 ---
+<p style="font-size: 14px; color: #1B1212">In my journey so far, I have been fortunate to be awarded and recognized for my work in the field of machine learning and computer vision. I am humbled by these honors, and these are a testament to my dedication and passion for the field. But, these accolades are not the end goal of my work. Each award serves as a milestone, reminding me that the true reward lies in the continuous quest for learning, innovation, and improvement!</p>
+
 <div class="talk-item">
   <img src="../images/4G8A1811.JPG" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Innovator Excellence Award, Intel, 2019</h3>
-    <p>I was awarded <a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> Top Innovator Award</a> in 2019 by Intel, for mu contributions to open source and research in Deep Learning and Comuter Vision.</a>
+    <p>I was awarded the "Innovator Excellence Award" at the Intel SA & Innovator Summit 2019 - Asia Pacific and Japan, by Intel, for my contributions to open source and research in Deep Learning and Computer Vision.
 </p>
 </div>
 </div>
@@ -17,7 +19,7 @@ permalink: /awards/
   <img src="../images/DevMesh Award.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>DevMesh AI Spotlight Award, 2019</h3>
-    <p>Awarded<a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> DevMesh AI Spotlight Award</a> in 2019 by Intel, for the project <a href = "Identification of Pathological Disease in Plants" style="color: #2985d8; text-decoration: none;"> Identification of Pathological Disease in Plants.</a>
+    <p>I was awarded<a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> DevMesh AI Spotlight Award</a> in 2019 by Intel, for the project <a href = "Identification of Pathological Disease in Plants" style="color: #2985d8; text-decoration: none;"> Identification of Pathological Disease in Plants.</a>
 </p>
 </div>
 </div>
@@ -26,7 +28,7 @@ permalink: /awards/
   <img src="../images/Intel Innovator.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Top Innovator Award, Intel, 2019</h3>
-    <p>I was awarded <a href = "https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners" style="color: #2985d8; text-decoration: none;"> Top Innovator Award</a> in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence.</a>
+    <p>I was awarded Top Innovator Award in 2019 by Intel, for showcasing outstanding innovation and proof of concept development in the field of Artificial Intelligence.</a>
 </p>
 </div>
 </div>
@@ -54,7 +56,7 @@ permalink: /awards/
   <img src="../images/Dewang_Mehta.png" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Dewang Mehta Excellence Award, 2016</h3>
-    <p>Awarded<a href = "https://inspiria.edu.in/inspiria-proud-host-inaugural-dewang-mehta-excellence-award-north-bengal/" style="color: #2985d8; text-decoration: none;"> Dewang Mehta Excellence Award</a> by <a href = "https://en.wikipedia.org/wiki/Krishnakumar_Natarajan" style="color: #2985d8; text-decoration: none;"> Mr. Krishnakumar Natarajan</a>, Co-Founder and Executive Chairman, MindTree, 2016, for outstanding academic performance during my undergraduate studies.
+    <p>I was awarded<a href = "https://inspiria.edu.in/inspiria-proud-host-inaugural-dewang-mehta-excellence-award-north-bengal/" style="color: #2985d8; text-decoration: none;"> Dewang Mehta Excellence Award</a> by <a href = "https://en.wikipedia.org/wiki/Krishnakumar_Natarajan" style="color: #2985d8; text-decoration: none;"> Mr. Krishnakumar Natarajan</a>, Co-Founder and Executive Chairman, MindTree, 2016, for outstanding academic performance during my undergraduate studies.
 </p>
   </div>
   </div>
