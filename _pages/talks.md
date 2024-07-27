@@ -45,6 +45,15 @@ permalink: /talks/
   </div>
 
   <div class="talk-item">
+  <img src="../images/IIT_BHU.JPG" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Introduction to Edge Deployment for Computer Vision Models at IIT BHU, India</h3>
+    <p><strong>Date:</strong> Sep. 22, 2019</p>
+    <p>One day seminar at the <a href = "https://www.iitbhu.ac.in/dept/cse" style="color: #2985d8; text-decoration: none;">Dept. of Computer Science and Eng.</a> at the <a href = "https://www.iitbhu.ac.in/" style="color: #2985d8; text-decoration: none;">Indian Institute of Technology Kanpur (IIT-K), India</a>. The session covered how to deploy and do real-time inference on edge devices. I discussed an overview of edge computing and its benefits for CV applications, challenges of deploying CV models on edge devices, including computational and memory constraints.</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
     <img src="../images/SIT_28-Aug-2018.JPG" alt="Talk 1" class="talk-image">
     <div class="talk-details">
       <h3>Introduction to Machine Learning Algorithms</h3>
