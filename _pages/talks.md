@@ -9,83 +9,11 @@ permalink: /talks/
 <div class="talk-container">
 
   <div class="talk-item">
-    <img src="../images/1.jpg" alt="Talk 1" class="talk-image">
-    <div class="talk-details">
-      <h3>One Day Seminar on Machine Learning</h3>
-      <p><strong>Date:</strong> Mar. 8, 2018</p>
-      <p>My first seminar, given to the undergradute students at the <a href="https://www.sittechno.org/electronics-communication-engineering-engineering-technology.html" style="color: #2985d8; text-decoration: none;">Department of Electronics and Communication Eng., Siliguri Institute of Technology</a> on "Introduction to Machine Learning". First Session was more on Understanding and Getting used to the Things that included setting up the environments. Second Session was Hands on Demo followed by Discussion and QnA.</p>
-    </div>
-  </div>
-
-  <div class="talk-item">
-    <img src="../images/SIT_28-Aug-2018.JPG" alt="Talk 1" class="talk-image">
-    <div class="talk-details">
-      <h3>Introduction to Machine Learning Algorithms</h3>
-      <p><strong>Date:</strong> Aug. 1, 2018</p>
-      <p>Gave a one day talk on "Introduction to Machine Learning" at the Department of Computer Science, <a href="https://www.sittechno.org" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a>. Covered theoretical concepts on Supervised Learning, Regression Algorithms, Classification Algorithms, Unsupervised Modelling, followed by a hands on session using Python.</p>
-    </div>
-  </div>
-
-  <div class="talk-item">
-    <img src="../images/SIT_15th_Sep_2018.jpeg" alt="Talk 2" class="talk-image">
-    <div class="talk-details">
-      <h3>Introduction to AI/ML</h3>
-      <p><strong>Date:</strong> Aug. 28, 2018</p>
-      <p>I was invited as a guest speaker on "Introduction to AI/ML" at the <a href="https://www.sittechno.org/information-technology-engineering-technology.html" style="color: #2985d8; text-decoration: none;">Department of Information Technology, Siliguri Institute of Technology</a>. Topics covered were AI, Machine Learning, Computer Vision and Object Detection.</p>
-    </div>
-  </div>
-
-  <div class="talk-item">
-    <img src="../images/SMIT.JPG" alt="Talk 2" class="talk-image">
-    <div class="talk-details">
-      <h3>AI on Cloud and Edge Devices</h3>
-      <p><strong>Date:</strong> Nov. 12, 2018</p>
-      <p>I was invited as a guest speaker to deliver a talk on "AI on Cloud and Edge Devices" at <a href="https://smu.edu.in/smit.html/" style="color: #2985d8; text-decoration: none;">Sikkim Manipal Institute of Technology (SMIT)</a>, India.</p>
-    </div>
-  </div>
-
-  <div class="talk-item">
-    <img src="../images/SIT_5-Nov-2018.JPG" alt="Talk 1" class="talk-image">
-    <div class="talk-details">
-      <h3>Introduction to Deep Learning and Computer Vision for Robotics</h3>
-      <p><strong>Date:</strong> Nov. 5, 2018</p>
-      <p>I was invited as a guest speaker for taking a session on "Deep Learning and Computer Vision for Robotics" at <a href="https://www.sittechno.org" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a></p>
-    </div>
-  </div>
-
-  <div class="talk-item">
-  <img src="../images/NIT_Durgapur.jpeg" alt="Talk 1" class="talk-image">
-  <div class="talk-details">
-    <h3>AI Meetup and Project Demonstartion at NIT, Durgapur</h3>
-    <p><strong>Date:</strong> Mar. 14, 2018</p>
-    <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</p>
-  </div>
-  </div>
-
-  <div class="talk-item">
-  <img src="../images/IMG_5832.jpg" alt="Talk 1" class="talk-image">
-  <div class="talk-details">
-    <h3>Hands on Workshop on Computer Vision and Intel OpenVino Toolkit</h3>
-    <p><strong>Date:</strong> May. 25, 2019</p>
-    <p>I had the opportunity to conduct a hands on workshop on performing faster inference for computer vision applications using Intel Distribution of the OpenVino Toolkit. The event was organized in collaboration with GDG Siliguri.</p>
-  </div>
-  </div>
-
-  <div class="talk-item">
   <img src="../images/ThinkAI.jpg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Invited Speaker at IEEE Machine Learning Summit'19</h3>
     <p><strong>Date:</strong> Apr. 19, 2019</p>
     <p>I was honoured to be invited as a guest speaker at <a href = "https://ieee-ju.github.io/thinkai/index.html#" style="color: #2985d8; text-decoration: none;">ThinkAI</a> organized by <a href = "https://www.ieee-jaduniv.in/" style="color: #2985d8; text-decoration: none;">IEEE Student Chapter</a> at <a href = "https://jadavpuruniversity.in/" style="color: #2985d8; text-decoration: none;">Jadavpur University</a>. My topic of discussion was deep learning, computer vision and performing faster inference on low compute devices.</p>
-  </div>
-  </div>
-
-  <div class="talk-item">
-  <img src="../images/Img_010.jpeg" alt="Talk 1" class="talk-image">
-  <div class="talk-details">
-    <h3>Optimizing Computer Vision Applications using Intel® Distribution of OpenVINO Toolkit</h3>
-    <p><strong>Date:</strong> May. 25, 2019</p>
-    <p>I was invited as a guest speaker by <a href = "https://gdg.community.dev/gdg-siliguri/" style="color: #2985d8; text-decoration: none;">GDG Siliguri</a>. I had the chance to discuss how to train custom object detection model's using Tensorflow and showcased my projects at <a href = "https://inspiria.edu.in/" style="color: #2985d8; text-decoration: none;">Inspiria Knowledge Campus</a>.</p>
   </div>
   </div>
 
@@ -99,6 +27,15 @@ permalink: /talks/
   </div>
 
   <div class="talk-item">
+  <img src="../images/NIT_Durgapur.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>AI Meetup and Project Demonstartion at NIT, Durgapur</h3>
+    <p><strong>Date:</strong> Mar. 14, 2018</p>
+    <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
   <img src="../images/IITK.JPG" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Deep Learning and Computer Vision on Edge Devices at IIT Kanpur, India</h3>
@@ -106,6 +43,70 @@ permalink: /talks/
     <p>Invited as a guest lecturer at the <a href = "https://www.cse.iitk.ac.in/" style="color: #2985d8; text-decoration: none;">Dept. of Computer Science and Eng.</a> at the <a href = "https://www.iitk.ac.in/" style="color: #2985d8; text-decoration: none;">Indian Institute of Technology Kanpur (IIT-K), India</a>. I delivered a lecture on "Deep Learning and Computer Vision on Edge Devices" to graduate and undergraduate students.</p>
   </div>
   </div>
+
+  <div class="talk-item">
+    <img src="../images/SIT_28-Aug-2018.JPG" alt="Talk 1" class="talk-image">
+    <div class="talk-details">
+      <h3>Introduction to Machine Learning Algorithms</h3>
+      <p><strong>Date:</strong> Aug. 1, 2018</p>
+      <p>Gave a one day talk on "Introduction to Machine Learning" at the Department of Computer Science, <a href="https://www.sittechno.org" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a>. Covered theoretical concepts on Supervised Learning, Regression Algorithms, Classification Algorithms, Unsupervised Modelling, followed by a hands on session using Python.</p>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <img src="../images/SMIT.JPG" alt="Talk 2" class="talk-image">
+    <div class="talk-details">
+      <h3>AI on Cloud and Edge Devices</h3>
+      <p><strong>Date:</strong> Nov. 12, 2018</p>
+      <p>I was invited as a guest speaker to deliver a talk on "AI on Cloud and Edge Devices" at <a href="https://smu.edu.in/smit.html/" style="color: #2985d8; text-decoration: none;">Sikkim Manipal Institute of Technology (SMIT)</a>, India.</p>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <img src="../images/1.jpg" alt="Talk 1" class="talk-image">
+    <div class="talk-details">
+      <h3>One Day Seminar on Machine Learning</h3>
+      <p><strong>Date:</strong> Mar. 8, 2018</p>
+      <p>My first seminar, given to the undergradute students at the <a href="https://www.sittechno.org/electronics-communication-engineering-engineering-technology.html" style="color: #2985d8; text-decoration: none;">Department of Electronics and Communication Eng., Siliguri Institute of Technology</a> on "Introduction to Machine Learning". First Session was more on Understanding and Getting used to the Things that included setting up the environments. Second Session was Hands on Demo followed by Discussion and QnA.</p>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <img src="../images/SIT_15th_Sep_2018.jpeg" alt="Talk 2" class="talk-image">
+    <div class="talk-details">
+      <h3>Introduction to AI/ML</h3>
+      <p><strong>Date:</strong> Aug. 28, 2018</p>
+      <p>I was invited as a guest speaker on "Introduction to AI/ML" at the <a href="https://www.sittechno.org/information-technology-engineering-technology.html" style="color: #2985d8; text-decoration: none;">Department of Information Technology, Siliguri Institute of Technology</a>. Topics covered were AI, Machine Learning, Computer Vision and Object Detection.</p>
+    </div>
+  </div>
+
+  <div class="talk-item">
+    <img src="../images/SIT_5-Nov-2018.JPG" alt="Talk 1" class="talk-image">
+    <div class="talk-details">
+      <h3>Introduction to Deep Learning and Computer Vision for Robotics</h3>
+      <p><strong>Date:</strong> Nov. 5, 2018</p>
+      <p>I was invited as a guest speaker for taking a session on "Deep Learning and Computer Vision for Robotics" at <a href="https://www.sittechno.org" style="color: #2985d8; text-decoration: none;">Siliguri Institute of Technology</a></p>
+    </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/IMG_5832.jpg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Hands on Workshop on Computer Vision and Intel OpenVino Toolkit</h3>
+    <p><strong>Date:</strong> May. 25, 2019</p>
+    <p>I had the opportunity to conduct a hands on workshop on performing faster inference for computer vision applications using Intel Distribution of the OpenVino Toolkit. The event was organized in collaboration with GDG Siliguri.</p>
+  </div>
+  </div>
+
+  <div class="talk-item">
+  <img src="../images/Img_010.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Optimizing Computer Vision Applications using Intel® Distribution of OpenVINO Toolkit</h3>
+    <p><strong>Date:</strong> May. 25, 2019</p>
+    <p>I was invited as a guest speaker by <a href = "https://gdg.community.dev/gdg-siliguri/" style="color: #2985d8; text-decoration: none;">GDG Siliguri</a>. I had the chance to discuss how to train custom object detection model's using Tensorflow and showcased my projects at <a href = "https://inspiria.edu.in/" style="color: #2985d8; text-decoration: none;">Inspiria Knowledge Campus</a>.</p>
+  </div>
+  </div>
+
 </div>
 
 <style>
