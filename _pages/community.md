@@ -11,7 +11,7 @@ author_profile: true
         <li><a href="https://drive.google.com/file/d/1l_L1UVTBUMRBYmjxDohBHnSM1K01qvXQ/view?usp=sharing">Intel OneAPI Innovator.</a></li>
     </ul>
 
-    <h3 style="margin-top: 20px;">Academic Services:</h3>
+<h3 style="margin-top: 20px;">Academic Services:</h3>
     <div class="research-interest">
         <ul style="margin: 0; padding-left: 20px; list-style-type: none;">
             <li style="font-style: italic;">Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</li>
