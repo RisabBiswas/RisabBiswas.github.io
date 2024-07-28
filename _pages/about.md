@@ -97,6 +97,10 @@ redirect_from:
       My research interest broadly includes <strong>Computer Vision, Vision and Language Modalities, Self-Supervised and Semi-Supervised Learning and Natural Language Understanding.</strong> During my master's I worked on multiple research projects on effective and efficient document image enhancement with <a href="https://scholar.google.com/citations?user=1WVrFGwAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Swalpa Kumar Roy</a>, <a href="https://scholar.google.com/citations?user=2_z_CogAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Umapada Pal</a> and <a href="https://scholar.google.com.sg/citations?user=LhSqQCIAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Guang-Bin Huang</a>. I also worked in Medical Imaging with <a href="https://chaitanya-kaul.github.io/" style="color: #2985d8; text-decoration: none;">Dr. Chaitanya Kaul</a> during my master's thesis. My recent research articles can be found in the <a href="/publications/" style="color: #2985d8; text-decoration: none;">Research</a> section. Please see the <a href="/cv/" style="color: #2985d8; text-decoration: none;">Profile</a> section to know more about my Education, Skills and Experiences.
   </div><br>
 
+### Academic Services:
+- Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)
+- Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)
+
   <p style="font-size: 14px;"><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
 
   <h3 style="text-decoration: underline;">Updates:</h3>

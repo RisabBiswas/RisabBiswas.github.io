@@ -2,5 +2,14 @@
 permalink: /community/
 author_profile: true
 ---
-<p style="font-size: 15px;">Apart from my job and research, I have been actively involved in the community.</p>
-Since 2018, I have been a part of the <a href="https://devmesh.intel.com/users/risab-biswas">Intel Innovator's Program</a>. I was recognized as the top innovator in 2019 for my community contributions and research projects. In 2020, I was awarded the first <a href="https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners">Intel DevMesh AI Spotlight Award</a>. I have received multiple hardware and monetary grants from Intel under their Early Innovation Challenge to support my research projects. I was also a co-organizer (Feb 2019 - June 2020) in the <a href="https://gdg.community.dev/gdg-siliguri/">Google Developer Group</a>, Siliguri.
+<p style="font-size: 15px;">I have been actively involved in the community since my undergraduate days. From volunteering in the technical events to organizing and presenting at conferences, I have always enjoyed interacting with fellow developers and have contributed in open source by sharing my knowledge. I have held multiple positions in community and academic services:
+
+- <a href="https://devmesh.intel.com/users/risab-biswas">Became an Intel Software Innovator.</a>
+- Co-Organizer - Google Developer Group, Siliguri, India. 
+- <a href="https://drive.google.com/file/d/1PUviI2FxtV-mfRT5WPlbyiWEuP_amjg2/view?usp=sharing">Intel IoT Innovator's Board Member.</a>
+- <a href="https://drive.google.com/file/d/1l_L1UVTBUMRBYmjxDohBHnSM1K01qvXQ/view?usp=sharing">Intel OneAPI Innovator.</a>
+
+### Academic Services:
+- Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)
+- Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)
+</p>
