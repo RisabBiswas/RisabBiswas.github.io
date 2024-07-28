@@ -85,7 +85,7 @@ permalink: /talks/
   </div>
 
   <div class="talk-item" style="color: #1B1212;">
-  <img src="../images/BCRoy.jpeg" alt="Talk 1" class="talk-image">
+  <img src="../images/002.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>Deep Learning and Computer Vision on Edge Devices</h3>
     <p><strong>Date:</strong> Mar. 23, 2019</p>
