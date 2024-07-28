@@ -19,13 +19,17 @@ author_profile: true
         </ul>
     </div>
 </div>
-`
+
 <div style="font-size: 14px">
 <h3 style="margin-top: 20px;">Media Coverage:</h3>
 <p style="font-size: 14px; color: #1B1212">My work has gained attention from various international media outlets, highlighting the impact and significance of the research and projects I've been involved in. Notable mentions include:</p>
 <ul style="margin: 0; padding-left: 20px; color: #1B1212">
-    <li><a href="https://cio.economictimes.indiatimes.com/news/strategy-and-management/developers-are-solving-earths-biggest-challenges-with-intels-ai-tools/69026129" style="color: #2985d8; text-decoration: none;">Developers are solving earth’s biggest challenges with Intel’s AI tools</a>, May. 2019</li>
+    <li><a href="https://cio.economictimes.indiatimes.com/news/strategy-and-management/developers-are-solving-earths-biggest-challenges-with-intels-ai-tools/69026129" style="color: #2985d8; text-decoration: none;">Developers are solving earth’s biggest challenges with Intel’s AI tools</a></li>
+    <li><a href="https://www.livemint.com/technology/tech-news/how-developers-are-using-intel-s-ai-tools-to-make-planet-earth-a-better-place-1555990965592.html" style="color: #2985d8; text-decoration: none;">How developers are using Intel’s AI tools to make planet Earth a better place</a></li>
     <li><a href="https://www.greenbiz.com/article/how-novozymes-and-intel-use-citizen-scientists" style="color: #2985d8; text-decoration: none;">How Novozymes and Intel use citizen scientists</a></li>
+    <li><a href="https://futurefive.co.nz/story/developers-use-intel-ai-to-solve-some-of-the-world-s-biggest-challenges" style="color: #2985d8; text-decoration: none;">Developers use Intel AI to solve some of the world’s biggest challenges</a></li>
+    <li><a href="https://x.com/intelnews/status/1120366494481649672" style="color: #2985d8; text-decoration: none;">Intel Earth Day</a></li>
+    <li><a href="https://x.com/intel/status/1242443624907972609" style="color: #2985d8; text-decoration: none;">World Agriculture Day</a></li>
 </ul>
 </div>
 
