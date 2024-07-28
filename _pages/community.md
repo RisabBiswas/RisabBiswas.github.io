@@ -21,8 +21,8 @@ author_profile: true
 </div>
 
 <div>
-<h2>Media Coverage</h2>
-<p>My work has garnered attention from various international media outlets, highlighting the impact and significance of the research and projects I've been involved in. Notable mentions include:</p>
+<h3 style="margin-top: 20px;">Academic Services:</h3>
+<p style="font-size: 14px; color: #1B1212">My work has garnered attention from various international media outlets, highlighting the impact and significance of the research and projects I've been involved in. Notable mentions include:</p>
 <ul style="margin: 0; padding-left: 20px; color: #1B1212">
     <li><a href="https://cio.economictimes.indiatimes.com/news/strategy-and-management/developers-are-solving-earths-biggest-challenges-with-intels-ai-tools/69026129" style="color: #2985d8; text-decoration: none;">Developers are solving earth’s biggest challenges with Intel’s AI tools</a>, May. 2019</li>
     <li><a href="https://www.greenbiz.com/article/how-novozymes-and-intel-use-citizen-scientists" style="color: #2985d8; text-decoration: none;">How Novozymes and Intel use citizen scientists</a></li>
