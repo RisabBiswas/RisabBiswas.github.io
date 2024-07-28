@@ -79,8 +79,17 @@ permalink: /talks/
   <img src="../images/NIT_Durgapur.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>AI Meetup and Project Demonstartion at NIT, Durgapur</h3>
-    <p><strong>Date:</strong> Mar. 14, 2018</p>
+    <p><strong>Date:</strong> Mar. 14, 2019</p>
     <p>I had the opportunity to present and discuss my plant disease detection project and talk about computer vision at the <a href="https://nitdgp.ac.in/" style="color: #2985d8; text-decoration: none;">National Institute of Technology (NIT), Durgapur</a>, where I showcased my project and discussed recent advancements in computer vision. The event was a vibrant platform for exchanging ideas and showcasing cutting-edge solutions.</p>
+  </div>
+  </div>
+
+  <div class="talk-item" style="color: #1B1212;">
+  <img src="../images/BCRoy.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Deep Learning and Computer Vision on Edge Devices</h3>
+    <p><strong>Date:</strong> Mar. 23, 2019</p>
+    <p>I was invited to give a talk on "Deep Learning and Computer Vision on Edge Devices" and show use cases at the Department of Computer Science and Eng., at the <a href="https://bcrec.ac.in/" style="color: #2985d8; text-decoration: none;">Dr. B. C. Roy Engineering College</a>, Durgapur.</p>
   </div>
   </div>
 

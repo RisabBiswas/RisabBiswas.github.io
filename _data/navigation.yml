@@ -12,8 +12,8 @@ main:
     url: /awards/
   - title: "Talks"
     url: /talks/
-  # - title: "Community"
-  #   url: /community/  
+  - title: "Community"
+    url: /community/  
   # - title: "Mentorship"
   #   url: /mentorship/
   # - title: "Media"
