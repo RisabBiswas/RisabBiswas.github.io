@@ -1,2 +1,6 @@
+---
+permalink: /community/
+author_profile: true
+---
 <p style="font-size: 15px;">Apart from my job and research, I have been actively involved in the community.</p>
 Since 2018, I have been a part of the <a href="https://devmesh.intel.com/users/risab-biswas">Intel Innovator's Program</a>. I was recognized as the top innovator in 2019 for my community contributions and research projects. In 2020, I was awarded the first <a href="https://devmesh.intel.com/posts/638312/congrats-to-our-devmesh-spotlight-award-winners">Intel DevMesh AI Spotlight Award</a>. I have received multiple hardware and monetary grants from Intel under their Early Innovation Challenge to support my research projects. I was also a co-organizer (Feb 2019 - June 2020) in the <a href="https://gdg.community.dev/gdg-siliguri/">Google Developer Group</a>, Siliguri.
