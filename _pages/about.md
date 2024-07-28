@@ -103,12 +103,12 @@ redirect_from:
 </div><br>
 
 <h2>Academic Services</h2>
-<div class="research-interest">
-  <ul>
-    <li>Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</li>
-    <li>Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)</li>
+<div class="research-interest" style="margin-bottom: 0;">
+  <ul style="margin-bottom: 0;">
+    <li><i>Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</i></li>
+    <li><i>Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)</i></li>
   </ul>
-</div><br>
+</div>
 
   <p style="font-size: 14px;"><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
 
