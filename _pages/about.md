@@ -68,6 +68,7 @@ redirect_from:
     background-color: #d0d0d0; /* Deeper grey on hover */
   }
 </style>
+<p style="font-size: 15px;">Bio</p>
 <div class="content-container">
   <p style="font-size: 14px;">I am currently working as the Principal AI Engineer at <a href="https://www.p360.com/" style="color: #2985d8; text-decoration: none;">P360</a>, building <a href="https://www.p360.com/edenhelp/" style="color: #2985d8; text-decoration: none;">EdenHelp</a> and <a href="https://www.p360.com/birdzai/" style="color: #2985d8; text-decoration: none;">BirdzAI</a>. I joined P360 in February 2018 as a founding Data Scientist. As an AI Engineer at P360, I have the fortune of working across diverse areas of Machine Learning and Statistical Modelling including Natural Language Processing, LLMs, Retrieval-Augmented Generation for Conversational AI, Time Series Forecasting, Optimization techniques, and Predictive modelling within the healthcare industry.</p>
 
