@@ -9,6 +9,16 @@ permalink: /talks/
 <div class="talk-container">
 
   <div class="talk-item" style="color: #1B1212;">
+  <img src="../images/ICVGIP.jpeg" alt="Talk 1" class="talk-image">
+  <div class="talk-details">
+    <h3>Paper Presentation at ICVGIP 2023, IIT Ropar</h3>
+    <p><strong>Date:</strong> Dec. 16, 2023</p>
+    <p>Presented our paper at the <a href = "https://www.iitrpr.ac.in/ICVGIP/" style="color: #2985d8; text-decoration: none;"> ICVGIP 2023</a> at  <a href = "https://www.iitrpr.ac.in/" style="color: #2985d8; text-decoration: none;"> IIT Ropar, India</a>. The Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) is India’s premier conference in Computer Vision, Graphics, Image Processing and related fields. Starting in 1998, it was a biennial international conference till 2021, providing a forum for the presentation of technological advances and research findings in these areas.
+</p>
+  </div>
+  </div>
+
+  <div class="talk-item" style="color: #1B1212;">
   <img src="../images/Hack_Club.jpeg" alt="Talk 1" class="talk-image">
   <div class="talk-details">
     <h3>How to become a Data Scientist?</h3>
