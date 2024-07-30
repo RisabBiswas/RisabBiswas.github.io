@@ -72,7 +72,7 @@ redirect_from:
   - Worked on Call Planning Optimization using Ensembled Classification Algorithm and Propensity Scoring.<br>
   - Worked on creating an algorithm for Detecting Acquired Blepharoptosis in Human Eye using Facial Landmark tracking and Deep Neural Networks.<br>
   - Built Marketing Mix Model for better Omnichannel and Customer Engagement – Panel Data Regression for Time Series Forecasting using linear models.<br>
-  - Built Physician Segmentation Model using unsupervised techniques to do Customer Profiling in real-time – Unsupervised Modelling.
+  - Built Physician Segmentation Model using unsupervised techniques to do Customer Profiling in real-time.
 </p>
 
 <p style="font-size: 14px; color: #1B1212">
