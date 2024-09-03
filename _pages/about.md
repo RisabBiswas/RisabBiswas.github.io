@@ -105,8 +105,9 @@ redirect_from:
   <h2>Academic Services</h2>
   <div class="research-interest" style="margin-bottom: 0;">
     <ul style="margin-bottom: 0;">
-      <li><i>Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</i></li>
       <li><i>Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)</i></li>
+      <li><i>Reviewer for IEEE Transactions on Artificial Intelligence (Sep. '24 - Present)</i></li>
+      <li><i>Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</i></li>
     </ul>
   </div><br>
 
@@ -114,6 +115,7 @@ redirect_from:
 
   <h3 style="text-decoration: underline;">Updates:</h3>
   <ul class="updates-list">
+    <li><strong>[Sep. 2024]</strong> Serving as a reviewers for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688" style="color: #2985d8; text-decoration: none;">IEEE Transactions on Artificial Intelligence</a>!</li>
     <li><strong>[May. 2024]</strong> Graduated with an M.Tech in Data Science and Engineering from <a href="https://www.bits-pilani.ac.in/" style="color: #2985d8; text-decoration: none;">BITS Pilani, India</a>!</li>
     <li><strong>[Apr. 2024]</strong> Promoted from Tech Lead to Principal AI Engineer at <a href="https://www.p360.com/leadership/" style="color: #2985d8; text-decoration: none;">P360</a>. Excited for the new role!</li>
     <li><strong>[Mar. 2024]</strong> Successfully defended my <a href="https://arxiv.org/pdf/2406.03173" style="color: #2985d8; text-decoration: none;">Master's Thesis</a>.</li>
