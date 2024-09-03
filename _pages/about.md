@@ -105,8 +105,8 @@ redirect_from:
   <h2>Academic Services</h2>
   <div class="research-interest" style="margin-bottom: 0;">
     <ul style="margin-bottom: 0;">
-      <li><i>Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)</i></li>
       <li><i>Reviewer for IEEE Transactions on Artificial Intelligence (Sep. '24 - Present)</i></li>
+      <li><i>Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)</i></li>
       <li><i>Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</i></li>
     </ul>
   </div><br>
