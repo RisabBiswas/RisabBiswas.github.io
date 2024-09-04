@@ -14,7 +14,7 @@ author_profile: true
 <h3 style="margin-top: 20px;">Academic Services:</h3>
     <div class="research-interest">
         <ul style="margin: 0; padding-left: 20px; list-style-type: none;">
-            <li><i>Reviewer for IEEE Transactions on Artificial Intelligence (Sep. '24 - Present)</i></li>
+            <li style="font-style: italic;">- Reviewer for IEEE Transactions on Artificial Intelligence (Sep. '24 - Present)</li>
             <li style="font-style: italic;">- Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</li>
             <li style="font-style: italic;">- Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)</li>
         </ul>
