@@ -102,14 +102,15 @@ redirect_from:
     My research interest broadly includes <strong>Computer Vision, Multi-Modal Learning (Vision + X), Self-Supervised and Semi-Supervised Learning, Domain Adaptation and Generative AI (LLMs and Diffusion/Text to Video Models).</strong> During my master's, I worked on multiple research projects on effective and efficient document image enhancement with <a href="https://scholar.google.com/citations?user=1WVrFGwAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Swalpa Kumar Roy</a>, <a href="https://scholar.google.com/citations?user=2_z_CogAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Umapada Pal</a>, and <a href="https://scholar.google.com.sg/citations?user=LhSqQCIAAAAJ&hl=en" style="color: #2985d8; text-decoration: none;">Prof. Guang-Bin Huang</a>. I also worked in Medical Imaging with <a href="https://chaitanya-kaul.github.io/" style="color: #2985d8; text-decoration: none;">Dr. Chaitanya Kaul</a> during my master's thesis. My recent research articles can be found in the <a href="/publications/" style="color: #2985d8; text-decoration: none;">Research</a> section. Please see the <a href="/cv/" style="color: #2985d8; text-decoration: none;">Profile</a> section to know more about my Education, Skills, and Experiences.
   </div>
 
-  <!-- <h2>Academic Services</h2>
+  <h2>Academic Services</h2>
   <div class="research-interest" style="margin-bottom: 0;">
-    <ul style="margin-bottom: 0;">
+    <!-- <ul style="margin-bottom: 0;">
       <li><i>Reviewer for IEEE Transactions on Artificial Intelligence (Sep. '24 - Present)</i></li>
       <li><i>Reviewer for Elsevier Journal of Computers in Biology and Medicine (Apr. '24 - Present)</i></li>
       <li><i>Reviewer for IEEE Transactions on Cybernetics (Oct. '23 - Present)</i></li>
-    </ul>
-  </div><br> -->
+    </ul> -->
+    Invited to Review at IEEE Transaction on Artificial Intelligence, Elsevier Journal of Computers in Biology and Medicine, IEEE Transaction on Cybernetics, Jordanian Journal of Computers and Information Technology.
+  </div><br>
 
   <p style="font-size: 14px;"><strong><em><u>Note - I am actively seeking a full time PhD position in Computer Vision and Deep Learning!</u></em></strong></p>
 
